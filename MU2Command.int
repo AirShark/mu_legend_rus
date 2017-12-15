@@ -1,0 +1,143 @@
+[Party]
+Invitation=/Invite
+Banishment=/Expel
+SuggestBanishment=/Propose Expulsion
+Withdraw=/Leave
+ChangeLeader=/Change Leader
+DivisionMode=/Distribution Mode
+Join=/Join
+
+[Chat]
+Normal=/Say
+Normal1=/s
+Normal2=/sa
+Normal3=/nor
+Whisper=/Whisper
+Whisper1=/w
+Whisper2=/whi
+Whisper3=/whi
+Shout=/Yell
+Shout1=/y
+Shout2=/yel
+Shout3=/area
+Shout4=/sht
+Party=/Party
+Party1=/p
+Party2=/par
+Raid=/e
+Raid1=/au
+Raid2=/atk
+Debiase=/Guild
+Debiase1=/g
+Debiase2=/gui
+Debiase3=/knt
+FindParty=/f
+FindParty1=/f
+Trade=/t
+Trade1=/t
+RespondWhisper=/r
+RespondWhisper1=/res
+Administrator=/total_notice
+Administrator1=/tn
+Administrator2=/local_notice
+Administrator3=/ln
+
+[Community]
+AddFriend=/Add Friend
+DelFriend=/Delete Friend
+AddBlock=/Add Block
+DelBlock=/Delete Block
+TestState=/Test Status
+TestClick=/Test Click
+TestSearch=/Test Search
+
+[OtehrCharacter]
+OtherCharInfo1=/Who
+OtherCharInfo2=/Info
+
+[PersonalTrade]
+Invited=/Trade
+
+[SocialAction]
+Emotion_Laugh=Laugh:
+Emotion_Laugh1=/laugh 3001 108
+Emotion_Laugh2=/haha 3001 108
+Emotion_Tear=Tears:
+Emotion_Tear1=/tears 3002 110
+Emotion_Tear2=/sad 3002 110
+Emotion_Provoke=Taunt:
+Emotion_Provoke1=/taunt 3014 112
+Emotion_Provoke2=/provoke 3014 112
+Emotion_Dance=Dance:
+Emotion_Dance1=/dance 3004 114
+Emotion_Dance2=/dancing 3004 114
+Emotion_Love=Love:
+Emotion_Love1=/love 3017 116
+Emotion_Love2=/xoxo 3017 116
+Emotion_Happy=Happy:
+Emotion_Happy1=/happy 3013 118
+Emotion_Happy2=/happiness 3013 118
+Emotion_Gird=Mock:
+Emotion_Gird1=/mock 3003 120
+Emotion_Gird2=/blame 3003 120
+Emotion_Charge=Charge:
+Emotion_Charge1=/charge 3016 122
+Emotion_Charge2=/rush 3016 122
+Emotion_Hello=Greet:
+Emotion_Hello1=/hello 3005 124
+Emotion_Hello2=/greet 3005 124
+Emotion_Sulk=Sulk:
+Emotion_Sulk1=/sulk 3018 126
+Emotion_Sulk2=/pout 3018 126
+Emotion_Applause=Clap:
+Emotion_Applause1=/clap 3006 128
+Emotion_Applause2=/claps 3006 128
+Emotion_Ask=Beg:
+Emotion_Ask1=/beg 3007 130
+Emotion_Ask2=/please 3007 130
+Emotion_Refuse=Decline:
+Emotion_Refuse1=/decline 3008 132
+Emotion_Refuse2=/no 3008 132
+Emotion_Thanks=Thanks:
+Emotion_Thanks1=/thanks 3009 134
+Emotion_Thanks2=/thank 3009 134
+Emotion_Sleep=Sleep:
+Emotion_Sleep1=/sleep 3010 136
+Emotion_Sleep2=/zzz 3010 136
+Emotion_Angry=Anger:
+Emotion_Angry1=/anger 3011 138
+Emotion_Angry2=/angry 3011 138
+Emotion_Despair=Despair:
+Emotion_Despair1=/despair 3012 140
+Emotion_Despair2=/desperate 3012 140
+Emotion_Talk=Chat:
+Emotion_Talk1=/chat 3015 142
+Emotion_Talk2=/talk 3015 142
+Emotion_Boring=Bored:
+Emotion_Boring1=/bored 3019 144
+Emotion_Boring2=/boring 3019 144
+Emotion_Fear=Fear:
+Emotion_Fear1=/fear 3020 146
+Emotion_Fear2=/terror 3020 146
+Emotion_Win=Victory:
+Emotion_Win1=/victory 3021 148
+Emotion_Win2=/glory 3021 148
+Emotion_Boo=Boo:
+Emotion_Boo1=/boo 3022 150
+Emotion_Boo2=/hoot 3022 150
+Emotion_Flex=Stretch:
+Emotion_Flex1=/stretch 3023 152
+Emotion_Flex2=/ready 3023 152
+Emotion_Shy=Shy:
+Emotion_Shy1=/shy 3024 154
+Emotion_Shy2=/blush 3024 154
+Emotion_Surprise=Shock:
+Emotion_Surprise1=/shock 3025 156
+Emotion_Surprise2=/trauma 3025 156
+Emotion_Salute=Salute:
+Emotion_Salute1=/salute 3026 158
+Emotion_Salute2=/attention 3026 158
+
+[Notice]
+Notice=[Notice]
+

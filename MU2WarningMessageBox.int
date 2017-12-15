@@ -1,0 +1,24 @@
+[Title]
+EscapePosition=Emergency Escape
+DeadMsg_Revive_Town=Resurrect in Town
+DeadMsg_Revive_Point_Same_Zone=Resurrect at Point
+DeadMsg_Revive_Point_Another_Zone=Resurrect at Point
+
+[SubTitle]
+EscapePosition=Return to the entrance to the current area.
+DeadMsg_Revive_Town=%s_1
+DeadMsg_Revive_Point_Same_Zone=%s_1
+DeadMsg_Revive_Point_Another_Zone=%s_1
+
+[Message]
+EscapePosition=Please use this command only if you are stuck in an inaccessible area.
+DeadMsg_Revive_Town=Return to town.
+DeadMsg_Revive_Point_Same_Zone=Resurrect at the checkpoint in the current area.
+DeadMsg_Revive_Point_Another_Zone=Resurrect at the checkpoint in a different area. Please be careful!
+
+[WaitTime]
+EscapePosition=20
+DeadMsg_Revive_Town=2
+DeadMsg_Revive_Point_Same_Zone=2
+DeadMsg_Revive_Point_Another_Zone=5
+

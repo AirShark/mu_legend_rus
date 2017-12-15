@@ -1,0 +1,86 @@
+[ClassName]
+DarkLord=Dark Lord
+Blader=Blader
+Warmage=War Mage
+Whisperer=Whisperer
+Emphasizer=Spellbinder
+
+[ClassDesc]
+DarkLord=A class with balanced offense and defense, based on its high health and defense. Specializes in powerful area attacks, and has the tactical role of protecting and boosting allies.
+Blader=Devastates enemies on the frontline with a combination of quick charge skills and various crowd control skills. High mobility allows the Blader to function as a melee attacker and a frontline tank.
+Warmage=Has relatively low health and defense, but can deliver the most powerful area attacks. Can be built in many ways, such as a mage-type using a staff or an assassin-type wielding a sword.
+Whisperer=Powerful ranged damage dealer with high mobility. Capable of employing a wide range of strategies, utilizing not only bows but also traps, smoke shells, and the power of nature.
+Emphasizer=Based on her ability to awaken a lost power to control objects and minds, a Spellbinder can freely manipulate weapons to make ranged attacks, immobilize or mind-control a small group of targets.
+
+[RaceName]
+Human=Human
+Elf=Elf
+Cantur=Kanturu
+Ashas=Ashas
+
+[RaceDesc]
+Human=Humans are the children of Passione, the god of passion, and the most wide-spread race on Earth with many different and distinct cultures.  The thing that allowed humans to become the dominant race on Earth was their progressive mindset that ensured they were never content and always advancing.  With tireless effort, humans continue in their endeavor to realize justice.
+Elf=Elves, the offspring of the god of wisdom, Sapientia, claimed themselves to be the successors.  The legacy they are preserving is the "balance" they were bestowed with by their ancestors and will pass on to their descendants.  They lived in harmony with nature, but recently they've observed, before anyone else, that an ominous dark energy was spreading all over Earth.  To fulfill their role as successors, they gave up their seclusion and stepped out from the forest.
+Cantur=The Kanturians are an ancient race and high-tech civilization shaped by Akeneria, the creator of the MU Continent.  Their empire once stretched across the MU Continent, but it fell during the Divine War,  and the few Kanturians who survived settled in border areas, living in seclusion and reminiscing about their bygone glory days.  They keep themselves away from the center of the continent, which is populated by lesser races such as Human, Elf, and Dwarf.
+Ashas=Ashas are a race that came to this world after their home world had fallen.  While not as advanced as the Humans or the Elves, the Ashas are capable of spiritual communications with their priests as their center. The entire race is the eyes and ears for their priests, and this ability has helped them protect their land and thrive despite their conflict with the elves.
+
+[CharacterGuide_DarkLord_0]
+Title=Command
+RecommendWeapon=Bludgeons and Shields
+RecommendAbility=Defense
+Desc=The Dark Lord took up the role of leading battles on the frontline. Various recovery and support skills allow him to maximize the combat efficiency of party members.
+
+[CharacterGuide_DarkLord_1]
+Title=Destruction
+RecommendWeapon=Two-handed Bludgeon
+RecommendAbility=Attack
+Desc=A type of Dark Lord that wields a two-handed club instead of a shield to focus on dealing damage. His powerful area attacks and crowd control skills ravage the enemies.
+
+[CharacterGuide_Blader_0]
+Title=Madness
+RecommendWeapon=Greatsword
+RecommendAbility=Attack
+Desc=Blader is a versatile assault warrior who can respond to any situation that arises. Powerful instant survival skills allow him to survive even behind enemy lines.
+
+[CharacterGuide_Blader_1]
+Title=Savage
+RecommendWeapon=Twin Blade
+RecommendAbility=Attack
+Desc=A high attack speed and a wide range of movement skills allow for fast-paced combat. You can inflict great damage immediately by using area attack skills with short casting times.
+
+[CharacterGuide_Warmage_0]
+Title=Magic
+RecommendWeapon=Staff
+RecommendAbility=Attack
+Desc=Specializes in ranged area attacks. You can stand in the rear and deal massive damage over a wide area.
+
+[CharacterGuide_Warmage_1]
+Title=Assassin
+RecommendWeapon=Magic Sword
+RecommendAbility=Attack
+Desc=A unique way to level up focusing on melee attacks by using a magic sword instead of a staff. Despite a lack of area attacks, you can still perform fast and elaborate attacks.
+
+[CharacterGuide_Whisperer_0]
+Title=Strategy
+RecommendWeapon=Longbow
+RecommendAbility=Attack
+Desc=A Whisperer is a class optimized for forcing battles to fit their preferences. They are powerful ranged damage dealers that are capable of controlling the balance of a battle.
+
+[CharacterGuide_Whisperer_1]
+Title=Wild Shot
+RecommendWeapon=Wing Gun
+RecommendAbility=Attack
+Desc=A Wing Gun is a mid-range weapon with less range than a bow. You can become a pure damage dealer, shooting powerful arrows at multiple enemies at mid-range.
+
+[CharacterGuide_Emphasizer_0]
+Title=Spellbinder Specialty 0
+RecommendWeapon=Recommended Equipment 0
+RecommendAbility=Recommended Stats 0
+Desc=Specialty Description 0
+
+[CharacterGuide_Emphasizer_1]
+Title=Spellbinder Specialty 1
+RecommendWeapon=Recommended Equipment 1
+RecommendAbility=Recommended Stats 1
+Desc=Specialty Description 1
+

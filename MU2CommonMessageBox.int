@@ -1,0 +1,234 @@
+[Title]
+ServerDisconnect=Sever Disconnected
+EquipCustomSkill=Equip Crest
+UnEquipCustomSkill=Remove Crest
+UnEquipCustomSkillNeedItem=Remove Crest
+PurchaseExpandSlot=Expand Storage
+DeleteInventoryItem=Delete Item
+DeleteInventoryItemHighGrade=Delete Item
+TearDownInventoryItem=Dismantle Item
+Enchant_Begin=Enchantment Message
+Enchant_Middle=Enchantment Message
+Enchant_High=Enchantment Message
+CancelWriteMail=Cancel Mail
+SendMail=Send Mail
+DeleteMail=Delete Mail
+DeleteItemMail=Delete Mail
+GetMailItem=Receive Attached Item
+OptionConfirm=OK
+RemoveMagicStoneError=OK
+RemoveMagicStone=Remove Magic Stone
+GiveUpQuest=Abandon Quest
+AddManufactureJob=Select Craft Class
+RemoveManufactureJob=Abandon Craft Class
+CreateManufactureFormula=Register Design
+MeetHealer=Healer
+OwnedItemEquipError=Equip Bound Item
+OwnedItemEquip=Equip Bound Item
+OwnedItemSeal=Unbind Item
+RepairAll=Repair Item
+RepairOne=Repair Item
+EnterNaviDungeon=Enter Search Dungeon
+EnterNaviDungeonUseStamp=Enter Search Dungeon
+ChangeMaterialItem=Alter Material
+ConfirmDuelRequest=Duel Request
+NotifyDuelRequestDisable=Duel Request
+DismountSpecialSkill=Remove Expert Skill
+ClientRestartApllyOption=Apply Option
+RequestLeave=Leave Party
+RequestLeaveInDungeon=Leave Party
+RequestBreakeup=Disband Party
+RequestChangeLeader=Designate Party Leader
+DungeonAdmission=Enter Dungeon
+NewAdvDungeonAdmission=Enter the Rift:
+BossDungeonAdmission=Enter Boss Room
+ExitDungeon=Exit Dungeon
+Enchant_Transfer=Enchantment Transfer Message
+lsDungeonItem=Dimension Compass
+UseDungeonItem=Dimension Compass
+ExitGuildHall=Exit Guild Hall
+DeadMsg_Revive_Item=Resurrect Now
+DeadMsg_Revive_RedZen=Resurrect Now
+DeadMsg_Party_Member_Revive_Item=Resurrect Now
+DeadMsg_Party_Member_Revive_Redzen=Resurrect Now
+ItemDisassemble=Dismantle Item
+ExitAltarOfElements=Exit Altar of Spirits
+ExitAltarOfElements_End=Exit Altar of Spirits
+ExitEndlessTower_Die=Exit Endless Tower
+ExitEndlessTower_Complete=Exit Endless Tower
+ExitEndlessTower=Exit Endless Tower
+ExitBloodCastle=Exit Blood Castle
+MSS_RegisterRuneSkill=Register Crest
+EnterCountQuest=Enter
+EvolutionWing=Evolve Wings
+ResetSoulPassiveSkill=Reset Soul Chest
+InvalidPosition=Map Travel Failed
+OpenDungeonEnter=Enter Public
+OpenExitDungeon=Exit Dungeon
+ChangeAppearance=Change Item Appearance
+RemoveChangeAppearance=Remove Item Appearance
+SurveySubmit=Survey
+GameSubmitSurvey=Submit Survey
+NotifyFindParty=Advertise Party Search Message
+NotifyCelFindParty=Advertise Party Search Message
+PetFellowSlotOpen=Add Companion Pet Slot
+NotifyAccountBlock=Game Connection Restricted
+ArtifactAlchemy=Perform Alchemy
+AlchemyBoost=Accelerate Alchemy
+ColosseumConsecutiveBattle=Arena Consecutive Win Challenge
+ColosseumReSearch=Search Again
+Msg_Knightage_Invite_join_Text=Guild Membership Invitation
+Msg_Knightage_Manage_Reset=Initialize Guild Settings
+Msg_Knightage_Manage_Undo=Reset Guild Settings
+Msg_Knightage_Manage_Accept=Apply Guild Settings
+Msg_Knightage_Breakup_Disc=Disband Guild
+Msg_Knightage_Manage_Confirm=Apply Guild Function
+Msg_Knightage_Emblem_Reset=Initialize Emblem
+Msg_Knightage_Emblem_Undo=Reset Emblem
+Msg_Knightage_Emblem_Accept=Apply Emblem
+Msg_Knightage_Emblem_Confirm=Apply Emblem
+Msg_Knightage_Withdraw_Disc=Leave Guild
+Msg_Knightage_Ban_Disc=Ban Guild Member
+Msg_Knightage_Delegation_Accept=Designate Guild Leader
+ConsignmentRegistItemCancel=Cancel Selling Item
+RecvBusinessProfits=Collect Money
+ConsignmentBuyItem=Buy Item
+Change_CharacterName=Rename Character
+Change_KnightageName=Rename Guild
+Msg_Knightage_Invite=Invite to Guild
+MegaPhoneMsg=Megaphone Message
+RankingBless=Congratulate
+Msg_CheckCloseDealMeter=Turn off Damage Meter
+AdditionalOption=Imprint Item
+Msg_ExtentionPeriodItem=Extend Item Period
+Mopup_Request=Subjugation Request
+PlatinumItemUse_117=Premium Service
+PlatinumItemUse_118=Platinum Service
+Platinum_LevelUpMax=Platinum Service
+Platinum_LevelUpNoPlatinum=Platinum Service
+Amp_Acceleration=Accelerate
+TStone_Amplify=Transcendent Stone Intensification
+BulcanColosseumGiveUp=Surrender Request
+OptionChanger_Cancle=Reset Options
+OpenExitDominion=Leave Territory
+WeaponFusion_Warning=Fuse Equipment
+OptionChanger_SealedItem=Reset Options
+AutobotDefence_Disconnect_Server=System Alert
+
+[Message]
+ServerDisconnect=Server connection ended.
+EquipCustomSkill=Equip this crest?
+UnEquipCustomSkill=Removing a crest¶consumes 1 Craftsman's Hammer.¶¶Remove this crest?
+UnEquipCustomSkillNeedItem=To remove a crest,¶you need a Craftsman's Hammer.¶¶This can be purchased from a peddlers in each town.
+PurchaseExpandSlot=Add a slot?
+DeleteInventoryItem=Delete this item?
+DeleteInventoryItemHighGrade=It is %s_1 grade item.¶ Delete the item?
+TearDownInventoryItem=%s_1 item¶Dismantle this item?
+Enchant_Begin=Jewels and Zen are automatically consumed upon enchanting.¶Continue?
+Enchant_Middle=Jewels and Zen will automatically be consumed upon enchanting. The target equipment's Enchantment level can decrease if the enchantment attempt fails. Continue?
+Enchant_High=Jewels and Zen are automatically consumed upon enchanting. The target equipment can be destroyed if the enchantment attempt fails. Continue?
+SendMail=Send the mail?
+DeleteMail=This mail will be returned to the sender if removed.¶Return the mail?
+DeleteItemMail=This mail has attachments.¶Delete it, anyway?
+GetMailItem=Receive the attached item?
+CancelWriteMail=You have an unsent letter.¶Cancel it?
+OptionConfirm=Some items have changed.¶Apply the changes and close the window?
+RemoveMagicStoneError=Add an item with a Magic Stone equipped.
+RemoveMagicStone=Magic Stone equipped on the item will be lost.¶Remove the Magic Stone?
+GiveUpQuest=Abandon the %s_1 quest?
+AddManufactureJob=Select the %s_1 class?<br>You can select only 2 classes.
+RemoveManufactureJob=Abandon the %s_1 crafting class?<br>You will lose all your crafting EXP, grade, and craft designs.
+CreateManufactureFormula=Register %s_1?
+MeetHealer=Requires %s_1 Zen.
+OwnedItemEquipError=Failed to equip the item.
+OwnedItemEquip=This item binds when equipped. Equip?
+OwnedItemSeal=Unbind the selected item with an Unbinding Scroll.¶Continue?
+RepairAll=Repair all your equipped items?
+RepairOne=Repair %s_1?
+EnterNaviDungeon=Enter the Search Dungeon?
+EnterNaviDungeonUseStamp=Use %s_1 and enter the Search Dungeon?
+ChangeMaterialItem=Alter the item's material?
+ConfirmDuelRequest=%s_1 has requested a duel.¶¶Accept the duel?
+NotifyDuelRequestDisable=You cannot request a duel while in duel standby status.
+DismountSpecialSkill=Remove %s_1 expert skill?
+ClientRestartApllyOption=Some options take effect after restarting the game.
+RequestLeave=Leave the party?
+RequestLeaveInDungeon=If you leave the party, you will be banned from the dungeon.¶Leave the party?
+RequestBreakeup=Disband the party?
+RequestChangeLeader=Designate %s_1 as party leader?
+DungeonAdmission=Enter the dungeon?
+NewAdvDungeonAdmission=Enter a new Rift?
+BossDungeonAdmission=Enter the boss room?
+ExitDungeon=Exit the dungeon?
+Enchant_Transfer=%s_1<br><br><font size='15' color='#EEEEEE'> Consumable items will be destroyed regardless of the enchantment transfer results.</font>
+lsDungeonItem=Not enough Dimension Compasses.¶ Dimension Compass can increase types and floors of the Rift.
+UseDungeonItem=Use Dimension Compass?¶Dimension Compass can increase types and floors of the Rift.
+ExitGuildHall=Exit Guild area?
+DeadMsg_Revive_Item=Use an item and resurrect now?
+DeadMsg_Revive_RedZen=Use Redzen and resurrect now?
+DeadMsg_Party_Member_Revive_Item=Use an item and resurrect %s_1 now?
+DeadMsg_Party_Member_Revive_Redzen=Use Redzen and resurrect %s_1 now?
+ItemDisassemble=Dismantle item(s)?
+ExitAltarOfElements=<font color='#FDC243'>Exit?</font><br><br>The Altar of Spirits has not ended.<br>If you exit now, you will not be able to enter the Altar of Spirits for some time.
+ExitAltarOfElements_End=<font color='#FDC243'>Exit?</font>
+ExitEndlessTower_Die=<font color='#FDC243'>Exit?</font><br><br>Other players are still climbing the Endless Tower.<br>If you exit the Endless Tower now, you will not obtain any rewards.<br>If other players have completed the conquest or if they have died, you can obtain rewards.
+ExitEndlessTower_Complete=<font color='#FDC243'>Do you really want to exit?</font><br><br><font color='FF0000'>Make sure to check for any bonus drops on the ground!</font>
+ExitEndlessTower=<font color='#FDC243'>Exit?</font><br><br>You are still climbing the Endless Tower.<br>If you exit the Endless Tower now, you will not obtain any rewards.
+ExitBloodCastle=Exit Blood Castle?
+MSS_RegisterRuneSkill=Register this crest? Once a crest is registered, it cannot be recovered.
+EnterCountQuest=Not enough entry count. Move, anyway?
+EvolutionWing=Evolving wings automatically consumes materials. Continue?
+ResetSoulPassiveSkill=Reset Soul Chest to its original condition?
+InvalidPosition=Map Travel location not valid. Move to a safe area?
+OpenDungeonEnter=Entering the mission map and waiting for other random players for 40 seconds. You can proceed with the mission map without a party.
+OpenExitDungeon=Exit the dungeon?
+ChangeAppearance=Use %s_1 as material to change the appearance of <br>%s_2?<br><br>Applicable appearance: %s_3<br><font color='#FF0000'>[The material item will be destroyed.]</font>
+RemoveChangeAppearance=Remove the appearance applied to %s_1<br>and restore it to its original appearance?
+SurveySubmit=If you close the survey, you cannot participate again.<br>Also, you cannot obtain the survey reward.<br><br>Close the survey?
+GameSubmitSurvey=Thanks for participating in the survey.<br><br>Please check your mail for the reward.
+NotifyFindParty=You can advertise with a Search for Party message.<br>A Search for Party message is automatically sent to the chat channel<br>every 10 seconds for 5 minutes.
+NotifyCelFindParty=Stop advertising on the Party Search bulletin board?
+PetFellowSlotOpen=Expand Companion Pet slots?
+NotifyAccountBlock=Access to the game has been<br>temporarily restricted due to operational issues.
+ArtifactAlchemy=Alchemize the following artifact?
+ColosseumConsecutiveBattle=<font color='#FDC243'>Do you really want to take on the consecutive wins challenge?</font><br><br>Consecutive Win Bonuses are nullified when you lose a match!
+ColosseumReSearch=Use Redzen and search for a new opponent?
+AlchemyBoost=Shorten alchemy time by <font color='#FDD889'>%s_1 hours</font>?<br>Remaining Alchemy Acceleration Count: %s_2
+Msg_Knightage_Invite_join_Text=You've received an invitation from <font color='#FDC243'>%s_1</font>.<br>Do you want to join the Guild?<br><font color='#FF0000'>You can decline the invitation in Settings > Game > Social.</font>
+Msg_Knightage_Manage_Reset=Initializing Guild settings.<br>Proceed with initialization?
+Msg_Knightage_Manage_Undo=Resetting Guild settings.<br>Changed settings will return to previous settings.<br>Proceed with reset?
+Msg_Knightage_Manage_Accept=Applying current Guild settings.<br>Apply the Guild settings?
+Msg_Knightage_Breakup_Disc=Selected to disband the Guild.<br><br><font color='#FDC243'>%s_1</font><br><br>Disband this Guild?<br><font color='#FF0000'>All items in the Guild Storage will be lost.
+Msg_Knightage_Manage_Confirm=Guild settings have changed.<br>Apply the changed Guild settings?
+Msg_Knightage_Emblem_Reset=Initializing the emblem design.<br>Proceed with initialization?
+Msg_Knightage_Emblem_Undo=Canceling the changed emblem design.<br>Changed settings will return to previous settings.<br>Proceed with reset?
+Msg_Knightage_Emblem_Accept=Applying the changed emblem.<br>Apply the emblem design?
+Msg_Knightage_Emblem_Confirm=Emblem settings have changed.<br>Apply the changed Emblem design?
+Msg_Knightage_Withdraw_Disc=Selected to leave the Guild.<br><br><font color='#FDC243'>%s_1</font><br><br>Leave this guild?<br><br><font color='#999999'>Caution: You will not be able to join another guild for a set period.</font>
+Msg_Knightage_Ban_Disc=Ban this character from <font color='#FDC243'>%s_1</font>?<br><br><font color='#FDC243'>%s_2</font><br><br><font color='#999999'>Caution: Banned members still count toward your total guild members for a while.</font>
+Msg_Knightage_Delegation_Accept=Designate <font color='#FDC243'>%s_2</font> as the new master of the <font color='#FDC243'>%s_1</font> guild?
+ConsignmentRegistItemCancel=Cancel selling the registered item?
+RecvBusinessProfits=Collect the money?
+ConsignmentBuyItem=Buy this item?
+Change_CharacterName=Rename your character <font color='#FDC243'>%s_1</font>?<br>Select OK to move to the Character Selection window.
+Change_KnightageName=Rename your guild <font color='#FDC243'>%s_1</font>?
+Msg_Knightage_Invite=Enter a character name to invite to your guild.
+MegaPhoneMsg=Enter a megaphone message.
+RankingBless=Congratulate the character on their reaching a new rank?<br>*You will get Soul EXP in return.
+Msg_CheckCloseDealMeter=Turn off the damage meter?<br>You can always turn it back on in Settings.
+AdditionalOption=Use an <font color='#FDC243'>Imprint Scroll</font> on %s_1?
+Msg_ExtentionPeriodItem=Extend this item's period?
+Mopup_Request=Use <font color='#FBAF5D'>%s_1</font> to subjugate?
+PlatinumItemUse_117=Use a Premium item?
+PlatinumItemUse_118=Increase Platinum EXP?
+Platinum_LevelUpMax=You are at the maximum Platinum grade.<br>Cannot use the item anymore.
+Platinum_LevelUpNoPlatinum=You are not subscribed to the Platinum service.<br>You cannot increase your Platinum grade.
+BulcanColosseumGiveUp=<font color='#FDC243'>Do you really want to surrender?<font><br>Everyone else in your camp also must request a surrender.
+Amp_Acceleration=Accelerating requires %s_1 Redzen,<br>and immediately decreases your production time by %s_2.<br><br>Accelerate?
+TStone_Amplify=Do you really want to intensify a Transcendent Stone?
+OptionChanger_Cancle=No options have been selected.<br>Maintain the existing options?<br>Caution: Money and items that you spent cannot be reimbursed.
+OpenExitDominion=Leave the territory?
+WeaponFusion_Warning=*Existing Imprint Scrolls, jewels, Soulstones, Transcendent Stones, and enchantment level cannot be restored.<br>*You can retain the existing enchantment level by adding Blessed Essences. (Up to +10)
+OptionChanger_SealedItem=If options are changed,<br>the item will bind to you.<br><br>Change options?
+AutobotDefence_Disconnect_Server=Unusual gameplay has detected.<br>You will receive penalty when re-login.<br>Your connection will be shutting down.
+

@@ -1,0 +1,76 @@
+[Common]
+ErrResult=¶ Error:%s_1
+ErrFcsResult=¶ Error:%s_1, FCS Error:%s_2
+
+[ClientMessage]
+Common_Title=Legend Shop
+Common_Unknown=Unknown message.
+Purchase_Success=Check your storage and inventory for your purchases.
+CheckChar_NotInput=No message entered. Please check and try again.
+Gift_Success=Successfully sent the gift to %s_1.
+Cart_Title=Legend Shop
+Cart_Cancel=Remove all products in the cart?
+Cart_Full=The cart is full.
+Cart_Cannot=This product cannot be added to the cart.
+
+[ServerError]
+Common_Title=Legend Shop
+Common_Unknown=Unknown server error.
+Common_380004=The server is not using FCSA. (Not connected to the billing system)
+Common_380005=System error (Error that cannot occur)
+Common_380006=Cannot use without logging in to FCS.
+Common_380007=FCSA sendAsync() failed
+Common_380008=FCSA failure (the fcsaResult value included)
+Common_380009=The WShop version does not match.
+Common_380010=Check the character.
+Common_380011=Cannot find the requested character info or not a FCSA account.
+Common_380012=A different request is already in process. (Only one request can be processed at a time.)
+Common_380013=Not used at this moment.
+Common_380014=This event is not processed on the server's end (The task is missing on the server's end).
+Common_380015=A purchase request contains no product.
+Common_380016=The request order ID and the response order ID do not match. (The task changed? Error that cannot occur.)
+Common_380017=Item creation failed on the zone server's end.
+Common_380018=This target cannot receive gifts.
+Common_380019=Undefined task processed
+Common_380020=No such an entity found in the zone.
+Common_380021=Unclear Cash info
+Common_380022=Abnormally processed
+Common_389999=Common Error 389999
+BillingInfo_Title=Legend Shop
+BillingInfo_389999=BillingInfo Error 389999
+InvenPage_Title=Legend Shop
+InvenPage_389999=InvenPage Error 389999
+Purchase_380017=Item creation failed. Please make sure there is enough space in your inventory, and then try again.
+Purchase_389999=Purchase Error 389999
+CheckChar_380011=Cannot find the user. Please check and try again.
+CheckChar_389999=CheckChar Error 389999
+Gift_389999=Gift Error 389999
+Pickup_380017=Item creation failed. Please make sure there is enough space in your inventory, and then try again.
+Pickup_389999=Gift Error 389999
+EventPickUp_Title=Event Storage
+EventPickUp_Unknown=Failed to load from the storage.
+Purchase_80805=Purchase restricted. Your purchase could not be completed.
+
+[FCSError]
+Common_Title=Legend Shop
+Common_Unknown=Stopped because of an unknown error.
+BillingInfo_Unknown=Failed to load the currency information because of an unknown error.
+InvenPage_Unknown=Failed to load the storage because of an unknown error.
+Purchase_Unknown=Stopped because of an unknown error.
+Purchase_93402=This product is no longer available for purchase. Please check and try again.
+Purchase_93408=This item's purchase period has expired. Please check and try again.
+Purchase_93401=No products left. Please check and try again.
+Purchase_93117=Not enough regular/bound Rezen to buy the items.
+Purchase_90133=Not enough Cash to buy the items.
+Purchase_90309=Your Cash is locked and cannot be used for purchasing items. Please update your Cash settings in My Service.
+Gift_Unknown=Stopped because of an unknown error.
+Gift_93117=Not enough regular/bound Redzen to send the item gift.
+Gift_90133=Not enough Cash to send the item gift.
+Gift_93408=This item's gifting period has expired. Please check and try again.
+Gift_93401=No products left. Please check and try again.
+Gift_90309=Your Cash is locked and cannot be used for sending item gifts. Please update your Cash settings in My Service.
+Gift_93402=This product is no longer available for purchase. Please check and try again.
+PickUp_Unknown=Stopped because of an unknown error.
+Pickup_90309=Your Cash is locked and cannot be used. Please update your Cash settings in My Service.
+Purchase_80805=Purchase restricted. Your purchase could not be completed.
+

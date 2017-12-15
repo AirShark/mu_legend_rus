@@ -1,0 +1,2611 @@
+[PCClass]
+PCClass_1=Dark Lord
+PCClass_2=Blader
+PCClass_4=War Mage
+PCClass_8=Whisperer
+
+[PCRace]
+PCRace_1=Human
+PCRace_2=Elf
+PCRace_4=Kanturu
+PCRace_8=Ashas
+
+[Grade]
+ItemGradeColor_0=ABBDD5
+ItemGradeColor_1=7A7A7A
+ItemGradeColor_2=FFFFFF
+ItemGradeColor_3=00FF20
+ItemGradeColor_4=7094FF
+ItemGradeColor_5=5FFFFF
+ItemGradeColor_6=FFEE5F
+ItemGradeColor_7=FF9001
+ItemGradeColor_8=E40AE4
+ItemGradeColor_9=F70000
+ItemGrade_0=
+ItemGrade_1=Common
+ItemGrade_2=Uncommon
+ItemGrade_3=Rare
+ItemGrade_4=Heroic
+ItemGrade_5=Legendary
+ItemGrade_6=Ancient
+ItemGrade_7=Mythic
+ItemGrade_8=Set
+ItemGrade_9=Unique
+ItemLevelGrade_1=Low-grade
+ItemLevelGrade_2=Mid-grade
+ItemLevelGrade_3=High-grade
+ItemTStoneGrade_6=Transcendent Stone Tier 1
+ItemTStoneGrade_7=Transcendent Stone Tier 2
+ItemTStoneGrade_8=Transcendent Stone Tier 3
+
+[ItemDivision]
+ItemDivision_0=Material
+ItemDivision_1=Helm
+ItemDivision_2=Top
+ItemDivision_3=Bottoms
+ItemDivision_4=Gloves
+ItemDivision_5=Shoes
+ItemDivision_6=Shoulder
+ItemDivision_8=Belt
+ItemDivision_9=Ring
+ItemDivision_11=Necklace
+ItemDivision_12=Earrings
+ItemDivision_13=Normal Wings
+ItemDivision_14=Growth Wings
+ItemDivision_35=Collected Object
+ItemDivision_41=Scroll
+ItemDivision_45=Resurrection Stone
+ItemDivision_50=Jewel of Bless
+ItemDivision_51=Jewel of Soul
+ItemDivision_53=Potion
+ItemDivision_54=Consumable
+ItemDivision_55=MP Potion
+ItemDivision_56=Stamina Potion
+ItemDivision_71=Cloth Material
+ItemDivision_72=Leather Material
+ItemDivision_73=Metal Material
+ItemDivision_110=Mount
+ItemDivision_111=Pet
+ItemDivision_112=Costume
+ItemDivision_15=Main Weapon
+ItemDivision_16=Secondary Weapon
+ItemDivision_17=Two-handed Weapon
+ItemDivision_18=One-handed Weapon
+ItemDivision_36=Coin
+ItemDivision_46=Scroll
+ItemDivision_49=Skill Crest
+ItemDivision_57=Durability Repair Stone
+ItemDivision_58=Scroll
+ItemDivision_59=Enchantment Transfer Booster
+ItemDivision_60=Evolution Transfer Booster
+ItemDivision_61=Box
+ItemDivision_62=Egg
+ItemDivision_64=Jewel
+ItemDivision_65=Scroll
+ItemDivision_66=Jewel Extraction Hammer
+ItemDivision_67=Craftsman's Hammer
+ItemDivision_68=Entry Token
+ItemDivision_69=Wing Growth Stone
+ItemDivision_70=Wing Evolution Stone
+ItemDivision_74=Craft Design
+ItemDivision_75=Name Change Ticket
+ItemDivision_76=Name Change Ticket
+ItemDivision_77=Extension Ticket
+ItemDivision_78=Extension Ticket
+ItemDivision_80=Chat Item
+ItemDivision_90=Cube
+ItemDivision_91=Alchemy Product
+ItemDivision_92=Blessed Essence
+ItemDivision_113=Porystal
+ItemDivision_114=Portal Stone
+ItemDivision_115=Scroll
+ItemDivision_116=Wing Costume
+ItemDivision_117=Service Coupon
+ItemDivision_118=Service Upgrade Ticket
+ItemDivision_120=Red Transcendent Stone
+ItemDivision_121=Red Transcendent Stone
+ItemDivision_122=Red Transcendent Stone
+ItemDivision_123=Blue Transcendent Stone
+ItemDivision_124=Blue Transcendent Stone
+ItemDivision_125=Blue Transcendent Stone
+ItemDivision_126=Green Transcendent Stone
+ItemDivision_127=Green Transcendent Stone
+ItemDivision_128=Green Transcendent Stone
+ItemDivision_130=Intensification Stone
+ItemDivision_135=White Scroll
+ItemDivision_136=Seal
+ItemDivision_140=Scroll
+
+[WeaponType]
+WeaponType_1=Bludgeon
+WeaponType_2=Staff
+WeaponType_3=Wing Gun
+WeaponType_4=Dagger
+WeaponType_5=Sword
+WeaponType_6=Two-handed Bludgeon
+WeaponType_7=Magic Sword
+WeaponType_8=Longbow
+WeaponType_9=Greatsword
+WeaponType_10=Chakram
+WeaponType_11=Shield
+WeaponType_12=Grimoire
+WeaponType_13=Orb
+WeaponType_14=Chain Blade
+
+[ItemGroup]
+ItemGroup_0=Item
+ItemGroup_1=Main Weapon
+ItemGroup_2=Magic Sword
+ItemGroup_3=Two-handed Weapon
+ItemGroup_4=One-handed Weapon
+ItemGroup_5=Secondary Weapon
+ItemGroup_6=Armor
+ItemGroup_7=Armor
+ItemGroup_8=Armor
+ItemGroup_9=Armor
+ItemGroup_10=Armor
+ItemGroup_11=Armor
+ItemGroup_12=Magic Equipment
+ItemGroup_13=Accessory
+ItemGroup_14=Material
+ItemGroup_15=Consumable
+
+[ItemType]
+ItemType_Default=Item
+ItemType_0=Zen
+ItemType_1=Common
+ItemType_2=Quest
+ItemType_8=Material
+ItemType_16=Craft
+ItemType_Consume=Consumable
+ItemType_Armor=Armor
+ItemType_Accessory=Accessory
+ItemType_Wing=Wings
+ItemType_MainWeapon=Main Weapon
+ItemType_SubWeapon=Secondary Weapon
+ItemType_TwoHandWeapon=Two-handed Weapon
+ItemType_OneHnadWeapon=One-handed Weapon
+
+[QuestStoryType]
+LS_QuestStoryType_1=Main Quest
+LS_QuestStoryType_2=Normal Quest
+LS_QuestStoryType_3=Daily Quest
+LS_QuestStoryType_4=Area Quest
+LS_QuestStoryType_5=Gateway Quest
+
+[QuestInfoViewFrame]
+LS_MissionDescTitle=Mission Details
+LS_LimitTimerTitle=Time Limit
+LS_LimitTimerDesc=Area quests are automatically completed and rewards are given when you satisfy their objectives.¶They automatically fail if you cannot complete them within the time limit.
+LS_CompleteRewardTitle=Standard Reward
+LS_SelectRewardTitle=Selective Reward
+LS_QuestPerformLevel=Level
+
+[SkillType]
+SkillType_1=Main Skill
+SkillType_2=Active
+SkillType_3=Buff
+SkillType_4=Debuff
+SkillType_5=Expert Skill
+SkillType_6=Customize
+SkillType_7=Passive
+
+[SkillActiveType]
+SkillActiveType_0=Normal Attack
+SkillActiveType_1=Instant Cast
+SkillActiveType_2=Delayed Cast
+SkillActiveType_3=Mid-charge Cast
+SkillActiveType_4=Mid-charge Cast
+SkillActiveType_5=Full Charge Cast
+SkillActiveType_7=Toggle On/Off
+
+[ItemExOp]
+Exop_0=Create Random Option
+Exop_1=Create Socket
+
+[ItemSkillOp]
+TextColor=FE6D03
+ItemSkill_1=Movement Speed Reduction (%s_1% Chance)
+ItemSkill_2=Lifesteal (%s_1% Chance)
+ItemSkill_9001=%s_1% chance of decreasing target's Movement Speed
+ItemSkill_9002=%s_1% chance of stealing HP from target
+ItemSkill_9003=%s_1% chance of decreasing target's Strength
+ItemSkill_9004=%s_1% chance of decreasing target's Dexterity
+ItemSkill_9005=%s_1% chance of decreasing target's Health
+ItemSkill_9006=%s_1% chance of decreasing target's Intelligence
+ItemSkill_9007=%s_1% chance of decreasing target's attack count
+ItemSkill_9008=%s_1% chance of decreasing target's Attack
+ItemSkill_9009=%s_1% chance of decreasing target's Physical Penetration
+ItemSkill_9010=%s_1% chance of decreasing target's Attack Speed
+ItemSkill_9011=%s_1% chance of decreasing target's HP Recovery
+ItemSkill_9012=%s_1% chance of decreasing target's Physical Defense
+ItemSkill_9013=%s_1% chance of decreasing target's Magic Defense
+ItemSkill_9014=%s_1% chance of decreasing target's Evasion Rate
+ItemSkill_9015=Increases Movement Speed by %s_1
+ItemSkill_9016=Decreases Weapon skill cooldown by %s_1%
+ItemSkill_9017=Decreases Class skill cooldown by %s_1%
+ItemSkill_9018=Decreases Expert skill cooldown by %s_1%
+ItemSkill_9019=Decreases Weapon skill MP cost by %s_1%
+ItemSkill_9020=Decreases Class skill MP cost by %s_1%
+ItemSkill_9021=Decreases Expert skill MP cost by %s_1%
+ItemSkill_9022=%s_1% chance of knocking target backward
+ItemSkill_9023=%s_1% chance of Stunning target
+ItemSkill_9024=Decreases monster Physical Attack.
+ItemSkill_9025=Decreases monster Magic Attack.
+ItemSkill_9026=Decreases monster Physical Defense.
+ItemSkill_9027=Decreases monster Magic Defense.
+ItemSkill_9028=Decreases monster Attack Speed.
+ItemSkill_9029=Creates a chance of knocking monsters backward.
+ItemSkill_9030=Creates a chance of Stunning monsters.
+ItemSkill_9031=Creates a chance of casting Lifesteal on monsters.
+ItemSkill_9032=Decreases target player's Physical Attack for a certain period of time.
+ItemSkill_9033=Decreases target player's Magic Attack for a certain period of time.
+ItemSkill_9034=Decreases target player's Physical Defense for a certain period of time.
+ItemSkill_9035=Decreases target player's Magic Defense for a certain period of time.
+ItemSkill_9036=Decreases target player's Movement Speed for a certain period of time.
+ItemSkill_9037=Decreases target player's Strength for a certain period of time.
+ItemSkill_9038=Decreases target player's Dexterity for a certain period of time.
+ItemSkill_9039=Decreases target player's Health for a certain period of time.
+ItemSkill_9040=Decreases target player's Intelligence for a certain period of time.
+ItemSkill_9041=Decreases target player's Attack for a certain period of time.
+ItemSkill_9042=Decreases target player's Physical Penetration for a certain period of time.
+ItemSkill_9043=Temporarily decreases target player's Attack Speed.
+ItemSkill_9044=Decreases target player's HP Recovery for a certain period of time.
+ItemSkill_9045=Decreases target player's Evasion Rate for a certain period of time.
+ItemSkill_9046=Attacking players decreases Class skill cooldown
+ItemSkill_9047=Attacking players decreases Expert skill cooldown
+ItemSkill_9048=Attacking players decreases Class skills' MP cost
+ItemSkill_9049=Attacking players decreases Expert skills' MP cost
+ItemSkill_9050=Creates a chance of knocking target player backward
+ItemSkill_9051=Creates a chance of Stunning target player
+ItemSkill_9052=Creates a chance of casting Lifesteal on target player
+ItemSkill_105010001=Shield Bash inflicts Lightning damage with a chance of generating lightning that attacks at 200% Physical Attack.
+ItemSkill_120010002=Fire Bludgeon casts Ice Bludgeon in its place, inflicting damage at 350% Physical Attack and decreasing Movement Speed by 50%.
+ItemSkill_124010001=Decreases Vicious Charge's cooldown time to 3 seconds.
+ItemSkill_128010001=Fire Burst explodes only once, inflicting damage at 500% Physical Attack and Ensnaring its targets for 1.5 seconds.
+ItemSkill_221010001=Crush attacks at 270% Physical Attack with a chance of Stunning its targets for 1 second.
+ItemSkill_223010001=Cyclone Slash creates a chance of creating 3 twisters that inflict damage at 45% Physical Attack.
+ItemSkill_240010001=Threatening Roar increases allies' Max HP by 10% instead of decreasing Attack.
+ItemSkill_242010001=Sonorous Roar Stuns enemies.
+ItemSkill_412010001=Generates more Waves of Pain.
+ItemSkill_425010001=Cruel Touch causes a mana explosion after 1 second.
+ItemSkill_421010001=Radiant Chain always inflicts max damage.
+ItemSkill_429010001=Binding Blizzard causes an additional explosion at 75% Magic Attack in 1.5 seconds after it's cast.
+ItemSkill_312030001=Salvo inflicts Lightning damage with a chance of causing an explosion at 100% Physical Attack.
+ItemSkill_324010001=Changes Chaser's Trap to a Flame Trap that inflicts damage at 260% Physical Attack. Negates cooldown and increases MP cost to 80.
+ItemSkill_320010001=Multi Shot shoots freezing arrows that slow down enemies.
+ItemSkill_325010001=Smokescreen throws flame bullets, inflicting continuous damage at 120% Physical Attack for 6 seconds.
+ItemSkill_126010001=Call of Thunder does not push enemies backward and attacks at 600% Physical Attack.
+ItemSkill_151010001=Madness Absorption inflicts Cold damage and decreases Movement Speed by 30%.
+ItemSkill_145010001=Rugard's Protection casts a shield around surrounding allies to protect up to 30% Max HP for 5 seconds.
+ItemSkill_125010001=Eternal Flames attacks at 80% Physical Attack.
+ItemSkill_220010001=Leap Attack attacks a wider area.
+ItemSkill_227010001=Decreases Wallop's cooldown time to 3 seconds.
+ItemSkill_226010001=Fierce Rage inflicts Fire damage on its targets at 60% Physical Attack for 5 seconds.
+ItemSkill_229010001=Earth Cleaver does not push enemies backward and inflicts additional damage at 50% Physical Attack for 3 seconds.
+ItemSkill_352010001=Explosive Shot shoots fire arrows, inflicting additional damage at 40% Physical Attack for 5 seconds.
+ItemSkill_302010001=Piercing Arrow inflicts Lightning damage without a chance of pushing its targets backward.
+ItemSkill_321010001=Electric Explosion attacks over a wider area.
+ItemSkill_451010001=Glacier Prison inflicts additional damage on surrounding enemies at 150% Physical Attack for the duration of invincibility, and reduces Movement Speed by 30%.
+ItemSkill_428010001=Power Slash causes a wind that inflicts damage at 230% Magic Attack.
+ItemSkill_420010001=Fire Clutch inflicts Lightning damage and inflicts damage at 245% Magic Attack at once. Inflicts additional 20% damage on enemies at least 10 m away.
+ItemSkill_427010001=Mana Racer explodes immediately upon coming into contact with a target.
+ItemSkill_328010001=Multi Kill drops a fire arrow on an area, inflicting Fire damage at 40% Physical Attack for 3 seconds.
+ItemSkill_121010001=Spin Attack shoots 5 lightnings that inflict damage at 30% Physical Attack.
+ItemSkill_123010001=Negates Weapon Throw's cooldown time.
+ItemSkill_224110001=Frenzied Attack always inflicts max damage.
+ItemSkill_210010001=Blood Pillage's 3rd attack absorbs HP equivalent to 20% of its damage.
+ItemSkill_327010001=Enemies hit by Death Sentence inflict Poison damage on themselves and those within a 3m radius at 50% Physical Attack for 5 seconds.
+ItemSkill_312010001=Flamethrower shoots a blast of cold air, decreasing enemies' Movement Speed by 40% with a low chance of Freezing them for 1.5 seconds.
+ItemSkill_426010001=Hallucinatory Contamination recovers HP equivalent to 3% of its damage.
+ItemSkill_422010001=Danse Macabre leaves a blade twister for 3 seconds, inflicting damage at 50% Magic Attack.
+ItemSkill_911000=Rugard's Protection<br>Increases allies' Movement Speed by 20% for 5 seconds.
+ItemSkill_911010=Fire Bludgeon<br>Inflicts damage at 160% Attack and halves Movement Speed for 3 seconds.
+ItemSkill_911020=Fire Burst<br>Inflicts 75% Burn damage on explosion targets for 2 seconds.
+ItemSkill_911030=Call of Thunder<br>Inflicts damage at 600% Attack without causing Knockback.
+ItemSkill_911040=Eternal Flames<br>Increases Critical Rate by 10% for 5 seconds.
+ItemSkill_911050=Spin Attack<br>Shoots 5 lightning orbs that inflict damage at 30% Attack.
+ItemSkill_911060=Vicious Charge<br>Attacks all targets in a straight line at 495% Attack and Taunt them for 2.5 seconds.
+ItemSkill_911070=Protective Touch<br>Restores 35% Max HP, and attacks enemies at 200% Attack.
+ItemSkill_911080=Destruction Tremor<br>Inflicts DoT damage at 100% Attack for 8 seconds. This effect always inflicts max damage.
+ItemSkill_911090=Ice Claw<br>Inflicts damage at 435% Attack, and decreases Movement Speed by 80% and increases damage by 150% for 3 seconds.
+ItemSkill_911100=Follower's Spirit<br>Increases attack range by 20%, and halves Movement Speed for 2 seconds.
+ItemSkill_911110=Madness Absorption<br>Inflicts damage at 200% Attack, and decreases Movement Speed by 40% for 5 seconds.
+ItemSkill_911120=Rugard's Rage<br>Instantly inflicts Level 3 damage.
+ItemSkill_921000=Cyclone Slash<br>Additionally creates 3 twisters that inflict 45% damage.
+ItemSkill_921010=Fierce Rage<br>Attacks 35% broader range.
+ItemSkill_921020=Rampage<br>Inflicts damage at 105% Attack. This effect always inflicts max damage.
+ItemSkill_921021=Rampage<br>Increases Critical Rate by 5% for 5 seconds.
+ItemSkill_921030=Turning Blow<br>Launches 3 powerful fists that attack at 627% Attack with a chance of inflicting additional damage at 100% Attack.
+ItemSkill_921040=Threatening Roar<br>Inflicts damage at 400% Attack and Taunts enemies for 3 seconds.
+ItemSkill_921050=Sonorous Roar<br>Increases Attack Speed by 50% for 5 seconds, and Stuns targets within its range for 2 seconds.
+ItemSkill_921060=Redemption<br>Enables you to evade all attacks for 3 seconds, and increases Attack Speed by 50% for 5 seconds.
+ItemSkill_921070=Crush<br>Additionally inflicts 50% Bleeding damage for 2 seconds.
+ItemSkill_921080=Earth Cleaver<br>No longer causes Knockback, but inflicts 50% more damage and sets its target area ablaze, causing DoT damage at 75% Attack for 3 seconds.
+ItemSkill_921090=Focused Strike<br>Increases Main Weapon Attack by 150% and Attack Speed by 20% for 10 seconds. Main Weapon skills restore HP with successful hits.
+ItemSkill_921100=Reversed Rage<br>Increases Attack Speed by 80% and halves incoming damage for 15 seconds. Restores 5% MP every second for its duration.
+ItemSkill_921110=Gravity Deflection<br>Attacks enemies at 875% Attack, and inflicts additional damage at 100% as they fall and Stuns them for 2 seconds.
+ItemSkill_921120=Sweep<br>Decreases its targets' Defense by 20% for 5 seconds.
+ItemSkill_931000=Electric Explosion<br>Attacks a broader area at 185% Attack, and decreases Movement Speed by 20% for 2 seconds.
+ItemSkill_931010=Multi Shot<br>Inflicts damage at 340% Attack, and halves Movement Speed for 3.5 seconds.
+ItemSkill_931020=Swift Shot<br>Inflicts damage at 180% Attack. This effect always inflicts max damage.
+ItemSkill_931030=Condensed Shot<br>Causes an explosion upon collision, inflicting damage at (540/660/810)% Attack.
+ItemSkill_931040=Multi Kill<br>Inflicts 100% more damage, and additionally sets its target area ablaze, inflicting damage at 75% Attack for 3 seconds.
+ItemSkill_931050=Chaser's Trap<br>Inflicts damage at 215% Attack and Ensnares its targets for 4 seconds.
+ItemSkill_931060=Will of the Wild<br>Attacks a broader area at 795% Attack and Ensnares its targets for 2.5 seconds.
+ItemSkill_931061=Will of the Wild<br>Attacks 50% broader range.
+ItemSkill_931070=Natural Assimilation<br>Additionally increases Critical Rate by 10% for 3 seconds.
+ItemSkill_931080=Explosive Shot<br>Wildly fires for 2 seconds, inflicting damage at 282% Attack with a chance of Igniting targets for 2 seconds.
+ItemSkill_931090=Death Sentence<br>The death mark, when exploding, additionally decreases its target's Movement Speed by 30% for 2 seconds.
+ItemSkill_931100=Bombardment<br>Bombards a selected area for 3 seconds, inflicting DoT damage at 450% Attack.
+ItemSkill_931101=Bombardment<br>Additionally decreases its targets' Movement Speed by 40% for 5 seconds.
+ItemSkill_931110=Torment Magnetic Field<br>Inflicts damage at 100% Attack, and decreases Movement Speed by 30% and Attack Speed by 50% for 2 seconds.
+ItemSkill_931120=Wind Sprint<br>Restores 3% Max MP for 8 seconds.
+ItemSkill_941000=Radiant Chain<br>Inflicts 92% more DoT damage, and decreases its targets' Movement Speed by 30% for 2 seconds.
+ItemSkill_941010=Fire Clutch<br>Inflicts damage at 350% Attack.
+ItemSkill_941020=Binding Blizzard<br>Inflicts damage at 150% Attack, and then causes an explosion, inflicting additional damage at 75% Attack.
+ItemSkill_941030=Mana Racer<br>Causes an explosion upon collision, inflicting damage at 300% Attack.
+ItemSkill_941040=Power Slash<br>Shoots penetrating mana swords. These mana swords attack at 690% Attack, cause DoT damage, and slow down their targets.
+ItemSkill_941050=Cold Murder<br>Inflicts damage at 382% Attack and Stuns targets for 1.5 seconds.
+ItemSkill_941060=Specter Shield<br>Increases Critical Rate by 10% for 10 seconds.
+ItemSkill_941070=Fire Curtain<br>Inflicts damage at 240% Attack, and causes 95% DoT damage on enemies within its range and decreases their Movement Speed by 70% for 5 seconds.
+ItemSkill_941080=Hallucinatory Infection<br>Inflicts damage at 150% Attack and halves Movement Speed for 4 seconds. Restores your HP when its target dies and transmits its effect to another enemy.
+ItemSkill_941090=Bloodfest<br>Inflicts damage at 232% Attack with a chance of causing Stuns for 1 second.
+ItemSkill_941100=Meteor Drop<br>Inflicts damage at 440% Attack, Stuns targets for 2.5 seconds, and causes 120% DoT damage on its area for 3 seconds.
+ItemSkill_941110=Glacier Prison<br>Casts Invincibility for 3 seconds, inflicts DoT damage at 120% Attack on its area for 3 seconds, and then explodes, inflicting damage at 450% Attack.
+ItemSkill_941120=Danse Macabre<br>Increases Penetration by 15% for 2 seconds.
+ItemSkill_941130=Ice Wall<br>Halves its targets' Movement Speed afterward.
+ItemSkill_941140=Final Notice<br>Decreases its target's Defense by 40% for 5 seconds.
+ItemSkill_902000=Crowd Control - Enhanced Attack<br>Casts a buff that increases your Attack by 5% every time you cast a Crowd Control effect on your target.
+ItemSkill_902001=Crowd Control - Explosive Mark<br>Crowd Control effects create a chance of adding marks on their targets that explode in 5 seconds.
+ItemSkill_902002=Survive - Shield<br>Casts a shield that equals 50% of your HP for 30 seconds when your HP falls below 30%.
+ItemSkill_902003=Survive - Enhanced Attack<br>Increases as much Attack as HP you lose from 100%.
+ItemSkill_902004=Crowd Control - Increased Defense<br>Casts a buff that increases your Defense by 10% every time you cast a Crowd Control effect on your target.
+ItemSkill_902005=Crowd Control - Increased Damage<br>Casts a buff that increases incoming damage for Crowd Control effect targets.
+ItemSkill_902006=Crowd Control - Shield (Explosion)<br>Crowd Control effects cast a shield around their targets that explodes in 5 seconds.
+ItemSkill_902007=Distance Control - Black Hole<br>Successful hits pull surrounding enemies toward their targets.
+ItemSkill_902008=Distance Control - Explosion Mark<br>Successful hits add a mark to their targets that explodes in 5 seconds.
+ItemSkill_902009=Critical Attack - Enhance<br>Critical attacks increase Attack/Movement Speeds for surrounding party members.
+ItemSkill_902010=Incoming Critical Damage - Enhance<br>Incoming Critical damage increases Attack/Movement Speeds for surrounding party members.
+ItemSkill_902011=Incoming Damage - Slow Movement Speed<br>Incoming damage decreases Movement Speed for 60 seconds for enemies in 5 meters around you.
+ItemSkill_902012=Shield Block - AoE damage<br>Successful shield blocks inflict AoE damage.
+ItemSkill_902013=Taunt - Weaken<br>Doubles the Taunt effect and Weakens the taunted.
+ItemSkill_902014=Health - HP Recovery<br>Increases HP Recovery per Second by 500% for 10 seconds every 2 minutes when its wearer's HP falls below 10%.
+ItemSkill_902015=Health - Increased Defense<br>Increases Defense by 200% for 5 seconds when your HP falls below 30%.
+ItemSkill_902016=Health - Invincibility<br>Saves its wearer from death once every 60 seconds. (Invincible for 3 seconds while having 1 HP)
+ItemSkill_902017=Successful Hit - AoE Damage<br>Successful hits create an explosive circle around their targets.
+ItemSkill_902018=Successful Hit - Type Damage<br>100% additional damage on monsters of a certain type
+ItemSkill_902019=Critical Kill - Enhance<br>Finishing blows, upon inflicting Critical damage, increase Attack and Defense by 100% for surrounding party members.
+ItemSkill_902020=Money Gain - AoE Damage<br>Dropped money increases the next money drop by 5%. When this effect reaches the max stack, it causes an explosion as it's reset.
+ItemSkill_902021=EXP Gain - Bonus Gain<br>Increases your party's EXP gain.
+ItemSkill_902022=Weapon Attack - Summon Minion<br>Successful weapon attacks create a chance of summoning a minion.
+ItemSkill_902023=Weapon Attack - Lightning Attack<br>Successful weapon attacks cast lightning that penetrates multiple targets in its path.
+ItemSkill_902024=Weapon Attack - AoE Damage<br>Successful weapon attacks explode their targets.
+ItemSkill_902025=Weapon Attack - Shield<br>Successful weapon attacks cast a shield whose HP equals 50% of damage inflicted on their targets.
+ItemSkill_902026=Weapon Attack - Increased Damage<br>Weapon damage increases by 20% if you do not receive damage for at least 5 seconds.
+
+[Ability]
+Ability_none=Undecided Stat +%s_1
+Ability_attack_speed=Attack Speed +%s_1
+Ability_min_dmg=Min Attack +%s_1
+Ability_max_dmg=Max Attack +%s_1
+Ability_pwr=Attack +%s_1
+Ability_prc=Penetration +%s_1
+Ability_prc_rate=Defense Penetration +%s_1
+Ability_def=Defense +%s_1
+Ability_weapon_min_dmg=Min Weapon Attack +%s_1
+Ability_weapon_max_dmg=Max Weapon Attack +%s_1
+Ability_pvp_pwr=PvP Bonus Damage +%s_1
+Ability_pvp_def=PvP Defense +%s_1
+Ability_def_rate=All Damage Reduction: %s_1
+Ability_cor_pwr_rate=Attack +%s_1
+Ability_cor_pvp_pwr_rate=PvP Attack +%s_1
+Ability_cor_pvp_def_rate=PvP Defense +%s_1
+Ability_cor_pve_pwr_rate=Final Monster Damage Increase +%s_1
+Ability_cor_pve_def_rate=Final Monster Damage Reduction +%s_1
+Ability_weapon_skill_dmg_rate=Main Weapon Skill Damage +%s_1
+Ability_crt=Critical Attack +%s_1
+Ability_crt_rate=Critical Rate +%s_1
+Ability_crt_mul=Critical Damage +%s_1
+Ability_crt_mul_rate=Critical Damage +%s_1
+Ability_dodge=Evasion +%s_1
+Ability_dodge_rate=Evasion Rate +%s_1
+Ability_status_def=CC Time Reduction +%s_1
+Ability_status_def_rate=CC Time Reduction +%s_1
+Ability_shield_block=Shield Block +%s_1
+Ability_shield_block_rate=Shield Block Rate +%s_1
+Ability_run_speed=Movement Speed +%s_1
+Ability_walk_speed=Walking Speed +%s_1
+Ability_cooling_speed=Cooldown Reduction +%s_1
+Ability_max_hp=HP +%s_1
+Ability_max_mp=MP +%s_1
+Ability_rec_hp=HP Recovery per Second +%s_1
+Ability_rec_mp=MP Recovery per Second +%s_1
+Ability_save_mp=MP Cost Reduction +%s_1
+Ability_quest_exp=Quest EXP +%s_1
+Ability_monster_exp=Monster EXP +%s_1
+Ability_normal_monster_exp=Normal Monster EXP +%s_1
+Ability_elite_monster_exp=Elite Monster EXP +%s_1
+Ability_boss_monster_exp=Boss Monster EXP +%s_1
+Ability_sell_itme_price=Item-selling Prices +%s_1
+Ability_item_protect=Durability Loss -%s_1
+Ability_monster_kill_hp_rec=HP +%s_1 for Each Killed Monster
+Ability_monster_kill_mp_rec=MP +%s_1 for Each Killed Monster
+Ability_damage_hp_rec=HP +%s_1 of Damage Inflicted on Monsters
+Ability_damage_mp_rec=MP +%s_1 of Damage Inflicted on Monsters
+Ability_use_item_hp_rec=HP Recovery Item Effects +%s_1
+Ability_use_item_mp_rec=HP Recovery Item Effects +%s_1
+Ability_item_auto_rooting_range=Item Pickup Radius +%s_1m
+Ability_get_magic_item_chance=Uncommon Item Drop Rate +%s_1
+Ability_passive_skill=%s_1
+Ability_get_gold_rate=Zen Drop +%s_1
+Ability_drop_item_count_chance=Item Drop Rate +%s_1
+Ability_ignore_def=Defense Penetration +%s_1
+Ability_ignore_def_rate=Defense Penetration +%s_1
+Ability_status_attack=Crowd Control Enhancement +%s_1
+Ability_status_attack_rate=Crowd Control Enhancement +%s_1
+Ability_healing_power=HP Recovery +%s_1
+Ability_ability_buff_time=Buff Durations +%s_1
+Ability_ability_buff_power=Buff Effects +%s_1
+Ability_summon_time=Summon Durations +%s_1
+Ability_reflect_damage=Damage Reflection +%s_1
+Ability_skill_changer=%s_1
+Ability_skill_mastery_exp_rate=Skill Mastery +%s_1
+Ability_weapon_attack_speed=Weapon Attack Speed +%s_1
+Ability_npc_function=%s_1
+Ability_repair_dur_price_rate=Durability Repair Costs +%s_1
+Ability_weapon_recovery_mp_rate=Main Weapon Skills' MP Recovery +%s_1
+Ability_riding_cast_time_rate=Mount durations -%s_1
+Ability_rec_hp_per_spend_mp=HP +%s_1 of MP Used
+Ability_crt_def_rate=Critical Defense +%s_1
+Ability_monster_dmg_rate=Monster Bonus Damage +%s_1
+Ability_normal_monster_dmg_rate=Normal Monster Attack +%s_1
+Ability_elite_monster_dmg_rate=Elite Monster Attack +%s_1
+Ability_boss_monter_dmg_rate=Boss Monster Attack +%s_1
+Ability_elite_boss_monster_dmg_rate=Elite/Boss Monster Attack +%s_1
+Ability_soul_exp_rate=Soul EXP +%s_1
+Ability_monster_soul_exp_rate=Monster Soul EXP +%s_1
+Ability_normal_monster_soul_exp_rate=Normal Monster Soul EXP +%s_1
+Ability_elite_monster_soul_exp_rate=Elite Monster Soul EXP +%s_1
+Ability_boss_monster_soul_exp_rate=Boss Monster Soul EXP +%s_1
+Ability_elite_boss_monster_soul_exp_rate=Elite/Boss Monster Soul EXP +%s_1
+Ability_pet_exp_rate=Pet EXP +%s_1
+Ability_random_option=Abstraction Values +%s_1
+Ability_get_green_zen_rate=Magic Gem Gain +%s_1
+Ability_riding_speed_rate=Mount Speed +%s_1
+Ability_riding_speed=Mount Speed +%s_1
+Ability_small_dmg=Small Bonus Damage +%s_1
+Ability_small_dmg_rate=Small Attack +%s_1
+Ability_midium_dmg=Medium Bonus Damage +%s_1
+Ability_midium_dmg_rate=Medium Attack +%s_1
+Ability_large_dmg=Large Bonus Damage +%s_1
+Ability_large_dmg_rate=Large Attack +%s_1
+Ability_xlarge_dmg=Extra Large Bonus Damage +%s_1
+Ability_xlarge_dmg_rate=Extra Large Attack +%s_1
+Ability_plant_dmg=Plant Bonus Damage +%s_1
+Ability_plant_dmg_rate=Plant Attack +%s_1
+Ability_insect_dmg=Insect Bonus Damage +%s_1
+Ability_insect_dmg_rate=Insect Attack +%s_1
+Ability_beast_dmg=Beast Bonus Damage +%s_1
+Ability_beast_dmg_rate=Beast Attack +%s_1
+Ability_human_dmg=Humanoid Bonus Damage +%s_1
+Ability_human_dmg_rate=Humanoid Attack +%s_1
+Ability_undead_dmg=Undead Bonus Damage +%s_1
+Ability_undead_dmg_rate=Undead Attack +%s_1
+Ability_devil_dmg=Demon Bonus Damage +%s_1
+Ability_devil_dmg_rate=Demon Attack +%s_1
+Ability_mutant_dmg=Mutant Bonus Damage +%s_1
+Ability_mutant_dmg_rate=Mutant Attack +%s_1
+Ability_magic_dmg=Magic-type Bonus Attack +%s_1
+Ability_magic_dmg_rate=Magic-type Attack +%s_1
+Ability_structure_dmg=Building Bonus Damage +%s_1
+Ability_structure_dmg_rate=Building Attack +%s_1
+Ability_monster_def_rate=Monster Damage Reduction +%s_1
+Ability_normal_monster_def_rate=Normal Monster Damage Reduction +%s_1
+Ability_elite_monster_def_rate=Elite Monster Damage Reduction +%s_1
+Ability_boss_monster_def_rate=Boss Monster Damage Reduction +%s_1
+Ability_elite_boss_monster_def_rate=Elite/Boss Monster Damage Reduction +%s_1
+Ability_small_def_rate=Small Damage Reduction +%s_1
+Ability_midium_def_rate=Medium Damage Reduction +%s_1
+Ability_large_def_rate=Large Damage Reduction +%s_1
+Ability_xlarge_def_rate=Extra Large Damage Reduction +%s_1
+Ability_plant_def_rate=Plant Damage Reduction +%s_1
+Ability_insect_def_rate=Insect Damage Reduction +%s_1
+Ability_beast_def_rate=Beast Damage Reduction +%s_1
+Ability_human_def_rate=Humanoid Damage Reduction +%s_1
+Ability_undead_def_rate=Undead Damage Reduction +%s_1
+Ability_devil_def_rate=Demon Damage Reduction +%s_1
+Ability_mutant_def_rate=Mutant Damage Reduction +%s_1
+Ability_magic_def_rate=Magic-type Damage Reduction +%s_1
+Ability_structure_def_rate=Building Damage Reduction +%s_1
+Ability_accurate_rate=Accuracy +%s_1
+Ability_get_riftpoint_rate=Rift Fragment Gain +%s_1
+Ability_weapon_recovery_hp_rate=HP +%s_1 on Attack
+Ability_ignore_monster_defense=Monster Defense %s_1 Weapon
+Ability_named_monster_dmg_rate=Named Monster Attack +%s_1
+Ability_add_dmg=Attack +%s_1
+Ability_add_dmg_rate=Bonus Attack +%s_1
+Ability_add_def_rate=All Damage Reduction +%s_1
+Ability_weapon_dmg=Weapon Attack +%s_1
+Ability_weapon_base_dmg_rate=Weapon Attack +%s_1
+Ability_weapon_base_dmg=Attack +%s_1
+AbilityRate_none=Undecided Stat +%s_1%
+AbilityRate_attack_speed=Attack Speed +%s_1%
+AbilityRate_min_dmg=Min Attack +%s_1%
+AbilityRate_max_dmg=Max Attack +%s_1%
+AbilityRate_pwr=Attack +%s_1%
+AbilityRate_prc=Penetration +%s_1%
+AbilityRate_prc_rate=Defense Penetration +%s_1%
+AbilityRate_def=Defense +%s_1%
+AbilityRate_weapon_min_dmg=Min Weapon Attack +%s_1%
+AbilityRate_weapon_max_dmg=Max Weapon Attack +%s_1%
+AbilityRate_pvp_pwr=PvP Bonus Damage +%s_1%
+AbilityRate_pvp_def=PvP Defense +%s_1%
+AbilityRate_def_rate=All Damage Reduction: %s_1%
+AbilityRate_cor_pwr_rate=Attack +%s_1%
+AbilityRate_cor_pvp_pwr_rate=PvP Attack +%s_1%
+AbilityRate_cor_pvp_def_rate=PvP Defense +%s_1%
+AbilityRate_cor_pve_pwr_rate=Final Monster Damage Increase +%s_1%
+AbilityRate_cor_pve_def_rate=Final Monster Damage Reduction +%s_1%
+AbilityRate_weapon_skill_dmg_rate=Main Weapon Skill Damage +%s_1%
+AbilityRate_crt=Critical Attack +%s_1%
+AbilityRate_crt_rate=Critical Rate +%s_1%
+AbilityRate_crt_mul=Critical Damage +%s_1%
+AbilityRate_crt_mul_rate=Critical Damage +%s_1%
+AbilityRate_dodge=Evasion +%s_1%
+AbilityRate_dodge_rate=Evasion Rate +%s_1%
+AbilityRate_status_def=CC Time Reduction +%s_1%
+AbilityRate_status_def_rate=CC Time Reduction +%s_1%
+AbilityRate_shield_block=Shield Block +%s_1%
+AbilityRate_shield_block_rate=Shield Block Rate +%s_1%
+AbilityRate_run_speed=Movement Speed +%s_1%
+AbilityRate_walk_speed=Walking Speed +%s_1%
+AbilityRate_cooling_speed=Cooldown Reduction +%s_1%
+AbilityRate_max_hp=HP +%s_1%
+AbilityRate_max_mp=MP +%s_1%
+AbilityRate_rec_hp=HP Recovery per Second +%s_1%
+AbilityRate_rec_mp=MP Recovery per Second +%s_1%
+AbilityRate_save_mp=MP Cost Reduction +%s_1%
+AbilityRate_quest_exp=Quest EXP +%s_1%
+AbilityRate_monster_exp=Monster EXP +%s_1%
+AbilityRate_normal_monster_exp=Normal Monster EXP +%s_1%
+AbilityRate_elite_monster_exp=Elite Monster EXP +%s_1%
+AbilityRate_boss_monster_exp=Boss Monster EXP +%s_1%
+AbilityRate_sell_itme_price=Item-selling Prices +%s_1%
+AbilityRate_item_protect=Durability Loss -%s_1%
+AbilityRate_monster_kill_hp_rec=HP +%s_1% for Each Killed Monster
+AbilityRate_monster_kill_mp_rec=MP +%s_1% for Each Killed Monster
+AbilityRate_damage_hp_rec=HP +%s_1% of Damage Inflicted on Monsters
+AbilityRate_damage_mp_rec=MP +%s_1% of Damage Inflicted on Monsters
+AbilityRate_use_item_hp_rec=HP Recovery Item Effects +%s_1
+AbilityRate_use_item_mp_rec=HP Recovery Item Effects +%s_1
+AbilityRate_item_auto_rooting_range=Item Pickup Radius +%s_1% m
+AbilityRate_get_magic_item_chance=Uncommon Item Drop Rate +%s_1%
+AbilityRate_passive_skill=%s_1%
+AbilityRate_get_gold_rate=Zen Drop +%s_1%
+AbilityRate_drop_item_count_chance=Item Drop Rate +%s_1%
+AbilityRate_ignore_def=Defense Penetration +%s_1%
+AbilityRate_ignore_def_rate=Defense Penetration +%s_1%
+AbilityRate_status_attack=Crowd Control Enhancement +%s_1%
+AbilityRate_status_attack_rate=Crowd Control Enhancement +%s_1%
+AbilityRate_healing_power=HP Recovery +%s_1%
+AbilityRate_ability_buff_time=Buff Durations +%s_1%
+AbilityRate_ability_buff_power=Buff Effects +%s_1%
+AbilityRate_summon_time=Summon Durations +%s_1%
+AbilityRate_reflect_damage=Damage Reflection +%s_1%
+AbilityRate_skill_changer=%s_1%
+AbilityRate_skill_mastery_exp_rate=Skill Mastery +%s_1%
+AbilityRate_weapon_attack_speed=Weapon Attack Speed +%s_1%
+AbilityRate_npc_function=%s_1%
+AbilityRate_repair_dur_price_rate=Durability Repair Costs +%s_1%
+AbilityRate_weapon_recovery_mp_rate=Main Weapon Skills' MP Recovery +%s_1%
+AbilityRate_riding_cast_time_rate=Mount Durations -%s_1%
+AbilityRate_rec_hp_per_spend_mp=HP +%s_1% of MP Used
+AbilityRate_crt_def_rate=Critical Defense +%s_1%
+AbilityRate_monster_dmg_rate=Monster Bonus Damage +%s_1%
+AbilityRate_normal_monster_dmg_rate=Normal Monster Attack +%s_1%
+AbilityRate_elite_monster_dmg_rate=Elite Monster Attack +%s_1%
+AbilityRate_boss_monter_dmg_rate=Boss Monster Attack +%s_1%
+AbilityRate_elite_boss_monster_dmg_rate=Elite/Boss Monster Attack +%s_1%
+AbilityRate_soul_exp_rate=Soul EXP +%s_1%
+AbilityRate_monster_soul_exp_rate=Monster Soul EXP +%s_1%
+AbilityRate_normal_monster_soul_exp_rate=Normal Monster Soul EXP +%s_1%
+AbilityRate_elite_monster_soul_exp_rate=Elite Monster Soul EXP +%s_1%
+AbilityRate_boss_monster_soul_exp_rate=Boss Monster Soul EXP +%s_1%
+AbilityRate_elite_boss_monster_soul_exp_rate=Elite/Boss Monster Soul EXP +%s_1%
+AbilityRate_pet_exp_rate=Pet EXP +%s_1%
+AbilityRate_random_option=Abstraction Values +%s_1%
+AbilityRate_get_green_zen_rate=Magic Gem Gain +%s_1%
+AbilityRate_riding_speed_rate=Mount Speed +%s_1%
+AbilityRate_riding_speed=Mount Speed +%s_1%
+AbilityRate_small_dmg=Small Bonus Damage +%s_1%
+AbilityRate_small_dmg_rate=Small Attack +%s_1%
+AbilityRate_midium_dmg=Medium Bonus Damage +%s_1%
+AbilityRate_midium_dmg_rate=Medium Attack +%s_1%
+AbilityRate_large_dmg=Large Bonus Damage +%s_1%
+AbilityRate_large_dmg_rate=Large Attack +%s_1%
+AbilityRate_xlarge_dmg=Extra Large Bonus Damage +%s_1%
+AbilityRate_xlarge_dmg_rate=Extra Large Attack +%s_1%
+AbilityRate_plant_dmg=Plant Bonus Damage +%s_1%
+AbilityRate_plant_dmg_rate=Plant Attack +%s_1%
+AbilityRate_insect_dmg=Insect Bonus Damage +%s_1%
+AbilityRate_insect_dmg_rate=Insect Attack +%s_1%
+AbilityRate_beast_dmg=Beast Bonus Damage +%s_1%
+AbilityRate_beast_dmg_rate=Beast Attack +%s_1%
+AbilityRate_human_dmg=Humanoid Bonus Damage +%s_1%
+AbilityRate_human_dmg_rate=Humanoid Attack +%s_1%
+AbilityRate_undead_dmg=Undead Bonus Damage +%s_1%
+AbilityRate_undead_dmg_rate=Undead Attack +%s_1%
+AbilityRate_devil_dmg=Demon Bonus Damage +%s_1%
+AbilityRate_devil_dmg_rate=Demon Attack +%s_1%
+AbilityRate_mutant_dmg=Mutant Bonus Damage +%s_1%
+AbilityRate_mutant_dmg_rate=Mutant Attack +%s_1%
+AbilityRate_magic_dmg=Magic-type Bonus Attack +%s_1%
+AbilityRate_magic_dmg_rate=Magic-type Attack +%s_1%
+AbilityRate_structure_dmg=Building Bonus Damage +%s_1%
+AbilityRate_structure_dmg_rate=Building Attack +%s_1%
+AbilityRate_monster_def_rate=Monster Damage Reduction +%s_1%
+AbilityRate_normal_monster_def_rate=Normal Monster Damage Reduction +%s_1%
+AbilityRate_elite_monster_def_rate=Elite Monster Damage Reduction +%s_1%
+AbilityRate_boss_monster_def_rate=Boss Monster Damage Reduction +%s_1%
+AbilityRate_elite_boss_monster_def_rate=Elite/Boss Monster Damage Reduction +%s_1%
+AbilityRate_small_def_rate=Small Damage Reduction +%s_1%
+AbilityRate_midium_def_rate=Medium Damage Reduction +%s_1%
+AbilityRate_large_def_rate=Large Damage Reduction +%s_1%
+AbilityRate_xlarge_def_rate=Extra Large Damage Reduction +%s_1%
+AbilityRate_plant_def_rate=Plant Damage Reduction +%s_1%
+AbilityRate_insect_def_rate=Insect Damage Reduction +%s_1%
+AbilityRate_beast_def_rate=Beast Damage Reduction +%s_1%
+AbilityRate_human_def_rate=Humanoid Damage Reduction +%s_1%
+AbilityRate_undead_def_rate=Undead Damage Reduction +%s_1%
+AbilityRate_devil_def_rate=Demon Damage Reduction +%s_1%
+AbilityRate_mutant_def_rate=Mutant Damage Reduction +%s_1%
+AbilityRate_magic_def_rate=Magic-type Damage Reduction +%s_1%
+AbilityRate_structure_def_rate=Building Damage Reduction +%s_1%
+AbilityRate_accurate_rate=Accuracy +%s_1%
+AbilityRate_get_riftpoint_rate=Rift Fragment Gain +%s_1%
+AbilityRate_weapon_recovery_hp_rate=HP +%s_1% on Attack
+AbilityRate_ignore_monster_defense=Monster Defense %s_1% Weapon
+AbilityRate_named_monster_dmg_rate=Named Monster Attack +%s_1%
+AbilityRate_add_dmg=Attack +%s_1%
+AbilityRate_add_dmg_rate=Attack +%s_1%
+AbilityRate_add_def_rate=All Damage Reduction +%s_1%
+AbilityRate_weapon_dmg=Weapon Attack +%s_1%
+AbilityRate_weapon_base_dmg_rate=Weapon Attack +%s_1%
+AbilityRate_weapon_base_dmg=Attack +%s_1%
+AbilityMain_none=Undecided Stat: %s_1
+AbilityMain_attack_speed=Attack Speed: %s_1
+AbilityMain_min_dmg=Min Attack: %s_1
+AbilityMain_max_dmg=Max Attack: %s_1
+AbilityMain_pwr=Attack: %s_1
+AbilityMain_prc=Penetration: %s_1
+AbilityMain_prc_rate=Defense Penetration: %s_1%
+AbilityMain_def=Defense: %s_1
+AbilityMain_weapon_min_dmg=Min Weapon Attack: %s_1
+AbilityMain_weapon_max_dmg=Max Weapon Attack: %s_1
+AbilityMain_pvp_pwr=PvP Bonus Damage: %s_1
+AbilityMain_pvp_def=PvP Defense: %s_1
+AbilityMain_def_rate=All Damage Reduction: %s_1%
+AbilityMain_cor_pwr_rate=Attack: %s_1
+AbilityMain_cor_pvp_pwr_rate=PvP Attack: %s_1%
+AbilityMain_cor_pvp_def_rate=PvP Defense: %s_1%
+AbilityMain_cor_pve_pwr_rate=Final Monster Damage Increase: %s_1%
+AbilityMain_cor_pve_def_rate=Final Monster Damage Reduction: %s_1%
+AbilityMain_weapon_skill_dmg_rate=Main Weapon Skill Damage: +%s_1%
+AbilityMain_crt=Critical Attack: %s_1
+AbilityMain_crt_rate=Critical Rate: %s_1%
+AbilityMain_crt_mul=Critical Damage: %s_1
+AbilityMain_crt_mul_rate=Critical Damage: %s_1%
+AbilityMain_dodge=Evasion: %s_1
+AbilityMain_dodge_rate=Evasion Rate: %s_1%
+AbilityMain_status_def=CC Time Reduction: %s_1
+AbilityMain_status_def_rate=CC Time Reduction: %s_1%
+AbilityMain_shield_block=Shield Block: %s_1
+AbilityMain_shield_block_rate=Shield Block Rate: %s_1%
+AbilityMain_run_speed=Movement Speed: %s_1
+AbilityMain_walk_speed=Walking Speed: %s_1
+AbilityMain_cooling_speed=Cooldown Reduction: %s_1
+AbilityMain_max_hp=Max HP: %s_1
+AbilityMain_max_mp=Max MP: %s_1
+AbilityMain_rec_hp=HP Recovery per Second: %s_1
+AbilityMain_rec_mp=MP Recovery per Second: %s_1
+AbilityMain_save_mp=MP Cost Reduction: %s_1
+AbilityMain_quest_exp=Quest EXP: %s_1%
+AbilityMain_monster_exp=Monster EXP: %s_1%
+AbilityMain_normal_monster_exp=Normal Monster EXP: %s_1%
+AbilityMain_elite_monster_exp=Elite Monster EXP: %s_1%
+AbilityMain_boss_monster_exp=Boss Monster EXP: %s_1%
+AbilityMain_sell_itme_price=Item-selling Prices: %s_1%
+AbilityMain_item_protect=Durability Loss -%s_1%
+AbilityMain_monster_kill_hp_rec=HP +%s_1 for Each Killed Monster
+AbilityMain_monster_kill_mp_rec=MP +%s_1 for Each Killed Monster
+AbilityMain_damage_hp_rec=HP +%s_1 of Damage Inflicted on Monsters
+AbilityMain_damage_mp_rec=MP +%s_1 of Damage Inflicted on Monsters
+AbilityMain_use_item_hp_rec=HP Recovery Item Effects +%s_1
+AbilityMain_use_item_mp_rec=HP Recovery Item Effects +%s_1
+AbilityMain_item_auto_rooting_range=Item Pickup Radius: %s_1m
+AbilityMain_get_magic_item_chance=Uncommon Item Drop Rate: %s_1%
+AbilityMain_passive_skill=%s_1
+AbilityMain_get_gold_rate=Zen Drop: %s_1%
+AbilityMain_drop_item_count_chance=Item Drop Rate: %s_1
+AbilityMain_ignore_def=Defense Penetration: %s_1
+AbilityMain_ignore_def_rate=Defense Penetration: %s_1%
+AbilityMain_status_attack=Crowd Control Enhancement: %s_1
+AbilityMain_status_attack_rate=Crowd Control Enhancement: %s_1%
+AbilityMain_healing_power=HP Recovery: %s_1
+AbilityMain_ability_buff_time=Buff Durations: %s_1
+AbilityMain_ability_buff_power=Buff Effects: %s_1
+AbilityMain_summon_time=Summon Durations: %s_1
+AbilityMain_reflect_damage=Damage Reflection: %s_1
+AbilityMain_skill_changer=%s_1
+AbilityMain_skill_mastery_exp_rate=Skill Mastery: %s_1%
+AbilityMain_weapon_attack_speed=Weapon Attack Speed: %s_1
+AbilityMain_npc_function=%s_1
+AbilityMain_repair_dur_price_rate=Durability Repair Costs: %s_1%
+AbilityMain_weapon_recovery_mp_rate=Main Weapon Skills' MP Recovery: %s_1%
+AbilityMain_riding_cast_time_rate=Mount Durations -%s_1%
+AbilityMain_rec_hp_per_spend_mp=HP +%s_1 of MP Used
+AbilityMain_crt_def_rate=Critical Defense: %s_1%
+AbilityMain_monster_dmg_rate=Monster Bonus Damage: %s_1%
+AbilityMain_normal_monster_dmg_rate=Normal Monster Attack: %s_1%
+AbilityMain_elite_monster_dmg_rate=Elite Monster Attack: %s_1%
+AbilityMain_boss_monter_dmg_rate=Boss Monster Attack: %s_1%
+AbilityMain_elite_boss_monster_dmg_rate=Elite/Boss Monster Attack: %s_1%
+AbilityMain_soul_exp_rate=Soul EXP: %s_1%
+AbilityMain_monster_soul_exp_rate=Monster Soul EXP: %s_1%
+AbilityMain_normal_monster_soul_exp_rate=Normal Monster Soul EXP: %s_1%
+AbilityMain_elite_monster_soul_exp_rate=Elite Monster Soul EXP: %s_1%
+AbilityMain_boss_monster_soul_exp_rate=Boss Monster Soul EXP: %s_1%
+AbilityMain_elite_boss_monster_soul_exp_rate=Elite/Boss Monster Soul EXP: %s_1%
+AbilityMain_pet_exp_rate=Pet EXP: %s_1%
+AbilityMain_random_option=Abstraction Values: %s_1
+AbilityMain_get_green_zen_rate=Magic Gem Gain: %s_1%
+AbilityMain_riding_speed_rate=Mount Speed: %s_1%
+AbilityMain_riding_speed=Mount Speed: %s_1
+AbilityMain_small_dmg=Small Bonus Damage: %s_1
+AbilityMain_small_dmg_rate=Small Attack: %s_1%
+AbilityMain_midium_dmg=Medium Bonus Damage: %s_1
+AbilityMain_midium_dmg_rate=Medium Attack: %s_1%
+AbilityMain_large_dmg=Large Bonus Damage: %s_1
+AbilityMain_large_dmg_rate=Large Attack: %s_1%
+AbilityMain_xlarge_dmg=Extra Large Bonus Damage: %s_1
+AbilityMain_xlarge_dmg_rate=Extra Large Attack: %s_1%
+AbilityMain_plant_dmg=Plant Bonus Damage: %s_1
+AbilityMain_plant_dmg_rate=Plant Attack: %s_1%
+AbilityMain_insect_dmg=Insect Bonus Damage: %s_1
+AbilityMain_insect_dmg_rate=Insect Attack: %s_1%
+AbilityMain_beast_dmg=Beast Bonus Damage: %s_1
+AbilityMain_beast_dmg_rate=Beast Attack: %s_1%
+AbilityMain_human_dmg=Humanoid Bonus Damage: %s_1
+AbilityMain_human_dmg_rate=Humanoid Attack: %s_1%
+AbilityMain_undead_dmg=Undead Bonus Damage: %s_1
+AbilityMain_undead_dmg_rate=Undead Attack: %s_1%
+AbilityMain_devil_dmg=Demon Bonus Damage: %s_1
+AbilityMain_devil_dmg_rate=Demon Attack: %s_1%
+AbilityMain_mutant_dmg=Mutant Bonus Damage: %s_1
+AbilityMain_mutant_dmg_rate=Mutant Attack: %s_1%
+AbilityMain_magic_dmg=Magic-type Bonus Attack: %s_1
+AbilityMain_magic_dmg_rate=Magic-type Attack: %s_1%
+AbilityMain_structure_dmg=Building Bonus Damage: %s_1
+AbilityMain_structure_dmg_rate=Building Attack: %s_1%
+AbilityMain_monster_def_rate=Monster Damage Reduction: %s_1%
+AbilityMain_normal_monster_def_rate=Normal Monster Damage Reduction: %s_1%
+AbilityMain_elite_monster_def_rate=Elite Monster Damage Reduction: %s_1%
+AbilityMain_boss_monster_def_rate=Boss Monster Damage Reduction: %s_1%
+AbilityMain_elite_boss_monster_def_rate=Elite/Boss Monster Damage Reduction: %s_1%
+AbilityMain_small_def_rate=Small Damage Reduction: %s_1%
+AbilityMain_midium_def_rate=Medium Damage Reduction: %s_1%
+AbilityMain_large_def_rate=Large Damage Reduction: %s_1%
+AbilityMain_xlarge_def_rate=Extra Large Damage Reduction: %s_1%
+AbilityMain_plant_def_rate=Plant Damage Reduction: %s_1%
+AbilityMain_insect_def_rate=Insect Damage Reduction: %s_1%
+AbilityMain_beast_def_rate=Beast Damage Reduction: %s_1%
+AbilityMain_human_def_rate=Humanoid Damage Reduction: %s_1%
+AbilityMain_undead_def_rate=Undead Damage Reduction: %s_1%
+AbilityMain_devil_def_rate=Demon Damage Reduction: %s_1%
+AbilityMain_mutant_def_rate=Mutant Damage Reduction: %s_1%
+AbilityMain_magic_def_rate=Magic-type Damage Reduction: %s_1%
+AbilityMain_structure_def_rate=Building Damage Reduction: %s_1%
+AbilityMain_accurate_rate=Accuracy: %s_1%
+AbilityMain_get_riftpoint_rate=Rift Fragment Gain: %s_1%
+AbilityMain_weapon_recovery_hp_rate=HP +%s_1% on Attack
+AbilityMain_ignore_monster_defense=Monster Defense %s_1% Weapon
+AbilityMain_named_monster_dmg_rate=Named Monster Attack: %s_1%
+AbilityMain_add_dmg=Attack: %s_1
+AbilityMain_add_dmg_rate=Bonus Attack: %s_1
+AbilityMain_add_def_rate=All Damage Reduction: %s_1
+AbilityMain_weapon_dmg=Weapon Attack: %s_1
+AbilityMain_weapon_base_dmg_rate=Weapon Attack %s_1
+AbilityMain_weapon_base_dmg=Attack %s_1
+AbilityRange_none=Undecided Stat +%s_1 - %s_2
+AbilityRange_attack_speed=Attack Speed +%s_1 - %s_2
+AbilityRange_min_dmg=Min Attack +%s_1 - %s_2
+AbilityRange_max_dmg=Max Attack +%s_1 - %s_2
+AbilityRange_pwr=Attack +%s_1 - %s_2
+AbilityRange_prc=Penetration +%s_1 - %s_2
+AbilityRange_prc_rate=Defense Penetration +%s_1 - %s_2%
+AbilityRange_def=Defense +%s_1 - %s_2
+AbilityRange_weapon_min_dmg=Min Weapon Attack +%s_1 - %s_2
+AbilityRange_weapon_max_dmg=Max Weapon Attack +%s_1 - %s_2
+AbilityRange_pvp_pwr=PvP Bonus Damage +%s_1 - %s_2
+AbilityRange_pvp_def=PvP Defense +%s_1 - %s_2
+AbilityRange_def_rate=All Damage Reduction: %s_1 - %s_2%
+AbilityRange_cor_pwr_rate=Attack +%s_1 - %s_2%
+AbilityRange_cor_pvp_pwr_rate=PvP Attack +%s_1 - %s_2%
+AbilityRange_cor_pvp_def_rate=PvP Defense +%s_1 - %s_2%
+AbilityRange_cor_pve_pwr_rate=Final Monster Damage Increase +%s_1 - %s_2%
+AbilityRange_cor_pve_def_rate=Final Monster Damage Reduction +%s_1 - %s_2%
+AbilityRange_weapon_skill_dmg_rate=Main Weapon Skill Damage +%s_1 - %s_2%
+AbilityRange_crt=Critical Attack +%s_1 - %s_2
+AbilityRange_crt_rate=Critical Rate +%s_1 - %s_2%
+AbilityRange_crt_mul=Critical Damage +%s_1 - %s_2
+AbilityRange_crt_mul_rate=Critical Damage +%s_1 - %s_2%
+AbilityRange_dodge=Evasion +%s_1 - %s_2
+AbilityRange_dodge_rate=Evasion Rate +%s_1 - %s_2%
+AbilityRange_status_def=CC Time Reduction +%s_1 - %s_2
+AbilityRange_status_def_rate=CC Time Reduction +%s_1 - %s_2%
+AbilityRange_shield_block=Shield Block +%s_1 - %s_2
+AbilityRange_shield_block_rate=Shield Block Rate +%s_1 - %s_2%
+AbilityRange_run_speed=Movement Speed +%s_1 - %s_2
+AbilityRange_walk_speed=Walking Speed +%s_1 - %s_2
+AbilityRange_cooling_speed=Cooldown Reduction +%s_1 - %s_2
+AbilityRange_max_hp=HP +%s_1 - %s_2
+AbilityRange_max_mp=MP +%s_1 - %s_2
+AbilityRange_rec_hp=HP Recovery per Second +%s_1 - %s_2
+AbilityRange_rec_mp=MP Recovery per Second +%s_1 - %s_2
+AbilityRange_save_mp=MP Cost Reduction +%s_1 - %s_2
+AbilityRange_quest_exp=Quest EXP +%s_1 - %s_2%
+AbilityRange_monster_exp=Monster EXP +%s_1 - %s_2%
+AbilityRange_normal_monster_exp=Normal Monster EXP +%s_1 - %s_2%
+AbilityRange_elite_monster_exp=Elite Monster EXP +%s_1 - %s_2%
+AbilityRange_boss_monster_exp=Boss Monster EXP +%s_1 - %s_2%
+AbilityRange_sell_itme_price=Item-selling Prices +%s_1 - %s_2%
+AbilityRange_item_protect=Durability Loss -%s_1 - %s_2%
+AbilityRange_monster_kill_hp_rec=HP +%s_1 - %s_2 for Each Killed Monster
+AbilityRange_monster_kill_mp_rec=MP +%s_1 - %s_2 for Each Killed Monster
+AbilityRange_damage_hp_rec=HP +%s_1 - %s_2 of Damage Inflicted on Monsters
+AbilityRange_damage_mp_rec=MP +%s_1 - %s_2 of Damage Inflicted on Monsters
+AbilityRange_use_item_hp_rec=HP Recovery Item Effects +%s_1 - %s_2
+AbilityRange_use_item_mp_rec=HP Recovery Item Effects +%s_1 - %s_2
+AbilityRange_item_auto_rooting_range=Item Pickup Radius +%s_1 - %s_2 m
+AbilityRange_get_magic_item_chance=Uncommon Item Drop Rate +%s_1 - %s_2%
+AbilityRange_passive_skill=%s_1~%s_2
+AbilityRange_get_gold_rate=Zen Drop +%s_1 - %s_2%
+AbilityRange_drop_item_count_chance=Item Drop Rate +%s_1 - %s_2
+AbilityRange_ignore_def=Defense Penetration +%s_1 - %s_2
+AbilityRange_ignore_def_rate=Defense Penetration +%s_1 - %s_2%
+AbilityRange_status_attack=Crowd Control Enhancement +%s_1 - %s_2
+AbilityRange_status_attack_rate=Crowd Control Enhancement +%s_1 - %s_2%
+AbilityRange_healing_power=HP Recovery +%s_1 - %s_2
+AbilityRange_ability_buff_time=Buff Durations +%s_1 - %s_2
+AbilityRange_ability_buff_power=Buff Effects +%s_1 - %s_2
+AbilityRange_summon_time=Summon Durations +%s_1 - %s_2
+AbilityRange_reflect_damage=Damage Reflection +%s_1 - %s_2
+AbilityRange_skill_changer=%s_1~%s_2
+AbilityRange_skill_mastery_exp_rate=Skill Mastery +%s_1 - %s_2%
+AbilityRange_weapon_attack_speed=Weapon Attack Speed +%s_1 - %s_2
+AbilityRange_npc_function=%s_1~%s_2
+AbilityRange_repair_dur_price_rate=Durability Repair Costs +%s_1 - %s_2%
+AbilityRange_weapon_recovery_mp_rate=Main Weapon Skills' MP Recovery +%s_1 - %s_2%
+AbilityRange_riding_cast_time_rate=Mount Durations -%s_1 - %s_2%
+AbilityRange_rec_hp_per_spend_mp=HP +%s_1 - %s_2 of MP Used
+AbilityRange_crt_def_rate=Critical Defense +%s_1 - %s_2%
+AbilityRange_monster_dmg_rate=Monster Bonus Damage +%s_1 - %s_2%
+AbilityRange_normal_monster_dmg_rate=Normal Monster Attack +%s_1 - %s_2%
+AbilityRange_elite_monster_dmg_rate=Elite Monster Attack +%s_1 - %s_2%
+AbilityRange_boss_monter_dmg_rate=Boss Monster Attack +%s_1 - %s_2%
+AbilityRange_elite_boss_monster_dmg_rate=Elite/Boss Monster Attack +%s_1 - %s_2%
+AbilityRange_soul_exp_rate=Soul EXP +%s_1 - %s_2%
+AbilityRange_monster_soul_exp_rate=Monster Soul EXP +%s_1 - %s_2%
+AbilityRange_normal_monster_soul_exp_rate=Normal Monster Soul EXP +%s_1 - %s_2%
+AbilityRange_elite_monster_soul_exp_rate=Elite Monster Soul EXP +%s_1 - %s_2%
+AbilityRange_boss_monster_soul_exp_rate=Boss Monster Soul EXP +%s_1 - %s_2%
+AbilityRange_elite_boss_monster_soul_exp_rate=Elite/Boss Monster Soul EXP +%s_1 - %s_2%
+AbilityRange_pet_exp_rate=Pet EXP +%s_1 - %s_2%
+AbilityRange_random_option=Abstraction Values +%s_1 - %s_2
+AbilityRange_get_green_zen_rate=Magic Gem Gain +%s_1 - %s_2%
+AbilityRange_riding_speed_rate=Mount Speed +%s_1 - %s_2%
+AbilityRange_riding_speed=Mount Speed +%s_1 - %s_2
+AbilityRange_small_dmg=Small Bonus Damage +%s_1 - %s_2
+AbilityRange_small_dmg_rate=Small Attack +%s_1 - %s_2%
+AbilityRange_midium_dmg=Medium Bonus Damage +%s_1 - %s_2
+AbilityRange_midium_dmg_rate=Medium Attack +%s_1 - %s_2%
+AbilityRange_large_dmg=Large Bonus Damage +%s_1 - %s_2
+AbilityRange_large_dmg_rate=Large Attack +%s_1 - %s_2%
+AbilityRange_xlarge_dmg=Extra Large Bonus Damage +%s_1 - %s_2
+AbilityRange_xlarge_dmg_rate=Extra Large Attack +%s_1 - %s_2%
+AbilityRange_plant_dmg=Plant Bonus Damage +%s_1 - %s_2
+AbilityRange_plant_dmg_rate=Plant Attack +%s_1 - %s_2%
+AbilityRange_insect_dmg=Insect Bonus Damage +%s_1 - %s_2
+AbilityRange_insect_dmg_rate=Insect Attack +%s_1 - %s_2%
+AbilityRange_beast_dmg=Beast Bonus Damage +%s_1 - %s_2
+AbilityRange_beast_dmg_rate=Beast Attack +%s_1 - %s_2%
+AbilityRange_human_dmg=Humanoid Bonus Damage +%s_1 - %s_2
+AbilityRange_human_dmg_rate=Humanoid Attack +%s_1 - %s_2%
+AbilityRange_undead_dmg=Undead Bonus Damage +%s_1 - %s_2
+AbilityRange_undead_dmg_rate=Undead Attack +%s_1 - %s_2%
+AbilityRange_devil_dmg=Demon Bonus Damage +%s_1 - %s_2
+AbilityRange_devil_dmg_rate=Demon Attack +%s_1 - %s_2%
+AbilityRange_mutant_dmg=Mutant Bonus Damage +%s_1 - %s_2
+AbilityRange_mutant_dmg_rate=Mutant Attack +%s_1 - %s_2%
+AbilityRange_magic_dmg=Magic-type Bonus Attack +%s_1 - %s_2
+AbilityRange_magic_dmg_rate=Magic-type Attack +%s_1 - %s_2%
+AbilityRange_structure_dmg=Building Bonus Damage +%s_1 - %s_2
+AbilityRange_structure_dmg_rate=Building Attack +%s_1 - %s_2%
+AbilityRange_monster_def_rate=Monster Damage Reduction +%s_1 - %s_2%
+AbilityRange_normal_monster_def_rate=Normal Monster Damage Reduction +%s_1 - %s_2%
+AbilityRange_elite_monster_def_rate=Elite Monster Damage Reduction +%s_1 - %s_2%
+AbilityRange_boss_monster_def_rate=Boss Monster Damage Reduction +%s_1 - %s_2%
+AbilityRange_elite_boss_monster_def_rate=Elite/Boss Monster Damage Reduction +%s_1 - %s_2%
+AbilityRange_small_def_rate=Small Damage Reduction +%s_1 - %s_2%
+AbilityRange_midium_def_rate=Medium Damage Reduction +%s_1 - %s_2%
+AbilityRange_large_def_rate=Large Damage Reduction +%s_1 - %s_2%
+AbilityRange_xlarge_def_rate=Extra Large Damage Reduction +%s_1 - %s_2%
+AbilityRange_plant_def_rate=Plant Damage Reduction +%s_1 - %s_2%
+AbilityRange_insect_def_rate=Insect Damage Reduction +%s_1 - %s_2%
+AbilityRange_beast_def_rate=Beast Damage Reduction +%s_1 - %s_2%
+AbilityRange_human_def_rate=Humanoid Damage Reduction +%s_1 - %s_2%
+AbilityRange_undead_def_rate=Undead Damage Reduction +%s_1 - %s_2%
+AbilityRange_devil_def_rate=Demon Damage Reduction +%s_1 - %s_2%
+AbilityRange_mutant_def_rate=Mutant Damage Reduction +%s_1 - %s_2%
+AbilityRange_magic_def_rate=Magic-type Damage Reduction +%s_1 - %s_2%
+AbilityRange_structure_def_rate=Building Damage Reduction +%s_1 - %s_2%
+AbilityRange_accurate_rate=Accuracy +%s_1 - %s_2%
+AbilityRange_get_riftpoint_rate=Rift Fragment Gain +%s_1 - %s_2%
+AbilityRange_weapon_recovery_hp_rate=HP +%s_1 - %s_2% on Attack
+AbilityRange_ignore_monster_defense=Monster Defense %s_1 - %s_2% Weapon
+AbilityRange_named_monster_dmg_rate=Named Monster Attack +%s_1 - %s_2%
+AbilityRange_add_dmg=Attack +%s_1 - %s_2
+AbilityRange_add_dmg_rate=Bonus Attack +%s_1 - %s_2
+AbilityRange_add_def_rate=All Damage Reduction +%s_1 - %s_2
+AbilityRange_weapon_dmg=Weapon Attack +%s_1 - %s_2
+AbilityRange_weapon_base_dmg_rate=Weapon Attack +%s_1 - %s_2
+AbilityRange_weapon_base_dmg=Attack +%s_1 - %s_2
+AbilityMod_none=Undecided Stat +%s_1
+AbilityMod_attack_speed=Increased Attack Speed: %s_1
+AbilityMod_min_dmg=Increased Min Magic Attack: %s_1
+AbilityMod_max_dmg=Increased Max Magic Attack: %s_1
+AbilityMod_pwr=Increased Attack: %s_1
+AbilityMod_prc=Increased Penetration: %s_1
+AbilityMod_prc_rate=Increased Defense Penetration: %s_1
+AbilityMod_def=Increased Defense: %s_1
+AbilityMod_weapon_min_dmg=Increased Min Weapon Attack: %s_1
+AbilityMod_weapon_max_dmg=Increased Max Weapon Attack: %s_1
+AbilityMod_pvp_pwr=Increased PvP Bonus Damage: %s_1
+AbilityMod_pvp_def=Increased PvP Defense: %s_1
+AbilityMod_def_rate=All Damage Reduction: %s_1
+AbilityMod_cor_pwr_rate=Increased Attack: %s_1
+AbilityMod_cor_pvp_pwr_rate=Increased PvP Attack: %s_1
+AbilityMod_cor_pvp_def_rate=Increased PvP Defense: %s_1
+AbilityMod_cor_pve_pwr_rate=Final Monster Damage Increase: %s_1
+AbilityMod_cor_pve_def_rate=Final Monster Damage Reduction: %s_1
+AbilityMod_weapon_skill_dmg_rate=Main Weapon Skill Damage +%s_1
+AbilityMod_crt=Increased Critical Damage: %s_1
+AbilityMod_crt_rate=Increased Critical Rate: %s_1
+AbilityMod_crt_mul=Critical Damage +%s_1
+AbilityMod_crt_mul_rate=Critical Damage +%s_1
+AbilityMod_dodge=Increased Evasion: %s_1
+AbilityMod_dodge_rate=Increased Evasion Rate: %s_1
+AbilityMod_status_def=CC Time Reduction: %s_1
+AbilityMod_status_def_rate=CC Time Reduction: %s_1
+AbilityMod_shield_block=Increased Shield Block: %s_1
+AbilityMod_shield_block_rate=Increased Shield Block Rate: %s_1
+AbilityMod_run_speed=Increased Movement Speed: %s_1
+AbilityMod_walk_speed=Increased Walking Speed: %s_1
+AbilityMod_cooling_speed=Cooldown Reduction: %s_1
+AbilityMod_max_hp=Increased HP: %s_1
+AbilityMod_max_mp=Increased MP: %s_1
+AbilityMod_rec_hp=Increased HP Recovery per Second: %s_1
+AbilityMod_rec_mp=Increased MP Recovery per Second: %s_1
+AbilityMod_save_mp=MP Cost Reduction: %s_1
+AbilityMod_quest_exp=Increased Quest EXP: %s_1
+AbilityMod_monster_exp=Increased Monster EXP: %s_1
+AbilityMod_normal_monster_exp=Increased Normal Monster EXP: %s_1
+AbilityMod_elite_monster_exp=Increased Elite Monster EXP: %s_1
+AbilityMod_boss_monster_exp=Increased Boss Monster EXP: %s_1
+AbilityMod_sell_itme_price=Increased Item-selling Prices: %s_1
+AbilityMod_item_protect=Durability Loss -%s_1
+AbilityMod_monster_kill_hp_rec=HP +%s_1 for Each Killed Monster
+AbilityMod_monster_kill_mp_rec=MP +%s_1 for Each Killed Monster
+AbilityMod_damage_hp_rec=HP +%s_1 of Damage Inflicted on Monsters
+AbilityMod_damage_mp_rec=MP +%s_1 of Damage Inflicted on Monsters
+AbilityMod_use_item_hp_rec=HP Recovery Item Effects +%s_1
+AbilityMod_use_item_mp_rec=HP Recovery Item Effects +%s_1
+AbilityMod_item_auto_rooting_range=Item Gain Radius +%s_1 m
+AbilityMod_get_magic_item_chance=Increased Uncommon Item Drop Rate: %s_1
+AbilityMod_passive_skill=%s_1
+AbilityMod_get_gold_rate=Increased Zen Drop: %s_1
+AbilityMod_drop_item_count_chance=Increased Item Drop Rate: %s_1
+AbilityMod_ignore_def=Increased Defense Penetration: %s_1
+AbilityMod_ignore_def_rate=Increased Defense Penetration: %s_1
+AbilityMod_status_attack=Increased Crowd Control Enhancement: %s_1
+AbilityMod_status_attack_rate=Increased Crowd Control Enhancement: %s_1
+AbilityMod_healing_power=Increased HP Recovery: %s_1
+AbilityMod_ability_buff_time=Increased Buff Durations: %s_1
+AbilityMod_ability_buff_power=Improved Buff Effects: %s_1
+AbilityMod_summon_time=Increased Summon Durations: %s_1
+AbilityMod_reflect_damage=Increased Damage Reflection: %s_1
+AbilityMod_skill_changer=%s_1
+AbilityMod_skill_mastery_exp_rate=Increased Skill Mastery: %s_1
+AbilityMod_weapon_attack_speed=Increased Weapon Attack Speed: %s_1
+AbilityMod_npc_function=%s_1
+AbilityMod_repair_dur_price_rate=Increased Durability Repair Costs: %s_1
+AbilityMod_weapon_recovery_mp_rate=Increased Main Weapon Skills' MP Recovery: %s_1
+AbilityMod_riding_cast_time_rate=Mount Duration Reduction: %s_1
+AbilityMod_rec_hp_per_spend_mp=HP +%s_1 of MP Used
+AbilityMod_crt_def_rate=Increased Critical Defense: %s_1
+AbilityMod_monster_dmg_rate=Increased Monster Bonus Damage: %s_1
+AbilityMod_normal_monster_dmg_rate=Increased Normal Monster Attack: %s_1
+AbilityMod_elite_monster_dmg_rate=Increased Elite Monster Attack: %s_1
+AbilityMod_boss_monter_dmg_rate=Increased Boss Monster Attack: %s_1
+AbilityMod_elite_boss_monster_dmg_rate=Increased Elite/Boss Monster Attack: %s_1
+AbilityMod_soul_exp_rate=Increased Soul EXP Gain: %s_1
+AbilityMod_monster_soul_exp_rate=Increased Monster Soul EXP: %s_1
+AbilityMod_normal_monster_soul_exp_rate=Increased Normal Monster Soul EXP: %s_1
+AbilityMod_elite_monster_soul_exp_rate=Increased Elite Monster Soul EXP: %s_1
+AbilityMod_boss_monster_soul_exp_rate=Increased Boss Monster Soul EXP: %s_1
+AbilityMod_elite_boss_monster_soul_exp_rate=Increased Elite/Boss Monster Soul EXP: %s_1
+AbilityMod_pet_exp_rate=Increase Pet EXP: %s_1
+AbilityMod_random_option=Increased Abstraction Values: %s_1
+AbilityMod_get_green_zen_rate=Increased Magic Gem Gain: %s_1
+AbilityMod_riding_speed_rate=Increased Mount Speed: %s_1
+AbilityMod_riding_speed=Increased Mount Speed: %s_1
+AbilityMod_small_dmg=Increased Small Bonus Damage: %s_1
+AbilityMod_small_dmg_rate=Increased Small Attack: %s_1
+AbilityMod_midium_dmg=Increased Medium Bonus Damage: %s_1
+AbilityMod_midium_dmg_rate=Increased Medium Attack: %s_1
+AbilityMod_large_dmg=Increased Large Bonus Damage: %s_1
+AbilityMod_large_dmg_rate=Increased Large Attack: %s_1
+AbilityMod_xlarge_dmg=Increased Extra Large Bonus Damage: %s_1
+AbilityMod_xlarge_dmg_rate=Increased Extra Large Attack: %s_1
+AbilityMod_plant_dmg=Increased Plant Bonus Damage: %s_1
+AbilityMod_plant_dmg_rate=Increased Plant Attack: %s_1
+AbilityMod_insect_dmg=Increased Insect Bonus Damage: %s_1
+AbilityMod_insect_dmg_rate=Increased Insect Attack: %s_1
+AbilityMod_beast_dmg=Increased Beast Bonus Damage: %s_1
+AbilityMod_beast_dmg_rate=Increased Beast Attack: %s_1%
+AbilityMod_human_dmg=Increased Humanoid Bonus Damage: %s_1
+AbilityMod_human_dmg_rate=Increased Humanoid Attack: %s_1
+AbilityMod_undead_dmg=Increased Undead Bonus Damage: %s_1
+AbilityMod_undead_dmg_rate=Increased Undead Attack: %s_1
+AbilityMod_devil_dmg=Increased Demon Bonus Damage: %s_1
+AbilityMod_devil_dmg_rate=Increased Demon Attack: %s_1%
+AbilityMod_mutant_dmg=Increased Mutant Bonus Damage: %s_1
+AbilityMod_mutant_dmg_rate=Increased Mutant Attack: %s_1
+AbilityMod_magic_dmg=Increased Magic-type Bonus Damage: %s_1
+AbilityMod_magic_dmg_rate=Increased Magic-type Attack: %s_1
+AbilityMod_structure_dmg=Increased Building Bonus Damage: %s_1
+AbilityMod_structure_dmg_rate=Increased Building Attack: %s_1
+AbilityMod_monster_def_rate=Monster Damage Reduction: %s_1
+AbilityMod_normal_monster_def_rate=Normal Monster Damage Reduction: %s_1
+AbilityMod_elite_monster_def_rate=Elite Monster Damage Reduction: %s_1
+AbilityMod_boss_monster_def_rate=Boss Monster Damage Reduction: %s_1
+AbilityMod_elite_boss_monster_def_rate=Elite/Boss Monster Damage Reduction: %s_1
+AbilityMod_small_def_rate=Small Damage Reduction: %s_1
+AbilityMod_midium_def_rate=Medium Damage Reduction: %s_1
+AbilityMod_large_def_rate=Large Damage Reduction: %s_1
+AbilityMod_xlarge_def_rate=Extra Large Damage Reduction: %s_1
+AbilityMod_plant_def_rate=Plant Damage Reduction: %s_1
+AbilityMod_insect_def_rate=Insect Damage Reduction: %s_1
+AbilityMod_beast_def_rate=Beast Damage Reduction: %s_1
+AbilityMod_human_def_rate=Humanoid Damage Reduction: %s_1
+AbilityMod_undead_def_rate=Undead Damage Reduction: %s_1
+AbilityMod_devil_def_rate=Demon Damage Reduction: %s_1
+AbilityMod_mutant_def_rate=Mutant Damage Reduction: %s_1
+AbilityMod_magic_def_rate=Magic-type Damage Reduction: %s_1
+AbilityMod_structure_def_rate=Building Damage Reduction: %s_1
+AbilityMod_accurate_rate=Increased Accuracy: %s_1
+AbilityMod_get_riftpoint_rate=Increased Rift Fragment Gain: %s_1
+AbilityMod_weapon_recovery_hp_rate=HP Recovery +%s_1 on Attack
+AbilityMod_ignore_monster_defense=Increased Monster Defense: %s_1
+AbilityMod_named_monster_dmg_rate=Increased Named Monster Damage: %s_1
+AbilityMod_add_dmg=Increased Attack: %s_1
+AbilityMod_add_dmg_rate=Increased Bonus Attack: %s_1
+AbilityMod_add_def_rate=All Damage Reduction: %s_1
+AbilityMod_weapon_dmg=Increased Weapon Attack: %s_1
+AbilityMod_weapon_base_dmg_rate=Increased Weapon Attack %s_1
+AbilityMod_weapon_base_dmg=Increased Attack %s_1
+PetAbility_none=Undecided Stat <font color='#11f210'>+%s_1</font>
+PetAbility_attack_speed=Attack Speed <font color='#11f210'>+%s_1</font>
+PetAbility_min_dmg=Min Attack <font color='#11f210'>+%s_1</font>
+PetAbility_max_dmg=Max Attack <font color='#11f210'>+%s_1</font>
+PetAbility_pwr=Attack <font color='#11f210'>+%s_1</font>
+PetAbility_prc=Penetration <font color='#11f210'>+%s_1</font>
+PetAbility_prc_rate=Defense Penetration <font color='#11f210'>+%s_1</font>
+PetAbility_def=Defense <font color='#11f210'>+%s_1</font>
+PetAbility_weapon_min_dmg=Min Weapon Attack <font color='#11f210'>+%s_1</font>
+PetAbility_weapon_max_dmg=Max Weapon Attack <font color='#11f210'>+%s_1</font>
+PetAbility_pvp_pwr=PvP Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_pvp_def=PvP Defense <font color='#11f210'>+%s_1</font>
+PetAbility_def_rate=All Damage Reduction: <font color='#11f210'>%s_1</font>
+PetAbility_cor_pwr_rate=Attack <font color='#11f210'>+%s_1</font>
+PetAbility_cor_pvp_pwr_rate=PvP Attack <font color='#11f210'>+%s_1</font>
+PetAbility_cor_pvp_def_rate=PvP Defense <font color='#11f210'>+%s_1</font>
+PetAbility_cor_pve_pwr_rate=Final Monster Damage Increase <font color='#11f210'>+%s_1</font>
+PetAbility_cor_pve_def_rate=Final Monster Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_weapon_skill_dmg_rate=Main Weapon Skill Damage <font color='#11f210'>+%s_1</font>
+PetAbility_crt=Critical Attack <font color='#11f210'>+%s_1</font>
+PetAbility_crt_rate=Critical Rate <font color='#11f210'>+%s_1</font>
+PetAbility_crt_mul=Critical Damage <font color='#11f210'>+%s_1</font>
+PetAbility_crt_mul_rate=Critical Damage <font color='#11f210'>+%s_1</font>
+PetAbility_dodge=Evasion <font color='#11f210'>+%s_1</font>
+PetAbility_dodge_rate=Evasion Rate <font color='#11f210'>+%s_1</font>
+PetAbility_status_def=CC Time Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_status_def_rate=CC Time Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_shield_block=Shield Block <font color='#11f210'>+%s_1</font>
+PetAbility_shield_block_rate=Shield Block Rate <font color='#11f210'>+%s_1</font>
+PetAbility_run_speed=Movement Speed <font color='#11f210'>+%s_1</font>
+PetAbility_walk_speed=Walking Speed <font color='#11f210'>+%s_1</font>
+PetAbility_cooling_speed=Cooldown Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_max_hp=HP <font color='#11f210'>+%s_1</font>
+PetAbility_max_mp=MP <font color='#11f210'>+%s_1</font>
+PetAbility_rec_hp=HP Recovery per Second <font color='#11f210'>+%s_1</font>
+PetAbility_rec_mp=MP Recovery per Second <font color='#11f210'>+%s_1</font>
+PetAbility_save_mp=MP Cost Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_quest_exp=Quest EXP <font color='#11f210'>+%s_1</font>
+PetAbility_monster_exp=Monster EXP <font color='#11f210'>+%s_1</font>
+PetAbility_normal_monster_exp=Normal Monster EXP <font color='#11f210'>+%s_1</font>
+PetAbility_elite_monster_exp=Elite Monster EXP <font color='#11f210'>+%s_1</font>
+PetAbility_boss_monster_exp=Boss Monster EXP <font color='#11f210'>+%s_1</font>
+PetAbility_sell_itme_price=Item-selling Prices <font color='#11f210'>+%s_1</font>
+PetAbility_item_protect=Durability Loss <font color='#11f210'>-%s_1</font>
+PetAbility_monster_kill_hp_rec=HP +<font color='#11f210'>%s_1</font> for Each Killed Monster
+PetAbility_monster_kill_mp_rec=MP +<font color='#11f210'>%s_1</font> for Each Killed Monster
+PetAbility_damage_hp_rec=<font color='#11f210'>HP +%s_1</font> of Damage Inflicted on Monsters
+PetAbility_damage_mp_rec=<font color='#11f210'>MP +%s_1</font> of Damage Inflicted on Monsters
+PetAbility_use_item_hp_rec=HP Recovery Item Effects +<font color='#11f210'>%s_1</font>
+PetAbility_use_item_mp_rec=HP Recovery Item Effects +<font color='#11f210'>%s_1</font>
+PetAbility_item_auto_rooting_range=Item Pickup Radius <font color='#11f210'>+%s_1 m</font>
+PetAbility_get_magic_item_chance=Uncommon Item Drop Rate <font color='#11f210'>+%s_1</font>
+PetAbility_passive_skill=<font color='#11f210'>%s_1</font>
+PetAbility_get_gold_rate=Zen Drop <font color='#11f210'>+%s_1</font>
+PetAbility_drop_item_count_chance=Item Drop Rate <font color='#11f210'>+%s_1</font>
+PetAbility_ignore_def=Defense Penetration <font color='#11f210'>+%s_1</font>
+PetAbility_ignore_def_rate=Defense Penetration <font color='#11f210'>+%s_1</font>
+PetAbility_status_attack=Crowd Control Enhancement <font color='#11f210'>+%s_1</font>
+PetAbility_status_attack_rate=Crowd Control Enhancement <font color='#11f210'>+%s_1</font>
+PetAbility_healing_power=HP Recovery <font color='#11f210'>+%s_1</font>
+PetAbility_ability_buff_time=Buff Durations <font color='#11f210'>+%s_1</font>
+PetAbility_ability_buff_power=Buff Effects <font color='#11f210'>+%s_1</font>
+PetAbility_summon_time=Summon Durations <font color='#11f210'>+%s_1</font>
+PetAbility_reflect_damage=Damage Reflection <font color='#11f210'>+%s_1</font>
+PetAbility_skill_changer=<font color='#11f210'>%s_1</font>
+PetAbility_skill_mastery_exp_rate=Skill Mastery <font color='#11f210'>+%s_1</font>
+PetAbility_weapon_attack_speed=Weapon Attack Speed <font color='#11f210'>+%s_1</font>
+PetAbility_npc_function=<font color='#11f210'>%s_1</font>
+PetAbility_repair_dur_price_rate=Durability Repair Costs <font color='#11f210'>+%s_1</font>
+PetAbility_weapon_recovery_mp_rate=Main Weapon Skills' MP Recovery <font color='#11f210'>+%s_1</font>
+PetAbility_riding_cast_time_rate=Mount Durations <font color='#11f210'>-%s_1</font>
+PetAbility_rec_hp_per_spend_mp=<font color='#11f210'>HP +%s_1</font> of MP Used
+PetAbility_crt_def_rate=Critical Defense <font color='#11f210'>+%s_1</font>
+PetAbility_monster_dmg_rate=Monster Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_normal_monster_dmg_rate=Normal Monster Attack <font color='#11f210'>+%s_1</font>
+PetAbility_elite_monster_dmg_rate=Elite Monster Attack <font color='#11f210'>+%s_1</font>
+PetAbility_boss_monter_dmg_rate=Boss Monster Attack <font color='#11f210'>+%s_1</font>
+PetAbility_elite_boss_monster_dmg_rate=Elite/Boss Monster Attack <font color='#11f210'>+%s_1</font>
+PetAbility_soul_exp_rate=Soul EXP <font color='#11f210'>+%s_1</font>
+PetAbility_monster_soul_exp_rate=Monster Soul EXP <font color='#11f210'>+%s_1</font>
+PetAbility_normal_monster_soul_exp_rate=Normal Monster Soul EXP <font color='#11f210'>+%s_1</font>
+PetAbility_elite_monster_soul_exp_rate=Elite Monster Soul EXP <font color='#11f210'>+%s_1</font>
+PetAbility_boss_monster_soul_exp_rate=Boss Monster Soul EXP <font color='#11f210'>+%s_1</font>
+PetAbility_elite_boss_monster_soul_exp_rate=Elite/Boss Monster Soul EXP <font color='#11f210'>+%s_1</font>
+PetAbility_pet_exp_rate=Pet EXP <font color='#11f210'>+%s_1</font>
+PetAbility_random_option=Abstraction Values <font color='#11f210'>+%s_1</font>
+PetAbility_get_green_zen_rate=Magic Gem Gain <font color='#11f210'>+%s_1</font>
+PetAbility_riding_speed_rate=Mount Speed <font color='#11f210'>+%s_1</font>
+PetAbility_riding_speed=Mount Speed <font color='#11f210'>+%s_1</font>
+PetAbility_small_dmg=Small Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_small_dmg_rate=Small Attack <font color='#11f210'>+%s_1</font>
+PetAbility_midium_dmg=Medium Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_midium_dmg_rate=Medium Attack <font color='#11f210'>+%s_1</font>
+PetAbility_large_dmg=Large Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_large_dmg_rate=Large Attack <font color='#11f210'>+%s_1</font>
+PetAbility_xlarge_dmg=Extra Large Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_xlarge_dmg_rate=Extra Large Attack <font color='#11f210'>+%s_1</font>
+PetAbility_plant_dmg=Plant Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_plant_dmg_rate=Plant Attack <font color='#11f210'>+%s_1</font>
+PetAbility_insect_dmg=Insect Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_insect_dmg_rate=Insect Attack <font color='#11f210'>+%s_1</font>
+PetAbility_beast_dmg=Beast Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_beast_dmg_rate=Beast Attack <font color='#11f210'>+%s_1</font>
+PetAbility_human_dmg=Humanoid Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_human_dmg_rate=Humanoid Attack <font color='#11f210'>+%s_1</font>
+PetAbility_undead_dmg=Undead Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_undead_dmg_rate=Undead Attack <font color='#11f210'>+%s_1</font>
+PetAbility_devil_dmg=Demon Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_devil_dmg_rate=Demon Attack <font color='#11f210'>+%s_1</font>
+PetAbility_mutant_dmg=Mutant Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_mutant_dmg_rate=Mutant Attack <font color='#11f210'>+%s_1</font>
+PetAbility_magic_dmg=Magic-type Bonus Attack <font color='#11f210'>+%s_1</font>
+PetAbility_magic_dmg_rate=Magic-type Attack <font color='#11f210'>+%s_1</font>
+PetAbility_structure_dmg=Building Bonus Damage <font color='#11f210'>+%s_1</font>
+PetAbility_structure_dmg_rate=Building Attack <font color='#11f210'>+%s_1</font>
+PetAbility_monster_def_rate=Monster Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_normal_monster_def_rate=Normal Monster Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_elite_monster_def_rate=Elite Monster Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_boss_monster_def_rate=Boss Monster Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_elite_boss_monster_def_rate=Elite/Boss Monster Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_small_def_rate=Small Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_midium_def_rate=Medium Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_large_def_rate=Large Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_xlarge_def_rate=Extra Large Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_plant_def_rate=Plant Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_insect_def_rate=Insect Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_beast_def_rate=Beast Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_human_def_rate=Humanoid Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_undead_def_rate=Undead Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_devil_def_rate=Demon Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_mutant_def_rate=Mutant Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_magic_def_rate=Magic-type Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_structure_def_rate=Building Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_accurate_rate=Accuracy <font color='#11f210'>+%s_1</font>
+PetAbility_get_riftpoint_rate=Rift Fragment Gain <font color='#11f210'>+%s_1</font>
+PetAbility_weapon_recovery_hp_rate=HP <font color='#11f210'>+%s_1</font> on Attack
+PetAbility_ignore_monster_defense=Monster Defense <font color='#11f210'>%s_1 Weapon</font>
+PetAbility_named_monster_dmg_rate=Named Monster Attack <font color='#11f210'>+%s_1</font>
+PetAbility_add_dmg=Attack <font color='#11f210'>+%s_1</font>
+PetAbility_add_dmg_rate=Bonus Attack <font color='#11f210'>+%s_1</font>
+PetAbility_add_def_rate=All Damage Reduction <font color='#11f210'>+%s_1</font>
+PetAbility_weapon_dmg=Weapon Attack <font color='#11f210'>+%s_1</font>
+PetAbility_weapon_base_dmg_rate=Weapon Attack <font color='#11f210'>+%s_1</font>
+PetAbility_weapon_base_dmg=Attack <font color='#11f210'>+%s_1</font>
+PetAbilityRate_none=Undecided Stat <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_attack_speed=Attack Speed <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_min_dmg=Min Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_max_dmg=Max Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_pwr=Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_prc=Penetration <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_prc_rate=Defense Penetration <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_def=Defense <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_weapon_min_dmg=Min Weapon Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_weapon_max_dmg=Max Weapon Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_pvp_pwr=PvP Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_pvp_def=PvP Defense <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_def_rate=All Damage Reduction: <font color='#11f210'>%s_1%</font>
+PetAbilityRate_cor_pwr_rate=Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_cor_pvp_pwr_rate=PvP Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_cor_pvp_def_rate=PvP Defense <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_cor_pve_pwr_rate=Final Monster Damage Increase <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_cor_pve_def_rate=Final Monster Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_weapon_skill_dmg_rate=Main Weapon Skill Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_crt=Critical Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_crt_rate=Critical Rate <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_crt_mul=Critical Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_crt_mul_rate=Critical Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_dodge=Evasion <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_dodge_rate=Evasion Rate <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_status_def=CC Time Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_status_def_rate=CC Time Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_shield_block=Shield Block <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_shield_block_rate=Shield Block Rate <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_run_speed=Movement Speed <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_walk_speed=Walking Speed <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_cooling_speed=Cooldown Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_max_hp=HP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_max_mp=MP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_rec_hp=HP Recovery per Second <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_rec_mp=MP Recovery per Second <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_save_mp=MP Cost Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_quest_exp=Quest EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_monster_exp=Monster EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_normal_monster_exp=Normal Monster EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_elite_monster_exp=Elite Monster EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_boss_monster_exp=Boss Monster EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_sell_itme_price=Item-selling Prices <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_item_protect=Durability Loss <font color='#11f210'>-%s_1%</font>
+PetAbilityRate_monster_kill_hp_rec=HP <font color='#11f210'>+%s_1%</font> for Each Killed Monster
+PetAbilityRate_monster_kill_mp_rec=MP <font color='#11f210'>+%s_1%</font> for Each Killed Monster
+PetAbilityRate_damage_hp_rec=<font color='#11f210'>HP +%s_1%</font> of Damage Inflicted on Monsters
+PetAbilityRate_damage_mp_rec=<font color='#11f210'>MP +%s_1%</font> of Damage Inflicted on Monsters
+PetAbilityRate_use_item_hp_rec=HP Recovery Item Effects <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_use_item_mp_rec=HP Recovery Item Effects <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_item_auto_rooting_range=Item Pickup Radius <font color='#11f210'>+%s_1% m</font>
+PetAbilityRate_get_magic_item_chance=Uncommon Item Drop Rate <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_passive_skill=<font color='#11f210'>%s_1%</font>
+PetAbilityRate_get_gold_rate=Zen Drop <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_drop_item_count_chance=Item Drop Rate <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_ignore_def=Defense Penetration <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_ignore_def_rate=Defense Penetration <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_status_attack=Crowd Control Enhancement <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_status_attack_rate=Crowd Control Enhancement <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_healing_power=HP Recovery <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_ability_buff_time=Buff Durations <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_ability_buff_power=Buff Effects <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_summon_time=Summon Durations <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_reflect_damage=Damage Reflection <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_skill_changer=<font color='#11f210'>%s_1%</font>
+PetAbilityRate_skill_mastery_exp_rate=Skill Mastery <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_weapon_attack_speed=Weapon Attack Speed <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_npc_function=<font color='#11f210'>%s_1%</font>
+PetAbilityRate_repair_dur_price_rate=Durability Repair Costs <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_weapon_recovery_mp_rate=Main Weapon Skills' MP Recovery <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_riding_cast_time_rate=Mount Durations <font color='#11f210'>-%s_1%</font>
+PetAbilityRate_rec_hp_per_spend_mp=<font color='#11f210'>HP +%s_1%</font> of MP Used
+PetAbilityRate_crt_def_rate=Critical Defense <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_monster_dmg_rate=Monster Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_normal_monster_dmg_rate=Normal Monster Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_elite_monster_dmg_rate=Elite Monster Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_boss_monter_dmg_rate=Boss Monster Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_elite_boss_monster_dmg_rate=Elite/Boss Monster Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_soul_exp_rate=Soul EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_monster_soul_exp_rate=Monster Soul EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_normal_monster_soul_exp_rate=Normal Monster Soul EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_elite_monster_soul_exp_rate=Elite Monster Soul EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_boss_monster_soul_exp_rate=Boss Monster Soul EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_elite_boss_monster_soul_exp_rate=Elite/Boss Monster Soul EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_pet_exp_rate=Pet EXP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_random_option=Abstraction Values <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_get_green_zen_rate=Magic Gem Gain <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_riding_speed_rate=Mount Speed <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_riding_speed=Mount Speed <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_small_dmg=Small Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_small_dmg_rate=Small Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_midium_dmg=Medium Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_midium_dmg_rate=Medium Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_large_dmg=Large Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_large_dmg_rate=Large Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_xlarge_dmg=Extra Large Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_xlarge_dmg_rate=Extra Large Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_plant_dmg=Plant Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_plant_dmg_rate=Plant Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_insect_dmg=Insect Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_insect_dmg_rate=Insect Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_beast_dmg=Beast Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_beast_dmg_rate=Beast Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_human_dmg=Humanoid Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_human_dmg_rate=Humanoid Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_undead_dmg=Undead Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_undead_dmg_rate=Undead Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_devil_dmg=Demon Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_devil_dmg_rate=Demon Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_mutant_dmg=Mutant Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_mutant_dmg_rate=Mutant Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_magic_dmg=Magic-type Bonus Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_magic_dmg_rate=Magic-type Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_structure_dmg=Building Bonus Damage <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_structure_dmg_rate=Building Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_monster_def_rate=Monster Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_normal_monster_def_rate=Normal Monster Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_elite_monster_def_rate=Elite Monster Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_boss_monster_def_rate=Boss Monster Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_elite_boss_monster_def_rate=Elite/Boss Monster Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_small_def_rate=Small Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_midium_def_rate=Medium Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_large_def_rate=Large Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_xlarge_def_rate=Extra Large Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_plant_def_rate=Plant Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_insect_def_rate=Insect Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_beast_def_rate=Beast Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_human_def_rate=Humanoid Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_undead_def_rate=Undead Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_devil_def_rate=Demon Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_mutant_def_rate=Mutant Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_magic_def_rate=Magic-type Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_structure_def_rate=Building Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_accurate_rate=Accuracy <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_get_riftpoint_rate=Rift Fragment Gain <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_weapon_recovery_hp_rate=HP <font color='#11f210'>+%s_1%</font> on Attack
+PetAbilityRate_ignore_monster_defense=Monster Defense <font color='#11f210'>%s_1% Weapon</font>
+PetAbilityRate_named_monster_dmg_rate=Named Monster Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_add_dmg=Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_add_dmg_rate=Bonus Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_add_def_rate=All Damage Reduction <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_weapon_dmg=Weapon Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_weapon_base_dmg_rate=Weapon Attack <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_weapon_base_dmg=Attack <font color='#11f210'>+%s_1%</font>
+
+[BuffType]
+BuffType_1=Buff
+BuffType_2=Debuff
+BuffType_3=Impairment
+BuffType_4=Interference
+BuffType_5=Mind Control
+BuffType_6=Passive
+BuffType_7=Passive
+
+[RacePassive]
+RaceName_101=Dark Lord's Will
+RaceDesc_101=Increases Physical/Magic Defenses by 3%.
+RaceName_108=Dark Lord's Fury
+RaceDesc_108=Increases Movement Speed by 2%.
+RaceName_201=Blader's Desire
+RaceDesc_201=Increases Attack Speed by 2%.
+RaceName_204=Blader's Ambition
+RaceDesc_204=Increases Max HP by 5%.
+RaceName_401=War Mage's Knowledge
+RaceDesc_401=Decreases all skill cooldown by 5%.
+RaceName_408=War Mage's Intuition
+RaceDesc_408=Increases Max MP by 5%.
+RaceName_801=Whisperer's Luck
+RaceDesc_801=Increases Critical Damage by 20%.
+RaceName_802=Whisperer's Foresight
+RaceDesc_802=Increases Evasion Rate by 3%.
+
+[ItemDurabillity]
+Dur_10=FFFFFF
+Dur_9=F6F6F6
+Dur_8=F6F6F6
+Dur_7=F6F6F6
+Dur_6=F6F6F6
+Dur_5=FAED7D
+Dur_4=FAED7D
+Dur_3=FAED7D
+Dur_2=FAED7D
+Dur_1=FFBB00
+Dur_0=FF0000
+
+[Mail]
+Msg_Mailbox_10VS10_ITEM_SUBJECT=We have found the item you left in the Altar of Spirits. We are sending it to you.
+Msg_Mailbox_10VS10_ITEM_SENDER=Altar of Spirits Manager
+Msg_Mailbox_10VS10_ITEM_CONTENT=Altar of Spirits Reward
+Msg_Mailbox_20VS20_ITEM_SUBJECT=We have found the item you left in the Bloody Arena of Souls. We are sending it to you.
+Msg_Mailbox_20VS20_ITEM_SENDER=Bloody Arena of Souls Manager
+Msg_Mailbox_20VS20_ITEM_CONTENT=Bloody Arena of Souls Reward
+Msg_Mailbox_CHAOSCASTLE_ITEM_SUBJECT=We have found the item you left in Chaos Castle. We are sending it to you.
+Msg_Mailbox_CHAOSCASTLE_ITEM_SENDER=Chaos Castle Manager
+Msg_Mailbox_CHAOSCASTLE_ITEM_CONTENT=Chaos Castle Reward
+Msg_Mailbox_ADV_CARD_SUBJECT=We are sending you the item you lost in the Rift.
+Msg_Mailbox_ADV_CARD_SENDER=Arke Rift Research Society
+Msg_Mailbox_ADV_CARD_CONTENT=We are sending you the item you lost in the Rift.
+Msg_Mailbox_Endless_Tower_SENDER=Room of Duty Manager
+Msg_Mailbox_Endless_Tower_CONTENT=We have found the item you left in the Endless Tower. We are sending it to you.
+Msg_Mailbox_Blood_Castle_SENDER=Room of Duty Manager
+Msg_Mailbox_Blood_Castle_CONTENT=We have found the item you left in Blood Castle. We are sending it to you.
+Msg_Mailbox_Account_1_SUBJECT=Account Level Mail Reward
+Msg_Mailbox_Account_1_SENDER=GM Rugard
+Msg_Mailbox_Account_1_CONTENT=Here's your reward for increasing your account level. Keep up the good work.
+Msg_Mailbox_QUEST_ITEM_SUBJECT=We are sending you item rewards you didn't receive from completed quests.
+Msg_Mailbox_QUEST_ITEM_SENDER=Quest Manager
+Msg_Mailbox_QUEST_ITEM_CONTENT=Quest Reward
+Msg_Mailbox_Achievement_SENDER=Achievement Manager
+Msg_Mailbox_AchievementGrade2_ITEM_SUBJECT=This is the Achievement Grade 1 completion reward. We are sending it to you.
+Msg_Mailbox_AchievementGrade3_ITEM_SUBJECT=This is the Achievement Grade 2 completion reward. We are sending it to you.
+Msg_Mailbox_AchievementGrade4_ITEM_SUBJECT=This is the Achievement Grade 3 completion reward. We are sending it to you.
+Msg_Mailbox_AchievementGrade5_ITEM_SUBJECT=This is the Achievement Grade 4 completion reward. We are sending it to you.
+Msg_Mailbox_AchievementGrade6_ITEM_SUBJECT=This is the Achievement Grade 5 completion reward. We are sending it to you.
+Msg_Mailbox_AchievementGrade7_ITEM_SUBJECT=This is the Achievement Grade 6 completion reward. We are sending it to you.
+Msg_Mailbox_AchievementGrade8_ITEM_SUBJECT=This is the Achievement Grade 7 completion reward. We are sending it to you.
+Msg_Mailbox_AchievementGrade9_ITEM_SUBJECT=This is the Achievement Grade 8 completion reward. We are sending it to you.
+Msg_Mailbox_AchievementGrade10_ITEM_SUBJECT=This is the Achievement Grade 9 completion reward. We are sending it to you.
+Msg_Mailbox_AchievementGrade11_ITEM_SUBJECT=This is the Achievement Final Grade completion reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex1_ITEM_SUBJECT=This is the Legendary Dark Lord achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex2_ITEM_SUBJECT=This is the Legendary Blader achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex3_ITEM_SUBJECT=This is the Legendary War Mage achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex4_ITEM_SUBJECT=This is the Legendary Whisperer achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex5_ITEM_SUBJECT=This is the achievement reward for joining the CBT. We are sending it to you.
+Msg_Mailbox_AchievementIndex6_ITEM_SUBJECT=This is the achievement reward for reaching Level 100 in the CBT. We are sending it to you.
+Msg_Mailbox_AchievementIndex7_ITEM_SUBJECT=This is the achievement reward for earning 100 Jewels of Bless in the CBT. We are sending it to you.
+Msg_Mailbox_AchievementIndex8_ITEM_SUBJECT=This is the Tutorial completion achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex9_ITEM_SUBJECT=This is the achievement reward for your first visit to Dudrin City. We are sending it to you.
+Msg_Mailbox_AchievementIndex10_ITEM_SUBJECT=This is the achievement reward for your first visit to Ohrdor Continent. We are sending it to you.
+Msg_Mailbox_AchievementIndex11_ITEM_SUBJECT=This is the achievement reward for your first visit to Tempano City. We are sending it to you.
+Msg_Mailbox_AchievementIndex12_ITEM_SUBJECT=This is the achievement reward for your first visit to Qwyinan Village. We are sending it to you.
+Msg_Mailbox_AchievementIndex13_ITEM_SUBJECT=This is the achievement reward for killing your first Monster. We are sending it to you.
+Msg_Mailbox_AchievementIndex14_ITEM_SUBJECT=This is the achievement reward for making your first Friend. We are sending it to you.
+Msg_Mailbox_AchievementIndex15_ITEM_SUBJECT=This is the achievement reward for joining your first Party. We are sending it to you.
+Msg_Mailbox_AchievementIndex16_ITEM_SUBJECT=This is the achievement reward for clearing your first Rift. We are sending it to you.
+Msg_Mailbox_AchievementIndex17_ITEM_SUBJECT=This is the achievement reward for clearing your first Heath Mine. We are sending it to you.
+Msg_Mailbox_AchievementIndex18_ITEM_SUBJECT=This is the achievement reward for clearing your first Abandoned Warehouse. We are sending it to you.
+Msg_Mailbox_AchievementIndex19_ITEM_SUBJECT=This is the achievement reward for clearing your first Cave of Evil Energy. We are sending it to you.
+Msg_Mailbox_AchievementIndex20_ITEM_SUBJECT=This is the achievement reward for clearing your first Queen's Tomb. We are sending it to you.
+Msg_Mailbox_AchievementIndex21_ITEM_SUBJECT=This is the achievement reward for clearing your first Sky Temple. We are sending it to you.
+Msg_Mailbox_AchievementIndex22_ITEM_SUBJECT=This is the achievement reward for clearing your first Milky Way Waterway. We are sending it to you.
+Msg_Mailbox_AchievementIndex23_ITEM_SUBJECT=This is the achievement reward for clearing your first Sanctum of Dragon Knights. We are sending it to you.
+Msg_Mailbox_AchievementIndex24_ITEM_SUBJECT=This is the Dungeon Master achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex25_ITEM_SUBJECT=This is the Dragon Hunter achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex26_ITEM_SUBJECT=This is the achievement reward for winning 1 Battle in Altar of Spirits. We are sending it to you.
+Msg_Mailbox_AchievementIndex27_ITEM_SUBJECT=This is the achievement reward for winning 10 Battles in Altar of Spirits. We are sending it to you.
+Msg_Mailbox_AchievementIndex28_ITEM_SUBJECT=This is the achievement reward for making 10 Consecutive Kills on Enemy Players in Altar of Spirits. We are sending it to you.
+Msg_Mailbox_AchievementIndex29_ITEM_SUBJECT=This is the Be the Last Player Surviving in Chaos Castle achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex30_ITEM_SUBJECT=This is the achievement reward for clearing Blood Castle 10 Times. We are sending it to you.
+Msg_Mailbox_AchievementIndex31_ITEM_SUBJECT=This is the achievement reward for clearing the Endless Tower Floor 50. We are sending it to you.
+Msg_Mailbox_AchievementIndex32_ITEM_SUBJECT=This is the achievement reward for clearing the Endless Tower Floor 50 without a Party. We are sending it to you.
+Msg_Mailbox_AchievementIndex33_ITEM_SUBJECT=This is the achievement reward for your first successful Item Enchantment. We are sending it to you.
+Msg_Mailbox_AchievementIndex34_ITEM_SUBJECT=This is the achievement reward for successful +15 Enchantment. We are sending it to you.
+Msg_Mailbox_AchievementIndex35_ITEM_SUBJECT=This is the achievement reward for successful +15 Enchantment 10 Times. We are sending it to you.
+Msg_Mailbox_AchievementIndex36_ITEM_SUBJECT=This is the achievement reward for failed Enchantment. We are sending it to you.
+Msg_Mailbox_AchievementIndex37_ITEM_SUBJECT=This is the achievement reward for failed +15 Enchantment. We are sending it to you.
+Msg_Mailbox_AchievementIndex38_ITEM_SUBJECT=This is the achievement reward for fully equipping yourself with Legendary Items. We are sending it to you.
+Msg_Mailbox_AchievementIndex39_ITEM_SUBJECT=This is the achievement reward for equipping your first Wings. We are sending it to you.
+Msg_Mailbox_AchievementIndex40_ITEM_SUBJECT=This is the achievement reward for equipping Legendary Items in all Accessory Slots. We are sending it to you.
+Msg_Mailbox_AchievementIndex41_ITEM_SUBJECT=This is the achievement reward for activating the Shine Effect. We are sending it to you.
+Msg_Mailbox_AchievementIndex42_ITEM_SUBJECT=This is the achievement reward for activating the Sanctum Effect. We are sending it to you.
+Msg_Mailbox_AchievementIndex43_ITEM_SUBJECT=This is the Index 43 achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex44_ITEM_SUBJECT=This is the Index 44 achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex45_ITEM_SUBJECT=This is the Index 45 achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex46_ITEM_SUBJECT=This is the Index 46 achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex47_ITEM_SUBJECT=This is the Index 47 achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex48_ITEM_SUBJECT=This is the Index 48 achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex49_ITEM_SUBJECT=This is the Index 49 achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementIndex50_ITEM_SUBJECT=This is the Index 50 achievement reward. We are sending it to you.
+Msg_Mailbox_AchievementGrade2_ITEM_CONTENT=Achievement Grade 1 Completion Reward
+Msg_Mailbox_AchievementGrade3_ITEM_CONTENT=Achievement Grade 2 Completion Reward
+Msg_Mailbox_AchievementGrade4_ITEM_CONTENT=Achievement Grade 3 Completion Reward
+Msg_Mailbox_AchievementGrade5_ITEM_CONTENT=Achievement Grade 4 Completion Reward
+Msg_Mailbox_AchievementGrade6_ITEM_CONTENT=Achievement Grade 5 Completion Reward
+Msg_Mailbox_AchievementGrade7_ITEM_CONTENT=Achievement Grade 6 Completion Reward
+Msg_Mailbox_AchievementGrade8_ITEM_CONTENT=Achievement Grade 7 Completion Reward
+Msg_Mailbox_AchievementGrade9_ITEM_CONTENT=Achievement Grade 8 Completion Reward
+Msg_Mailbox_AchievementGrade10_ITEM_CONTENT=Achievement Grade 9 Completion Reward
+Msg_Mailbox_AchievementGrade11_ITEM_CONTENT=Achievement Grade 10 Completion Reward
+Msg_Mailbox_AchievementIndex1_ITEM_CONTENT=Index 1 Achievement Reward
+Msg_Mailbox_AchievementIndex2_ITEM_CONTENT=Index 2 Achievement Reward
+Msg_Mailbox_AchievementIndex3_ITEM_CONTENT=Index 3 Achievement Reward
+Msg_Mailbox_AchievementIndex4_ITEM_CONTENT=Index 4 Achievement Reward
+Msg_Mailbox_AchievementIndex5_ITEM_CONTENT=Index 5 Achievement Reward
+Msg_Mailbox_AchievementIndex6_ITEM_CONTENT=Index 6 Achievement Reward
+Msg_Mailbox_AchievementIndex7_ITEM_CONTENT=Index 7 Achievement Reward
+Msg_Mailbox_AchievementIndex8_ITEM_CONTENT=Index 8 Achievement Reward
+Msg_Mailbox_AchievementIndex9_ITEM_CONTENT=Index 9 Achievement Reward
+Msg_Mailbox_AchievementIndex10_ITEM_CONTENT=Index 10 Achievement Reward
+Msg_Mailbox_AchievementIndex11_ITEM_CONTENT=Index 11 Achievement Reward
+Msg_Mailbox_AchievementIndex12_ITEM_CONTENT=Index 12 Achievement Reward
+Msg_Mailbox_AchievementIndex13_ITEM_CONTENT=Index 13 Achievement Reward
+Msg_Mailbox_AchievementIndex14_ITEM_CONTENT=Index 14 Achievement Reward
+Msg_Mailbox_AchievementIndex15_ITEM_CONTENT=Index 15 Achievement Reward
+Msg_Mailbox_AchievementIndex16_ITEM_CONTENT=Index 16 Achievement Reward
+Msg_Mailbox_AchievementIndex17_ITEM_CONTENT=Index 17 Achievement Reward
+Msg_Mailbox_AchievementIndex18_ITEM_CONTENT=Index 18 Achievement Reward
+Msg_Mailbox_AchievementIndex19_ITEM_CONTENT=Index 19 Achievement Reward
+Msg_Mailbox_AchievementIndex20_ITEM_CONTENT=Index 20 Achievement Reward
+Msg_Mailbox_AchievementIndex21_ITEM_CONTENT=Index 21 Achievement Reward
+Msg_Mailbox_AchievementIndex22_ITEM_CONTENT=Index 22 Achievement Reward
+Msg_Mailbox_AchievementIndex23_ITEM_CONTENT=Index 23 Achievement Reward
+Msg_Mailbox_AchievementIndex24_ITEM_CONTENT=Index 24 Achievement Reward
+Msg_Mailbox_AchievementIndex25_ITEM_CONTENT=Index 25 Achievement Reward
+Msg_Mailbox_AchievementIndex26_ITEM_CONTENT=Index 26 Achievement Reward
+Msg_Mailbox_AchievementIndex27_ITEM_CONTENT=Index 27 Achievement Reward
+Msg_Mailbox_AchievementIndex28_ITEM_CONTENT=Index 28 Achievement Reward
+Msg_Mailbox_AchievementIndex29_ITEM_CONTENT=Index 29 Achievement Reward
+Msg_Mailbox_AchievementIndex30_ITEM_CONTENT=Index 30 Achievement Reward
+Msg_Mailbox_AchievementIndex31_ITEM_CONTENT=Index 31 Achievement Reward
+Msg_Mailbox_AchievementIndex32_ITEM_CONTENT=Index 32 Achievement Reward
+Msg_Mailbox_AchievementIndex33_ITEM_CONTENT=Index 33 Achievement Reward
+Msg_Mailbox_AchievementIndex34_ITEM_CONTENT=Index 34 Achievement Reward
+Msg_Mailbox_AchievementIndex35_ITEM_CONTENT=Index 35 Achievement Reward
+Msg_Mailbox_AchievementIndex36_ITEM_CONTENT=Index 36 Achievement Reward
+Msg_Mailbox_AchievementIndex37_ITEM_CONTENT=Index 37 Achievement Reward
+Msg_Mailbox_AchievementIndex38_ITEM_CONTENT=Index 38 Achievement Reward
+Msg_Mailbox_AchievementIndex39_ITEM_CONTENT=Index 39 Achievement Reward
+Msg_Mailbox_AchievementIndex40_ITEM_CONTENT=Index 40 Achievement Reward
+Msg_Mailbox_AchievementIndex41_ITEM_CONTENT=Index 41 Achievement Reward
+Msg_Mailbox_AchievementIndex42_ITEM_CONTENT=Index 42 Achievement Reward
+Msg_Mailbox_AchievementIndex43_ITEM_CONTENT=Index 43 Achievement Reward
+Msg_Mailbox_AchievementIndex44_ITEM_CONTENT=Index 44 Achievement Reward
+Msg_Mailbox_AchievementIndex45_ITEM_CONTENT=Index 45 Achievement Reward
+Msg_Mailbox_AchievementIndex46_ITEM_CONTENT=Index 46 Achievement Reward
+Msg_Mailbox_AchievementIndex47_ITEM_CONTENT=Index 47 Achievement Reward
+Msg_Mailbox_AchievementIndex48_ITEM_CONTENT=Index 48 Achievement Reward
+Msg_Mailbox_AchievementIndex49_ITEM_CONTENT=Index 49 Achievement Reward
+Msg_Mailbox_AchievementIndex50_ITEM_CONTENT=Index 50 Achievement Reward
+Msg_Mailbox_Survey_ITEM_SUBJECT=Thank you participating in the survey.
+Msg_Mailbox_Survey_SENDER=MU Legend GM
+Msg_Mailbox_Survey_ITEM_CONTENT=Survey Reward
+Msg_Mailbox_Gold_ITEM_SUBJECT=Zen Attached
+Msg_Mailbox_Gold_ITEM_SENDER=Unknown
+Msg_Mailbox_Gold_ITEM_CONTENT=No content
+Msg_Mailbox_Item_ITEM_SUBJECT=Item Attached
+Msg_Mailbox_Item_ITEM_SENDER=Unknown
+Msg_Mailbox_Item_ITEM_CONTENT=No content
+Msg_Mailbox_Empty_ITEM_SUBJECT=No title
+Msg_Mailbox_Empty_ITEM_SENDER=Unknown
+Msg_Mailbox_Empty_ITEM_CONTENT=No content
+Msg_Mailbox_Knightage_ITEM_SUBJECT=Guild Contribution
+Msg_Mailbox_Knightage_ITEM_SENDER=Guild Manager
+Msg_Mailbox_Knightage_ITEM_CONTENT=There are %s_1 Contribution Points that you have not received. We'll give them to you now.
+Msg_Mailbox_Ranking_ITEM_SENDER=System
+Msg_Mailbox_Ranking_ITEM_SUBJECT=Ranking Reward Item
+Msg_Mailbox_Ranking_ITEM_COTENT=Ranking Reward Item
+Msg_Mailbox_IncludeZen_ITEM_SUBJECT=[System Mail] Zen Attached Mail
+Msg_Mailbox_IncludeZen_ITEM_CONTENT=Please find the attached Zen.
+Msg_Mailbox_ReturnLetter_ITEM_SUBJECT=[Returned Mail]
+Msg_Mailbox_ItemTypeChange_ITEM_SENDER=System
+Msg_Mailbox_ItemTypeChange_ITEM_SUBJECT=[System Mail] Item Change
+Msg_Mailbox_ItemTypeChange_ITEM_CONTENT=We're resending you the items whose content has changed.
+Msg_Mailbox_ItemEnchantFailReward_ITEM_SUBJECT=[Enchantment Failure] Accept This Item
+Msg_Mailbox_ItemEnchantFailReward_ITEM_SENDER=Enhancement Manager
+Msg_Mailbox_ItemEnchantFailReward_ITEM_CONTENT=This item is sent as compensation for an enhancement failure.
+Msg_Mailbox_Exchange_ITEM_SUBJECT=[Trading Post] Accept Your Items
+Msg_Mailbox_Exchange_ITEM_SENDER=Trade Broker
+Msg_Mailbox_Exchange_ITEM_CONTENT=You have purchased these items through the Trade Broker.
+Msg_Mailbox_Exchange_CANCEL_SUBJECT=[Trading Post] Canceled Item Sale
+Msg_Mailbox_Exchange_CANCEL_SENDER=Trade Broker
+Msg_Mailbox_Exchange_CANCEL_CONTENT=You have canceled selling these items through the Trade Broker.
+Msg_Mailbox_ACCOUNT_LEVEL_REWARD_SUBJECT_INDEX01=Account level 65 achievement reward issued.
+Msg_Mailbox_ACCOUNT_LEVEL_REWARD_SUBJECT_INDEX02=Account level 130 achievement reward issued.
+Msg_Mailbox_ACCOUNT_LEVEL_REWARD_SUBJECT_INDEX03=Account level 195 achievement reward issued.
+Msg_Mailbox_ACCOUNT_LEVEL_REWARD_SUBJECT_INDEX04=Account level 260 achievement reward issued.
+Msg_Mailbox_ACCOUNT_LEVEL_REWARD_SENDER=System
+Msg_Mailbox_ACCOUNT_LEVEL_REWARD_CONTENT_INDEX01=You have received a reward for reaching account level 65.
+Msg_Mailbox_ACCOUNT_LEVEL_REWARD_CONTENT_INDEX02=You have received a reward for reaching account level 130.
+Msg_Mailbox_ACCOUNT_LEVEL_REWARD_CONTENT_INDEX03=You have received a reward for reaching account Level 195.
+Msg_Mailbox_ACCOUNT_LEVEL_REWARD_CONTENT_INDEX04=You have received a reward for reaching account level 260.
+Msg_Mailbox_Field_Content_SUBJECT=We are sending you the items you didn't receive after completing the Field content.
+Msg_Mailbox_Field_Content_SENDER=Field Content Manager
+Msg_Mailbox_Field_Content_CONTENT=Field Content Reward
+Msg_Mailbox_Field_Item_COLOSSEUM_SENDER=Trilgard
+Msg_Mailbox_Field_Item_COLOSSEUM_SUBJECT=Here's your Co-op Mode reward item.
+Msg_Mailbox_Field_Item_COLOSSEUM_CONTENT=These are the Fighter's Tokens you couldn't receive to your inventory because it was full.
+Mag_Mailbox_ItemTypeChnage_ITEM_SENDER=MU Legend
+Mag_Mailbox_ItemTypeChnage_ITEM_SUBJECT=We're mailing you the items whose information has changed.
+Mag_Mailbox_ItemTypeChnage_ITEM_CONTENT=We're resending you your items whose information has changed.
+Msg_Mailbox_Mopup_SENDER=MU Legend
+Msg_Mailbox_Mopup_SUBJECT=We're mailing you your Subjugation Request reward.
+Msg_Mailbox_Mopup_CONTENT=We're sending you the Subjugation Request reward that you won via the MU Legend application.
+Msg_Mailbox_MiniGame_SENDER=MU Legend
+Msg_Mailbox_MiniGame_SUBJECT=We're mailing you the Mini-game reward.
+Msg_Mailbox_MiniGame_CONTENT=We're sending you the reward that you won in the MU Legend: Plus mini-game.
+Msg_Mailbox_Tournament_Err_SENDER=MU Legend
+Msg_Mailbox_Tournament_Err_SUBJECT=We apologize for the Tournament error you experienced.
+Msg_Mailbox_Tournament_Err_CONTENT=We're sorry for the serious error that you experienced during the Faction War Tournament this time. We'll try our best to provide you with more stable services.<br><br>We're giving you back the Trophies you spent on joining the Tournament.<br>- Trophy Refund Time: %s_1<br>- Refunded Trophy Quantity: %s_2
+
+[ADV_Mission]
+TARGET_MONSTER_GRADE_1=Normal Monster
+TARGET_MONSTER_GRADE_2=Elite Monster
+TARGET_MONSTER_GRADE_3=Boss Monster
+TARGET_MONSTER_GRADE_4=Named Monster
+
+[ChatMsg]
+BATTLE_HEAL_HP_SKlLL=%s has recovered %d HP.
+BATTLE_HEAL_HP=Recovered %d HP.
+BATTLE_HEAL_MP_SKILL=%s has recovered %d MP.
+BATTLE_HEAL_MP=Recovered %d MP.
+BATTLE_ATTACK_SKILL=Inflicted %d damage on %s by using the %s skill.
+BATTLE_ATTACK_NOR=Inflicted %d damage on %s.
+BATTLE_DAMAGE_SKILL=Received %d damage from %s's %s effect.
+BATTLE_DAMAGE_NOR=Received %d damage from %s.
+BATTLE_EXP_NORMAL=Earned %d EXP.
+BATTLE_EXP_SOUL=Earned %d Soul EXP.
+BATTLE_ADD_EXP_NORMAL=Earned %d EXP. (+%d)
+BATTLE_ADD_EXP_SOUL=Earned %d Soul EXP. (+%d)
+WhisperMsgTo=Whisper to %s_1
+WhisperMsgFrom=Whisper from %s_1
+NotiFindParty0=Recruit Party Members
+NotiFindParty1=Apply for Party
+
+[PortalOverlay]
+Desc_0=: Move
+Desc_1=: Exit
+Desc_2=: Enter Dungeon
+Desc_3=: Create Dungeon
+Desc_4=: Apply to Join
+Desc_5=: Cancel Joining
+
+[DungeonDifficult]
+MinimapStr=(%s_1)
+Level_1=1
+Level_2=2
+Level_3=3
+Level_4=4
+Level_5=5
+Level_6=Mythic 1
+Level_7=Mythic 2
+Level_8=Mythic 3
+Level_9=Mythic 4
+Level_10=Mythic 5
+Select_1=1
+Select_2=2
+Select_3=3
+Select_4=4
+Select_5=5
+PVE_Enter_0=Enter Private
+PVE_Enter_1=Enter Public
+
+[ItemLevel]
+Level=Item %d
+Levelav=Average Item Level %d
+Tier=Tier
+
+[PartyDungeon]
+LS_Title=Recruiting Players
+LS_Difficulty=Difficulty
+LS_Creator=Creator
+LS_MemberTitle=Participants
+LS_Control=Controls
+Dg_0=View All
+Dg_1000=Mission Map - View All
+Dg_1001=Endless Tower
+Dg_1002=Blood Castle
+Dg_1003=Lupa's Labyrinth
+Dg_2000=Normal Dungeon - View All
+Dg_2001=Heath Mine
+Dg_2002=Sky Temple
+Dg_2003=Pit of Nightmares
+Dg_3000=Epic Dungeon - View All
+Dg_3001=Dragon's Haven
+Dg_3002=Sanctum of Dragon Knights
+Dg_4000=The Rift - View All
+Dg_4001=The Rift: Enova
+Dg_4002=The Rift: Duelden
+Dg_4003=The Rift: Litenberg
+
+[BurningStamina]
+BurningStamina_Level_1=Rift Overdrive
+BurningStamina_Desc_1=For a short period of time, you can enter the Rift as many times as you want!<br>As soon as Rift Overdrive ends, the Field content will be activated on this continent.
+BurningStamina_Level_2=Rift Overdrive Stage 2
+BurningStamina_Desc_2=You can enter the Rift as many times as you want.<br>The final card reward has significantly improved.
+BurningStamina_Level_3=Rift Overdrive Stage 3
+BurningStamina_Desc_3=Stage 3 does not exist.
+AdvBurningStamina_Awaken=You have sent the Rift into overdrive and acquired immense power.<br>Wipe out your enemies!
+AdvBurningStamina=%s_1 has sent the Rift into overdrive.<br>You can check the Overdrive information in the Rift UI (N).
+AwakenChar=Rift Overdriver (%s_1)
+
+[NpcFunction]
+LS_NpcFunction_1=Summon Private Shop
+LS_NpcFunction_32768=Summon Storage
+LS_NpcFunction_4194304=Summon Dismantle Menu
+LS_NpcFunction_524288=Summon Mailbox
+
+[PetNameHud]
+NameFrame=%s_1's %s_2
+
+[PetFellowTypeName]
+PetFellowType_0=Pet Growth Material
+PetFellowType_1=Normal
+PetFellowType_2=Material
+PetFellowType_3=Support
+PetFellowType_11=Plant
+PetFellowType_12=Insect
+PetFellowType_13=Beast
+PetFellowType_14=Humanoid
+PetFellowType_15=Undead
+PetFellowType_16=Demon
+PetFellowType_17=Mutant
+PetFellowType_18=Magic
+PetFellowType_19=Building
+
+[QuestMessage]
+QuestAccept=Accept Quest
+QuestComplete=Quest completed!
+
+[ToolTip]
+combatPower=Combat Power Changes When Equipped
+Simple_AbilityRange_Point=Value Range: %s_1 ~ %s_2
+Simple_AbilityRange_Percent=Value Range: %s_1% ~ %s_2%
+Item_AbilityRange_Point=(%s_1 ~ %s_2)
+Item_AbilityRange_Percent=(%s_1% ~ %s_2%)
+AbilityRange_Fixed=Value Range Fixed
+AbilityRange_Point=%s_1 ~ %s_2
+AbilityRange_Percent=%s_1% ~ %s_2%
+AbilityValue_Point=%s_1
+AbilityValue_Percent=%s_1
+Premium=*Premium Item
+
+[ToolTip_CashShop]
+ItemType=Product
+GiftName=<font color='#11F210'>%s_1</font>'s Gift
+GiftDate=Received in MM.DD.YY
+DateLimitAfter=After MM.DD.YY hh:00,
+ItemLimitAdd=%s_1 products will be added.
+ItemLimitFree=the products will disappear.
+ItemLimitInit=your purchase count will be reset.
+ItemLimitNum=you can buy %s_1 %s_2 times.
+ItemLimitAccount=Per account
+ItemLimitCharacter=Per character
+ItemLimitWorld=Per World
+
+[Account_Level]
+ek_buff_stat_str=Increases Strength by <font color='#11F210'>%s_1</font>
+ek_buff_stat_dex=Increases Dexterity by <font color='#11F210'>%s_1</font>
+ek_buff_stat_con=Increases Health by <font color='#11F210'>%s_1</font>
+ek_buff_stat_int=Increases Intelligence by <font color='#11F210'>%s_1</font>
+ek_buff_physics_weapon_min_dam=Increases Min Physical Attack by <font color='#11F210'>%s_1</font>
+ek_buff_physics_weapon_max_dam=Increases Max Physical Attack by <font color='#11F210'>%s_1</font>
+ek_buff_magic_weapon_min_dam=Increases Min Magic Attack by <font color='#11F210'>%s_1</font>
+ek_buff_magic_weapon_max_dam=Increases Max Magic Attack by <font color='#11F210'>%s_1</font>
+ek_buff_max_hp=Increases Max HP by <font color='#11F210'>%s_1 %</font>
+ek_buff_max_mp=Increases Max MP by <font color='#11F210'>%s_1 %</font>
+
+[Event]
+Event_Title=<font size='15' color='#FDC243'>Golden Time Event</font>¶
+Event_0=EXP from monsters +<font color='#11F210'>%s_1%</font>¶
+Event_1=Soul EXP from Monsters: +<font color='#11F210'>%s_1%</font>¶
+Event_2=Zen from Monsters: +<font color='#11F210'>%s_1%</font>¶
+Event_3=Magic Gems from Monsters: +<font color='#11F210'>%s_1%</font>¶
+Event_4=Monster Item Drop Rate: +<font color='#11F210'>%s_1%</font>¶
+Event_5=Chance of Goblin Brothers Appearing in the Rift: +<font color='#11F210'>%s_1%</font> ¶<font color='#AEAEAE'>(Gold Goblin, Magic Gem Goblin, etc.)</font>¶
+Event_TimeFormat=¶<font color='#59FFBD'>Until MM.DD.YY hh:mm</font>
+Survey_Title=<font size='15' color='#FDC243'>New Survey Available</font><br>
+Survey_1=First Impression Survey
+Survey_2=Early Stages Survey
+Survey_3=Magic Gem Mine Survey
+Survey_4=Luery's Secret Mine Survey
+Survey_5=Fabrice's Garden Survey
+Survey_6=Blood Castle Survey
+Survey_7=Endless Tower Survey
+Survey_8=Later Stages Survey
+Survey_9=Sanctum of Dragon Knights Survey
+Survey_10=Dragon's Haven Survey
+Survey_11=Lupa's Labyrinth Survey
+Survey_12=Arena Survey
+Survey_13=Altar of Spirits Survey
+Event_Login_Title=<font size='15' color='#FDC243'>Login Check Event</font>
+Event_Login_Desc=: Open Login Check Window
+TournamentTooltip_1=<font size='17' color='#FDC243'>1st Application Round</font><br><font size='14'>Guild leaders can now apply to compete for the territories on the Faction War map.</font>
+TournamentTooltip_2=<font size='17' color='#FDC243'>2nd Application Round</font><br><font size='14'>Only those whose application was not selected in the first round have 30 minutes to reapply.</font>
+TournamentTooltip_3=<font size='17' color='#FDC243'>2nd Application Round</font><br><font size='14'>Only those whose application was not selected in the first round have 30 minutes to reapply.</font>
+TournamentTooltip_4=<font size='17' color='#FDC243'>2nd Application Round Ended</font><br><font size='14'>The Tournament application period has ended. Applicants can now check their application results.</font>
+TournamentTooltip_5=<font size='17' color='#FDC243'>Ready to Create Raid Team</font><br><font size='14'>Starting at 8 p.m. on Sunday, you can create a Raid Team and prepare for your upcoming Tournament matches in advance.</font>
+TournamentTooltip_6=<font size='17' color='#FDC243'>1st Preliminary Dispatch Period</font><br><font size='14'>Those who are in the 1st preliminary round can now be dispatched for their matches. Dispatch the team before your match begins!</font>
+TournamentTooltip_7=<font size='17' color='#FDC243'>1st Preliminaries in Progress</font><br><font size='14'>The 1st preliminary matches are in progress. These matches last for up to 10 minutes.</font>
+TournamentTooltip_8=<font size='17' color='#FDC243'>2nd Preliminary Dispatch Period</font><br><font size='14'>Those who are in the 2nd preliminary round can now be dispatched for their matches. Dispatch the team before your match begins!</font>
+TournamentTooltip_9=<font size='17' color='#FDC243'>2nd Preliminaries in Progress</font><br><font size='14'>The 2nd preliminary matches are in progress. These matches last for up to 10 minutes.</font>
+TournamentTooltip_10=<font size='17' color='#FDC243'>3rd Preliminary Dispatch Period</font><br><font size='14'>Those who are in the 3rd preliminary round can now be dispatched for their matches. Dispatch the team before your match begins!</font>
+TournamentTooltip_11=<font size='17' color='#FDC243'>3rd Preliminaries in Progress</font><br><font size='14'>The 3rd preliminary matches are in progress. These matches last for up to 10 minutes.</font>
+TournamentTooltip_12=<font size='17' color='#FDC243'>4th Preliminary Dispatch Period</font><br><font size='14'>Those who are in the 4th preliminary round can now be dispatched for their matches. Dispatch the team before your match begins!</font>
+TournamentTooltip_13=<font size='17' color='#FDC243'>4th Preliminaries in Progress</font><br><font size='14'>The 4th preliminary matches are in progress. These matches last for up to 10 minutes.</font>
+TournamentTooltip_14=<font size='17' color='#FDC243'>Final Dispatch Period</font><br><font size='14'>Those who are in the final round can now be dispatched for their matches. Dispatch the team before your match begins!</font>
+TournamentTooltip_15=<font size='17' color='#FDC243'>Finals in Progress</font><br><font size='14'>The final matches are in progress. These matches last for up to 20 minutes.</font>
+TournamentTooltip_16=<font size='17' color='#FDC243'>The Tournament is in progress.16</font><br><font size='14'>The Tournament is in progress.</font>
+TournamentTooltipControl=: Open Tournament Help
+
+[MissionMap]
+ChaosCastleMainstring_0=Chaos Castle
+ChaosCastleString_0=Survive a lonely battle against 99 enemies.<br>Be the last one standing on a collapsing battlefield!
+ChaosCastleMainstring_1=Entry Rules
+ChaosCastleString_1=Apply to enter the Mission Map in the first 25 minutes of each hour.<br>You can enter the map once your team is selected based on your MMR.
+ChaosCastleMainstring_2=Basic Flow
+ChaosCastleString_2=The Chaos Castle battlefield collapses as you progress, getting narrower over time.<br>Step somewhere collapsing, and you will fall and die instantly.<br>You can lure your enemies to those spots or push them there by using Knockback skills.
+ChaosCastleMainstring_3=Winning Conditions
+ChaosCastleString_3=In Chaos Castle, you must kill 99 enemies and become the last person standing.
+ChaosCastleMainstring_4=Standard Reward
+ChaosCastleString_4=You will get Honor Coins, which you can use to buy PvP equipment.<br>You will also get Honor Points, which affect your Season Ranking reward.
+AltarofElementsMainstring_0=Altar of Spirits
+AltarofElementsString_0=Players can fight in teams of up to 10.<br>Teamwork is vital in this PvP battle mode.
+AltarofElementsMainstring_1=Entry Rules
+AltarofElementsString_1=Can be entered in the 1st 25 minutes of each hour.<br>Your team is selected based on your MMR.
+AltarofElementsMainstring_2=Basic Flow
+AltarofElementsString_2=You get points each time you kill an enemy or occupy a base on the map.<br>More bases occupied = more points.
+AltarofElementsMainstring_3=Winning Conditions
+AltarofElementsString_3=The 1st team to get 3,000 points/has the most points after a 15-minute game is declared the winner.
+AltarofElementsMainstring_4=Standard Reward
+AltarofElementsString_4=Magic Gem Chest
+ColosseumMainstring_0=AI Arena
+ColosseumString_0=Fight another player's AI character one on one.<br>You can try to win up to 10 times in a row.
+ColosseumMainstring_1=How to Enter
+ColosseumString_1=Accessible through the Mission Map (B) menu at level 45.<br>You can enter the Arena as many times as your remaining entry count, and stay for as long as you want each time you enter.
+ColosseumMainstring_2=Battle Rules
+ColosseumString_2=You can fight one of five opponents in your level range.<br>If you win, you can try another match without consuming entry count.
+ColosseumMainstring_3=Winning/Losing Conditions
+ColosseumString_3=Kill your opponent within the time limit, or you will lose the match even if you are not killed.
+ColosseumMainstring_4=Standard Reward
+ColosseumString_4=You will get Magic Gems every time you win.<br>Later when regular seasons begin, you will also get a Season reward based on your winning points.
+BulcanColosseumMainstring_0=3:3 Co-op Mode
+BulcanColosseumString_0=Teams of 3 players can fight each other.<br>This co-op mode requires good teamwork.
+BulcanColosseumMainstring_1=How to Enter
+BulcanColosseumString_1=Co-op mode is activated for 1 hour every 2 hours.<br>Request Matching, and a team will be found automatically.
+BulcanColosseumMainstring_2=Battle Rules
+BulcanColosseumString_2=Eliminate as many opposing players as you can within the time limit.<br>You will get Kill Points for eliminating opposing players.
+BulcanColosseumMainstring_3=Winning/Losing Conditions
+BulcanColosseumString_3=The team that earns more Kill Points before the other within the time limit wins.<br>If both teams have the same amount of Kill Points, both of them will lose.
+BulcanColosseumMainstring_4=Standard Reward
+BulcanColosseumString_4=You can get Fighter's Tokens through this co-op mode.<br>Fighter's Tokens can be exchanged for various currencies and items through the PvP Merchant in Ohrdor.<br>Earn many winning points and move up leagues to get more Fighter's Tokens.
+
+[RankSystem]
+charlevel=Level 65 characters at higher levels and with higher amounts of EXP
+combatPower=Characters (Lv. 65) with highest Combat Power
+SoulLevel=Characters (Lv. 65) with highest Soul Level and most EXP
+AccountLevel=Highest levels
+Zen=Characters (Lv. 65) with most Zen
+GreenZen=Characters (Lv. 65) with most Magic Gems
+normaldungeon=Fastest clear time in Mythic 5 dungeons
+epicdungeon=Fastest clear time in Epic 5 dungeons
+MissionMap=Highest win records
+BloodCastle=Shortest clear time - Blood Castle
+EndlessTower=Shortest clear time - Endless Tower
+maze=Shortest clear time - Lupa's Labyrinth
+Colosseum=Most winning points in AI Arena
+bulcancolosseum=Most winning points in 3:3 Co-op
+rank_charlevel=Level
+rank_combatpower=Combat Power
+rank_soullevel=Soul Level
+rank_accountlevel=Account Level
+RANK_ZEN=Zen
+rank_greenzen=Magic Gem
+rank_cleartime=Clear Time
+rank_missionmap=Wins
+rank_bloodcastle=Clear Time
+rank_wp=Arena Points
+RANK_MAZE=Clear Stage
+rank_endless=Cleared Floors
+rank_bulcan=Co-op Winning Points
+Tower_Floor=Floor %s_1
+Maze_Difficult=Stage %s_1
+
+[ShineBubbleString]
+ShieBubbleString_15=Sanctum of Destruction/Attacks +100%
+ShieBubbleString_17=Sanctum of Haste/Attack, Movement Speed +30%
+ShieBubbleString_18=Sanctum of Recovery/Decreases recovery time and cooldown time.
+ShieBubbleString_40=Sanctum of Rugard/Grants a strong God's Power!
+ShieBubbleString_41=Sanctum of Bulcan/Grants superhuman strength!
+ShieBubbleString_31=All Attacks +5%
+ShieBubbleString_32=All speeds increased!
+ShieBubbleString_33=HP and MP recovery increased!
+ShieBubbleString_34=All speeds increased significantly!
+ShieBubbleString_35=God's wrath strikes!
+ShieBubbleString_42=Artifact EXP gained! +100
+ShieBubbleString_43=Artifact EXP gained! +1,000
+ShieBubbleString_44=Artifact EXP gained! +5,000
+ShieBubbleString_45=Artifact EXP gained! +10,000
+ShieBubbleString_46=Artifact EXP gained! +50,000
+ShieBubbleString_47=Artifact EXP gained! +70,000
+ShieBubbleString_48=Artifact EXP gained! +100,000
+
+[NpcBubbleString]
+NpcBubbleString_1=Meteor/Random meteor attacks
+NpcBubbleString_2=Mana Burn/Decreases MP for surrounding characters.
+NpcBubbleString_3=Weakening Curse/Decreases stats for surrounding characters.
+NpcBubbleString_4=Solitude/the fewer the remaining characters, the stronger it grows.
+NpcBubbleString_5=Attack Aura/Increases monster Attack.
+NpcBubbleString_6=Defense Aura/Increases monster Defense.
+NpcBubbleString_7=Invincibility Aura/Turns monsters Invincible.
+NpcBubbleString_8=Healing Aura/Recovers monster HP.
+NpcBubbleString_9=Solidarity/the more the monsters, the stronger it grows.
+NpcBubbleString_10=Skin/Absorbs a certain amount of damage.
+NpcBubbleString_11=Defense Acceleration/Continuously increases Defense.
+NpcBubbleString_12=Attack Acceleration/Continuously increases Attack,Movement Speeds.
+NpcBubbleString_13=Ignite/Creates flaming areas.
+NpcBubbleString_14=Cold/Creates freezing areas.
+NpcBubbleString_4040=Rage : Stun/Responds to incoming Stun damage by recovering HP and growing stronger.
+NpcBubbleString_4041=Rage : Freeze/Responds to incoming Freeze damage by recovering HP and growing stronger.
+NpcBubbleString_4042=Rage : Ensnare/Responds to incoming Ensnaring damage by recovering HP and growing stronger.
+NpcBubbleString_4043=Rage : Silence/Responds to incoming Silence damage by recovering HP and growing stronger.
+NpcBubbleString_4044=Rage : Fear/Responds to incoming Fear damage by recovering HP and growing stronger.
+NpcBubbleString_4045=Rage : Blind/Responds to incoming Blind damage by recovering HP and growing stronger.
+NpcBubbleString_4046=Rage : Slow/Responds to incoming Slow damage by recovering HP and growing stronger.
+NpcBubbleString_4047=Rage : Airborne/Responds to incoming Airborne damage by recovering HP and growing stronger.
+NpcBubbleString_4048=Rage : Knockback/Responds to incoming Knockback damage by recovering HP and growing stronger.
+NpcBubbleString_4049=Rage : Crowd Control/Responds to incoming Abnormal Status damage by recovering HP and growing stronger.
+NpcBubbleString_4050=Rage : Physical Attack/Responds to incoming Physical damage by recovering HP and growing stronger.
+NpcBubbleString_4051=Rage : Magic Attack/Responds to incoming Magic damage by recovering HP and growing stronger.
+NpcBubbleString_4052=Rage : All Attacks/Responds to incoming damage by partially recovering HP and growing stronger.
+NpcBubbleString_4053=Oblivion Explosion/Summons Oblivion Bombs around it.
+NpcBubbleString_4054=Great Oblivion Explosion/Causes a great Oblivion Explosion upon death.
+NpcBubbleString_4055=Strong against Men/Strong against male characters
+NpcBubbleString_4056=Strong against Women/Strong against female characters
+NpcBubbleString_4057=Swamp Aura/Creates slowing areas.
+NpcBubbleString_4058=Attack Acceleration Aura/Accelerates monster Attack Speed.
+NpcBubbleString_4059=Defense Acceleration Aura/Accelerates monster Defense.
+NpcBubbleString_4060=Black Hole/Pulls in surrounding characters.
+NpcBubbleString_4061=Thorn/Reflects damage to surrounding enemies.
+NpcBubbleString_4062=Fiery Crash/Summon meteors around it.
+NpcBubbleString_4063=Fire Ghost/Summons meteors upon death.
+NpcBubbleString_4064=Water Ghost/Great damage on its killer
+NpcBubbleString_4065=Swamp Ghost/Ensnares its killer.
+NpcBubbleString_4066=Sacrifice/HP recovery and Invincibility for surrounding characters upon death
+NpcBubbleString_4067=Connecting Link/Attacks connected enemies.
+NpcBubbleString_4068=Worship/HP recovery and buff for surrounding characters upon death
+NpcBubbleString_4069=Lightning Ring/Casts Lightning Ring on enemies.
+NpcBubbleString_4070=Tsunami/Great tsunami attack
+NpcBubbleString_4071=Contaminated Area/Casts Contaminated Area on enemies.
+NpcBubbleString_4072=Catch Him/AoE Taunt on enemies
+NpcBubbleString_4073=Big Fish/Pulls enemies.
+NpcBubbleString_4074=Wave/Broad AoE damage
+NpcBubbleString_4075=Fire Ring/Casts Fire Ring on surrounding characters.
+NpcBubbleString_4076=Multiplication/Self-cloning
+NpcBubbleString_4077=Bulwark/Creates a bulwark to block damage.
+NpcBubbleString_4078=Buckshot/Buckshot damage on surrounding enemies
+NpcBubbleString_4079=Fiery Chain/Connects to enemies with fiery chain.
+
+[InGameSurvey]
+Survey_1_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>first impressions</Font> of the game.
+Survey_1_Subject=<Font color='#BCE55C'>First Impression</Font>
+Survey_1_Question_1=What was your first impression of MU Legend?
+Survey_1_Question_1_Choice_1=Very good
+Survey_1_Question_1_Choice_2=Good
+Survey_1_Question_1_Choice_3=Normal
+Survey_1_Question_1_Choice_4=Bad
+Survey_1_Question_1_Choice_5=Very bad
+Survey_1_Question_2=How did you like controlling your character?
+Survey_1_Question_2_Choice_1=Very good
+Survey_1_Question_2_Choice_2=Good
+Survey_1_Question_2_Choice_3=Normal
+Survey_1_Question_2_Choice_4=Bad
+Survey_1_Question_2_Choice_5=Very bad
+Survey_2_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of the early stages</Font> of the game.
+Survey_2_Subject=<Font color='#BCE55C'>Early Stages Survey</Font>
+Survey_2_Question_1=Have you enjoyed the game so far?
+Survey_2_Question_1_Choice_1=Very fun
+Survey_2_Question_1_Choice_2=Fun
+Survey_2_Question_1_Choice_3=Normal
+Survey_2_Question_1_Choice_4=Boring
+Survey_2_Question_1_Choice_5=Too boring
+Survey_2_Question_2=Would you recommend MU Legend to others?
+Survey_2_Question_2_Choice_1=I'll definitely recommend.
+Survey_2_Question_2_Choice_2=I'll recommend.
+Survey_2_Question_2_Choice_3=Normal
+Survey_2_Question_2_Choice_4=I don't want to recommend.
+Survey_2_Question_2_Choice_5=I'll never recommend.
+Survey_3_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of the Magic Gem Mine</Font>.
+Survey_3_Subject=<Font color='#BCE55C'>Magic Gem Mine Survey</Font>
+Survey_3_Question_1=Have you enjoyed Warped Magic Gem Mine?
+Survey_3_Question_1_Choice_1=Highly satisfactory
+Survey_3_Question_1_Choice_2=Satisfactory
+Survey_3_Question_1_Choice_3=Normal
+Survey_3_Question_1_Choice_4=Unsatisfactory
+Survey_3_Question_1_Choice_5=Highly unsatisfactory
+Survey_4_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of the Secret Vault</Font>.
+Survey_4_Subject=<Font color='#BCE55C'>Luery's Secret Vault Survey</Font>
+Survey_4_Question_1=Have you enjoyed Luery's Secret Vault?
+Survey_4_Question_1_Choice_1=Highly satisfactory
+Survey_4_Question_1_Choice_2=Satisfactory
+Survey_4_Question_1_Choice_3=Normal
+Survey_4_Question_1_Choice_4=Unsatisfactory
+Survey_4_Question_1_Choice_5=Highly unsatisfactory
+Survey_5_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of Fabrice's Garden</Font>.
+Survey_5_Subject=<Font color='#BCE55C'>Fabrice's Garden Survey</Font>
+Survey_5_Question_1=Have you enjoyed Fabrice's Garden?
+Survey_5_Question_1_Choice_1=Highly satisfactory
+Survey_5_Question_1_Choice_2=Satisfactory
+Survey_5_Question_1_Choice_3=Normal
+Survey_5_Question_1_Choice_4=Unsatisfactory
+Survey_5_Question_1_Choice_5=Highly unsatisfactory
+Survey_6_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of Blood Castle</Font>.
+Survey_6_Subject=<Font color='#BCE55C'>Blood Castle Survey</Font>
+Survey_6_Question_1=Have you enjoyed Blood Castle?
+Survey_6_Question_1_Choice_1=Highly satisfactory
+Survey_6_Question_1_Choice_2=Satisfactory
+Survey_6_Question_1_Choice_3=Normal
+Survey_6_Question_1_Choice_4=Unsatisfactory
+Survey_6_Question_1_Choice_5=Highly unsatisfactory
+Survey_7_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of the Endless Tower</Font>.
+Survey_7_Subject=<Font color='#BCE55C'>Endless Tower Survey</Font>
+Survey_7_Question_1=Have you enjoyed Endless Tower?
+Survey_7_Question_1_Choice_1=Highly satisfactory
+Survey_7_Question_1_Choice_2=Satisfactory
+Survey_7_Question_1_Choice_3=Normal
+Survey_7_Question_1_Choice_4=Unsatisfactory
+Survey_7_Question_1_Choice_5=Highly unsatisfactory
+Survey_8_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of the later stages</Font> of the game.
+Survey_8_Subject=<Font color='#BCE55C'>Later Stages Survey</Font>
+Survey_8_Question_1=Have you enjoyed the game so far?
+Survey_8_Question_1_Choice_1=Very fun
+Survey_8_Question_1_Choice_2=Fun
+Survey_8_Question_1_Choice_3=Normal
+Survey_8_Question_1_Choice_4=Boring
+Survey_8_Question_1_Choice_5=Too boring
+Survey_8_Question_2=Would you recommend MU Legend to others?
+Survey_8_Question_2_Choice_1=I'll definitely recommend.
+Survey_8_Question_2_Choice_2=I'll recommend.
+Survey_8_Question_2_Choice_3=Normal
+Survey_8_Question_2_Choice_4=I don't want to recommend.
+Survey_8_Question_2_Choice_5=I'll never recommend.
+Survey_9_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of the Sanctum of Dragon Knights</Font>.
+Survey_9_Subject=<Font color='#BCE55C'>Sanctum of Dragon Knights Survey</Font>
+Survey_9_Question_1=Have you enjoyed Sanctum of Dragon Knights?
+Survey_9_Question_1_Choice_1=Highly satisfactory
+Survey_9_Question_1_Choice_2=Satisfactory
+Survey_9_Question_1_Choice_3=Normal
+Survey_9_Question_1_Choice_4=Unsatisfactory
+Survey_9_Question_1_Choice_5=Highly unsatisfactory
+Survey_9_Question_2=Please leave a comment about the Sanctum of Dragon Knights.
+Survey_10_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of the Dragon's Haven</Font>.
+Survey_10_Subject=<Font color='#BCE55C'>Dragon's Haven Survey</Font>
+Survey_10_Question_1=Have you enjoyed Dragon's Haven?
+Survey_10_Question_1_Choice_1=Highly satisfactory
+Survey_10_Question_1_Choice_2=Satisfactory
+Survey_10_Question_1_Choice_3=Normal
+Survey_10_Question_1_Choice_4=Unsatisfactory
+Survey_10_Question_1_Choice_5=Highly unsatisfactory
+Survey_10_Question_2=Please leave a comment about Dragon's Haven.
+Survey_11_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of Lupa's Labyrinth</Font>.
+Survey_11_Subject=<Font color='#BCE55C'>Lupa's Labyrinth Survey</Font>
+Survey_11_Question_1=Have you enjoyed Lupa's Labyrinth?
+Survey_11_Question_1_Choice_1=Highly satisfactory
+Survey_11_Question_1_Choice_2=Satisfactory
+Survey_11_Question_1_Choice_3=Normal
+Survey_11_Question_1_Choice_4=Unsatisfactory
+Survey_11_Question_1_Choice_5=Highly unsatisfactory
+Survey_11_Question_2=Please leave a comment about Lupa's Labyrinth.
+Survey_12_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of the Arena</Font>.
+Survey_12_Subject=<Font color='#BCE55C'>Arena Survey</Font>
+Survey_12_Question_1=Have you enjoyed Arena?
+Survey_12_Question_1_Choice_1=Highly satisfactory
+Survey_12_Question_1_Choice_2=Satisfactory
+Survey_12_Question_1_Choice_3=Normal
+Survey_12_Question_1_Choice_4=Unsatisfactory
+Survey_12_Question_1_Choice_5=Highly unsatisfactory
+Survey_13_Information=Hello, this is a message from MU Legend.<br>This survey is designed to record your <Font color='#FFCD12'>assessment of the Altar of Spirits</Font>.
+Survey_13_Subject=<Font color='#BCE55C'>Altar of Spirits Survey</Font>
+Survey_13_Question_1=Have you enjoyed Altar of Spirits?
+Survey_13_Question_1_Choice_1=Highly satisfactory
+Survey_13_Question_1_Choice_2=Satisfactory
+Survey_13_Question_1_Choice_3=Normal
+Survey_13_Question_1_Choice_4=Unsatisfactory
+Survey_13_Question_1_Choice_5=Highly unsatisfactory
+
+[DungeonGroup]
+Dungeon_10=Sanctum of Dragon Knights (Epic)
+Dungeon_11=Dragon's Haven (Epic)
+Dungeon_101=Endless Tower
+Dungeon_102=Blood Castle
+Dungeon_103=Warped Magic Gem Mine
+Dungeon_104=Luery's Secret Vault
+Dungeon_105=Fabrice's Garden
+Dungeon_200=Rift
+Dungeon_300=Arena
+
+[Time]
+DateFormat1=<font color='#59FFBD'>MM.DD.YY hh:mm</font>
+DateFormat2=<font color='#59FFBD'>MM.DD.YY hh:mm</font>
+DateFormat3=MM.DD.YY
+TimeFormat1=<font color='#59FFBD'>hh:mm:ss</font>
+TimeFormat2=hh:mm:ss
+TimeFormat3=hh:mm
+
+[DayOfWeek]
+wDay_0=(Sun)
+wDay_1=(Mon)
+wDay_2=(Tue)
+wDay_3=(Wed)
+wDay_4=(Thu)
+wDay_5=(Fri)
+wDay_6=(Sat)
+
+[SocialMotion]
+ScMotion_3001=Laugh
+ScMotion_3013=Happy
+ScMotion_3002=Tears
+ScMotion_3003=Mock
+ScMotion_3014=Taunt
+ScMotion_3016=Charge
+ScMotion_3004=Dance
+ScMotion_3005=Greet
+ScMotion_3017=Love
+ScMotion_3018=Sulk
+ScMotion_3006=Clap
+ScMotion_3007=Beg
+ScMotion_3008=Decline
+ScMotion_3019=Bored
+ScMotion_3020=Fear
+ScMotion_3011=Fury
+ScMotion_3021=Victory
+ScMotion_3012=Despair
+ScMotion_3022=Boo
+ScMotion_3023=Stretch
+ScMotion_3024=Shy
+ScMotion_3009=Thanks
+ScMotion_3025=Shock
+ScMotion_3010=Sleep
+ScMotion_3026=Salute
+ScMotion_3015=Chat
+
+[AbilityName]
+Ability_none=-
+Ability_attack_speed=Attack Speed
+Ability_min_dmg=Min Attack
+Ability_max_dmg=Max Attack
+Ability_pwr=Attack
+Ability_prc=Penetration
+Ability_prc_rate=Defense Penetration
+Ability_def=Defense
+Ability_weapon_min_dmg=Min Weapon Attack
+Ability_weapon_max_dmg=Max Weapon Attack
+Ability_pvp_pwr=PvP Bonus Damage
+Ability_pvp_def=PvP Defense
+Ability_def_rate=All Damage Reduction
+Ability_cor_pwr_rate=Attack
+Ability_cor_pvp_pwr_rate=PvP Attack
+Ability_cor_pvp_def_rate=PvP Defense
+Ability_cor_pve_pwr_rate=Final Monster Damage Increase
+Ability_cor_pve_def_rate=Final Monster Damage Reduction
+Ability_weapon_skill_dmg_rate=Increased Main Weapon Skill Damage
+Ability_crt=Critical Attack
+Ability_crt_rate=Critical Rate
+Ability_crt_mul=Critical Damage
+Ability_crt_mul_rate=Critical Damage
+Ability_dodge=Evasion
+Ability_dodge_rate=Evasion Rate
+Ability_status_def=CC Time Reduction
+Ability_status_def_rate=CC Time Reduction
+Ability_shield_block=Shield Block
+Ability_shield_block_rate=Shield Block Rate
+Ability_run_speed=Running Speed
+Ability_walk_speed=Walking Speed
+Ability_cooling_speed=Cooldown Reduction
+Ability_max_hp=HP
+Ability_max_mp=MP
+Ability_rec_hp=HP Recovery per Second
+Ability_rec_mp=MP Recovery per Second
+Ability_save_mp=MP Cost Reduction
+Ability_quest_exp=Quest EXP
+Ability_monster_exp=Monster EXP
+Ability_normal_monster_exp=Normal Monster EXP
+Ability_elite_monster_exp=Elite Monster EXP
+Ability_boss_monster_exp=Boss Monster EXP
+Ability_sell_itme_price=Item-selling Prices
+Ability_item_protect=Durability Loss Reduction
+Ability_monster_kill_hp_rec=HP Bonus for Each Killed Monster
+Ability_monster_kill_mp_rec=MP Bonus for Each Killed Monster
+Ability_damage_hp_rec=HP Bonus for Damage Inflicted on Monsters
+Ability_damage_mp_rec=MP Bonus for Damage Inflicted on Monsters
+Ability_use_item_hp_rec=HP Recovery Item Effect Boost
+Ability_use_item_mp_rec=HP Recovery Item Effect Boost
+Ability_item_auto_rooting_range=Item Pickup Radius
+Ability_get_magic_item_chance=Uncommon Item Drop Rate
+Ability_passive_skill=Passive Skill
+Ability_get_gold_rate=Zen Drop
+Ability_drop_item_count_chance=Item Drop Rate
+Ability_ignore_def=Defense Penetration
+Ability_ignore_def_rate=Defense Penetration
+Ability_status_attack=Crowd Control Enhancement
+Ability_status_attack_rate=Crowd Control Enhancement
+Ability_healing_power=HP Recovery
+Ability_ability_buff_time=Buff Durations
+Ability_ability_buff_power=Buff Effects
+Ability_summon_time=Summon Durations
+Ability_reflect_damage=Damage Reflection
+Ability_skill_changer=Charges Skills
+Ability_skill_mastery_exp_rate=Skill Mastery
+Ability_weapon_attack_speed=Weapon Attack Speed
+Ability_npc_function=NPC
+Ability_repair_dur_price_rate=Durability Repair Costs
+Ability_weapon_recovery_mp_rate=Main Weapon Skills' MP Recovery
+Ability_riding_cast_time_rate=Decreased Mount Durations
+Ability_rec_hp_per_spend_mp=HP Bonus per MP Used
+Ability_crt_def_rate=Critical Defense
+Ability_monster_dmg_rate=Monster Bonus Damage
+Ability_normal_monster_dmg_rate=Normal Monster Attack
+Ability_elite_monster_dmg_rate=Elite Monster Attack
+Ability_boss_monter_dmg_rate=Boss Monster Attack
+Ability_elite_boss_monster_dmg_rate=Elite/Boss Monster Attack
+Ability_soul_exp_rate=Soul EXP
+Ability_monster_soul_exp_rate=Monster Soul EXP
+Ability_normal_monster_soul_exp_rate=Normal Monster Soul EXP
+Ability_elite_monster_soul_exp_rate=Elite Monster Soul EXP
+Ability_boss_monster_soul_exp_rate=Boss Monster Soul EXP
+Ability_elite_boss_monster_soul_exp_rate=Elite/Boss Monster Soul EXP
+Ability_pet_exp_rate=Pet EXP
+Ability_random_option=Abstraction Values
+Ability_get_green_zen_rate=Magic Gem Gain
+Ability_riding_speed_rate=Mount Speed
+Ability_riding_speed=Mount Speed
+Ability_small_dmg=Small Bonus Damage
+Ability_small_dmg_rate=Small Attack
+Ability_midium_dmg=Medium Bonus Damage
+Ability_midium_dmg_rate=Medium Attack
+Ability_large_dmg=Large Bonus Damage
+Ability_large_dmg_rate=Large Attack
+Ability_xlarge_dmg=Extra Large Bonus Damage
+Ability_xlarge_dmg_rate=Extra Large Attack
+Ability_plant_dmg=Plant Bonus Damage
+Ability_plant_dmg_rate=Plant Attack
+Ability_insect_dmg=Insect Bonus Damage
+Ability_insect_dmg_rate=Insect Attack
+Ability_beast_dmg=Beast Bonus Damage
+Ability_beast_dmg_rate=Beast Attack
+Ability_human_dmg=Humanoid Bonus Damage
+Ability_human_dmg_rate=Humanoid Attack
+Ability_undead_dmg=Undead Bonus Damage
+Ability_undead_dmg_rate=Undead Attack
+Ability_devil_dmg=Demon Bonus Damage
+Ability_devil_dmg_rate=Demon Attack
+Ability_mutant_dmg=Mutant Bonus Damage
+Ability_mutant_dmg_rate=Mutant Attack
+Ability_magic_dmg=Magic-type Bonus Attack
+Ability_magic_dmg_rate=Magic-type Attack
+Ability_structure_dmg=Building Bonus Damage
+Ability_structure_dmg_rate=Building Attack
+Ability_monster_def_rate=Monster Damage Reduction
+Ability_normal_monster_def_rate=Normal Monster Damage Reduction
+Ability_elite_monster_def_rate=Elite Monster Damage Reduction
+Ability_boss_monster_def_rate=Boss Monster Damage Reduction
+Ability_elite_boss_monster_def_rate=Elite/Boss Monster Damage Reduction
+Ability_small_def_rate=Small Damage Reduction
+Ability_midium_def_rate=Medium Damage Reduction
+Ability_large_def_rate=Large Damage Reduction
+Ability_xlarge_def_rate=Extra Large Damage Reduction
+Ability_plant_def_rate=Plant Damage Reduction
+Ability_insect_def_rate=Insect Damage Reduction
+Ability_beast_def_rate=Beast Damage Reduction
+Ability_human_def_rate=Humanoid Damage Reduction
+Ability_undead_def_rate=Undead Damage Reduction
+Ability_devil_def_rate=Demon Damage Reduction
+Ability_mutant_def_rate=Mutant Damage Reduction
+Ability_magic_def_rate=Magic-type Damage Reduction
+Ability_structure_def_rate=Building Damage Reduction
+Ability_accurate_rate=Accuracy
+Ability_get_riftpoint_rate=Rift Fragment Gain
+Ability_weapon_recovery_hp_rate=HP Recovery on Attack
+Ability_ignore_monster_defense=Monster Defense
+Ability_named_monster_dmg_rate=Named Monster Attack
+Ability_add_dmg=Attack
+Ability_add_dmg_rate=Bonus Attack
+Ability_add_def_rate=All Damage Reduction
+Ability_weapon_dmg=Weapon Attack
+Ability_weapon_base_dmg_rate=Weapon Attack
+Ability_weapon_base_dmg=Attack
+
+[Quest_Category]
+Continent_1=Tutorial
+Continent_2=Enova
+Continent_3=Duelden
+Continent_4=Ohrdor
+Continent_5=Litenberg
+Continent_6=Noria
+Region_101=Tutorial
+Region_201=Dudrin City
+Region_202=Amberial Forest
+Region_203=Weiss Basin
+Region_300=Tempano City
+Region_301=Bredrice Plains
+Region_302=Karolsandria
+Region_303=Salormis
+Region_501=Qwyinan Village
+Region_502=Ice Lake Plain
+Region_503=Kanturu Musai
+Region_504=Wallkreiger Ruins
+Region_505=Sanguine Highlands
+Region_506=Mining Gorge
+Region_507=Sanctum of the <br>Elders
+Region_508=War Shelter
+Region_403=Ohrdor
+Region_9200=Room of Duty
+Region_601=Ethedrean
+Region_621=World Tree Breath
+Region_622=Abator Crater
+Region_623=Crescent Moon Islands
+Region_624=Nungchentian Marshes
+
+[LevelGuide]
+GuideDungeonType_0=Dungeon
+GuideDungeonType_1=Mission Map
+ContentsName_1=The Rift
+ContentsName_8=Mythic Dungeon
+ContentsName_9=Sanctum of Dragon Knights
+ContentsName_10=Dragon's Haven
+ContentsName_2=Fabrice's Garden
+ContentsName_3=Magic Gem Mine
+ContentsName_5=Luery's Secret Vault
+ContentsName_4=Blood Castle
+ContentsName_6=Endless Tower
+ContentsName_7=Lupa's Labyrinth
+ContentsName_11=Field Overdrive
+ContentsName_12=AI Arena
+ContentsName_13=3:3 Co-op Mode
+ContentsName_1000=Mythic Mission
+ContentsName_2000=Territory Mission
+ContentsDesc_1=The Rift is a mysterious space formed in the fabric of spacetime. You can enter it through the Rift portal that appears here and there in the fields.<br><br>- The monsters in the Rift always match your level.<br>- The Rift's entry limit is lifted while it's in Overdrive mode.
+ContentsDesc_8=Mythic difficulty is for the highest-leveled characters available in the last dungeon on each continent. <br><br>- Mythic dungeons are set to level 65.<br>- Perform Mythic missions in the Daily Mission Guide (Esc) and go to Dukan, the Daily Mission NPC in Ohrdor, to get special rewards.
+ContentsDesc_9=The Epic dungeons are where powerful ancient dragons lie asleep. They are much more difficult than Mythic difficulty.<br><br>- The Epic dungeons have a very high difficulty level.<br><font color='#FE6D03'>- Only characters with at least 97,250 Combat Power can enter them.<br></font>- We recommend you train in the Mythic dungeons and Lupa's Labyrinth until you meet the Epic dungeons' Combat Power requirement.
+ContentsDesc_10=The Epic dungeons are where powerful ancient dragons lie asleep. They are much more difficult than Mythic difficulty.<br><br>- The Epic dungeons have a very high difficulty level.<br><font color='#FE6D03'>- Only characters with at least 97,250 Combat Power can enter them.<br></font>- We recommend you train in the Mythic dungeons and Lupa's Labyrinth until you meet the Epic dungeons' Combat Power requirement.
+ContentsDesc_2=This hidden garden of the ancient god Fabrice, since it was discovered on the other side of the Rift by the Rift Research Society, has become popular among adventurers.<br><br>- Accessible through the Room of Duty in Ohrdor.<br>- Produces large amounts of Pet EXP for your pets.
+ContentsDesc_3=This mine produces Magic Gems, which were as common as stones millennia ago.<br><br>- Accessible through the Room of Duty in Ohrdor.<br>- Abundant in Magic Gems.
+ContentsDesc_5=This secret vault of Luery holds the fortune that he has amassed through research into the Rift. Currently it's occupied by the angry goblins who were overworked and mistreated by Luery.<br><br>-Accessible through the Room of Duty in Ohrdor.<br>- You can get large amounts of Zen.
+ContentsDesc_4=It's the castle of Anilata, the leader of the Crusaders who were sealed within the Crystal Coffin by Rugard. Pandemonium wants to resurrect Anilata to weaken Rugard's power.<br><br>- Accessible through the Room of Duty in Ohrdor.<br>- Eliminate Anilata more quickly within the time limit to get a better reward.
+ContentsDesc_6=Rugard and Bulcan built this tall tower to pit their creatures against each other's. More formidable enemies await in the higher floors of the tower.<br><br>- Accessible through the Room of Duty in Ohrdor.<br>- If you clear a stage quickly enough, then you can skip multiple stages.
+ContentsDesc_7=It's a giant maze created inside Lupa's clock. You can manipulate the warping of spacetime inside the maze and select its difficulty level from 100 different levels.<br><br>- Accessible through the Room of Duty in Ohrdor.<br>- Abundant in Artifact materials and EXP.<br>- To grow your artifact quickly, reach 100% Monster Kill Points within the time limit.
+ContentsDesc_11=When the Rift rages out of control, its powerful energy can cause a warping of spacetime in the fields outside it, creating a passage between this earthly realm and Pandemonium. It's up to the warriors of the MU Continent to protect their world against formidable enemies from Pandemonium.<br><br>- When Rift Overdrive mode ends, a Field Raid event occurs on the corresponding continent.<br>- A large-scale Boss Monster Raid or Monster Invasion event occurs randomly.<br>- It takes at least 20 players to clear this event.
+ContentsDesc_12=You can fight the AI versions of other player characters on one on one. This PvP is less stressful since you're not fighting real players.<br><br>- You can stay inside the Arena for up to 10 matches per entry, if you win.<br>- You can get Magic Gems as winning rewards.
+ContentsDesc_13=Teams of 3 players can fight each other.<br><br>- The team that earns more kill points before the other within the time limit wins.<br>- Earn Co-op Mode Winning Points and move up leagues to get more Fighter's Tokens.<br>- Fighter's Tokens can be exchanged for various in-game currencies.
+ContentLevel_1=Required Level
+ContentLevelDesc_1=%s_1
+ContentEnterCnt_1=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_1=%s_1
+ContentDifficulty_1=Difficulty Rules
+ContentDifficultyDesc_1=Increased difficulty for parties
+ContentWarning_1=Very high difficulty level
+ContentWarningDesc_1=Parties of 5 recommended
+ContentMap_1=Location
+ContentMapDesc_1=All Areas
+ContentReward_1=Major Reward
+ContentLevel_8=Required Level
+ContentLevelDesc_8=%s_1
+ContentEnterCnt_8=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_8=%s_1
+ContentDifficulty_8=Difficulty Rules
+ContentDifficultyDesc_8=Increased difficulty for parties
+ContentWarning_8=Very high difficulty level
+ContentWarningDesc_8=Parties of 5 recommended
+ContentMap_8=Location
+ContentMapDesc_8=Last dungeon on the continent
+ContentReward_8=Major Reward
+ContentLevel_9=Required Level
+ContentLevelDesc_9=%s_1
+ContentEnterCnt_9=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_9=%s_1
+ContentDifficulty_9=Difficulty Rules
+ContentDifficultyDesc_9=Same difficulty for parties and singles
+ContentWarning_9=Very high difficulty level
+ContentWarningDesc_9=Parties of 5 recommended
+ContentMap_9=Location
+ContentMapDesc_9=Litenberg Continent >> Wallkreiger Ruins
+ContentReward_9=Major Reward
+ContentLevel_10=Required Level
+ContentLevelDesc_10=%s_1
+ContentEnterCnt_10=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_10=%s_1
+ContentDifficulty_10=Difficulty Rules
+ContentDifficultyDesc_10=Same difficulty for parties and singles
+ContentWarning_10=Very high difficulty level
+ContentWarningDesc_10=Parties of 5 recommended
+ContentMap_10=Location
+ContentMapDesc_10=Duelden Continent >> Salormis
+ContentReward_10=Major Reward
+ContentLevel_2=Required Level
+ContentLevelDesc_2=%s_1
+ContentEnterCnt_2=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_2=%s_1
+ContentDifficulty_2=Difficulty Rules
+ContentDifficultyDesc_2=Increased difficulty for parties
+ContentWarning_2=Very high difficulty level
+ContentWarningDesc_2=Parties of 5 recommended
+ContentMap_2=Location
+ContentMapDesc_2=Ohrdor Continent >> Room of Duty
+ContentReward_2=Major Reward
+ContentLevel_3=Required Level
+ContentLevelDesc_3=%s_1
+ContentEnterCnt_3=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_3=%s_1
+ContentDifficulty_3=Difficulty Rules
+ContentDifficultyDesc_3=Increased difficulty for parties
+ContentWarning_3=Very high difficulty level
+ContentWarningDesc_3=Parties of 5 recommended
+ContentMap_3=Location
+ContentMapDesc_3=Ohrdor Continent >> Room of Duty
+ContentReward_3=Major Reward
+ContentLevel_5=Required Level
+ContentLevelDesc_5=%s_1
+ContentEnterCnt_5=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_5=%s_1
+ContentDifficulty_5=Difficulty Rules
+ContentDifficultyDesc_5=Increased difficulty for parties
+ContentWarning_5=Very high difficulty level
+ContentWarningDesc_5=Parties of 5 recommended
+ContentMap_5=Location
+ContentMapDesc_5=Ohrdor Continent >> Room of Duty
+ContentReward_5=Major Reward
+ContentLevel_4=Required Level
+ContentLevelDesc_4=%s_1
+ContentEnterCnt_4=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_4=%s_1
+ContentDifficulty_4=Difficulty Rules
+ContentDifficultyDesc_4=Increased difficulty for parties
+ContentWarning_4=Very high difficulty level
+ContentWarningDesc_4=Parties of 5 recommended
+ContentMap_4=Location
+ContentMapDesc_4=Ohrdor Continent >> Room of Duty
+ContentReward_4=Major Reward
+ContentLevel_6=Required Level
+ContentLevelDesc_6=%s_1
+ContentEnterCnt_6=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_6=%s_1
+ContentDifficulty_6=Difficulty Rules
+ContentDifficultyDesc_6=Increased difficulty for parties
+ContentWarning_6=Very high difficulty level
+ContentWarningDesc_6=Parties of 5 recommended
+ContentMap_6=Location
+ContentMapDesc_6=Ohrdor Continent >> Room of Duty
+ContentReward_6=Major Reward
+ContentLevel_7=Required Level
+ContentLevelDesc_7=%s_1
+ContentEnterCnt_7=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_7=%s_1
+ContentDifficulty_7=Difficulty Rules
+ContentDifficultyDesc_7=Increased difficulty for parties
+ContentWarning_7=Very high difficulty level
+ContentWarningDesc_7=Parties of 5 recommended
+ContentMap_7=Location
+ContentMapDesc_7=Ohrdor Continent >> Room of Duty
+ContentReward_7=Major Reward
+ContentLevel_11=Required Level
+ContentLevelDesc_11=%s_1
+ContentEnterCnt_11=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_11=%s_1
+ContentDifficulty_11=Difficulty Rules
+ContentDifficultyDesc_11=Increased difficulty for parties
+ContentWarning_11=Very high difficulty level
+ContentWarningDesc_11=Parties of 5 recommended
+ContentMap_11=Location
+ContentMapDesc_11=All Areas
+ContentReward_11=Major Reward
+ContentLevel_12=Required Level
+ContentLevelDesc_12=%s_1
+ContentEnterCnt_12=Daily entry count (Restored daily at 5:00 a.m.)
+ContentEnterCntDesc_12=%s_1
+ContentDifficulty_12=
+ContentDifficultyDesc_12=
+ContentWarning_12=
+ContentWarningDesc_12=
+ContentMap_12=Location
+ContentMapDesc_12=PvP Mission Map (B)
+ContentReward_12=Major Reward
+ContentLevel_13=Required Level
+ContentLevelDesc_13=%s_1
+ContentEnterCnt_13=Available only at certain times (No entry limit)
+ContentEnterCntDesc_13=%s_1
+ContentDifficulty_13=
+ContentDifficultyDesc_13=
+ContentWarning_13=
+ContentWarningDesc_13=
+ContentMap_13=Location
+ContentMapDesc_13=PvP Mission Map (B)
+ContentReward_13=Major Reward
+DailySubMission_1_1_0=Mythic Difficulty: Clear Heath Mine
+DailySubMission_1_1_1=Mythic Difficulty: Clear Heath Mine
+DailySubMission_1_1_2=Mythic Difficulty: Clear Heath Mine
+DailySubMission_1_1_3=Mythic Difficulty: Clear Heath Mine
+DailySubMission_1_1_4=Mythic Difficulty: Clear Heath Mine
+DailySubMission_1_2_0=Mythic Difficulty: Clear Sky Temple
+DailySubMission_1_2_1=Mythic Difficulty: Clear Sky Temple
+DailySubMission_1_2_2=Mythic Difficulty: Clear Sky Temple
+DailySubMission_1_2_3=Mythic Difficulty: Clear Sky Temple
+DailySubMission_1_2_4=Mythic Difficulty: Clear Sky Temple
+DailySubMission_1_3_0=Mythic Difficulty: Clear Pit of Nightmares
+DailySubMission_1_3_1=Mythic Difficulty: Clear Pit of Nightmares
+DailySubMission_1_3_2=Mythic Difficulty: Clear Pit of Nightmares
+DailySubMission_1_3_3=Mythic Difficulty: Clear Pit of Nightmares
+DailySubMission_1_3_4=Mythic Difficulty: Clear Pit of Nightmares
+DailyMissionCondition_1_1=
+DailyMissionCondition_1_2=
+DailyMissionCondition_1_3=
+DailyMissionCondition_2_1=
+DailyMissionCondition_2_2=
+DailyMissionCondition_2_3=
+DailyMissionDesc_1_1=Complete daily missions, and you'll get Dukan's Proofs.<br>You can exchange Dukan's Proofs for items through Dukan, the Daily Mission NPC in Ohrdor.<br>Exchangeable items include Mythic or better equipment and Magic Gem Pouches.
+DailyMissionDesc_1_2=Complete daily missions, and you'll get Dukan's Proofs.<br>You can exchange Dukan's Proofs for items through Dukan, the Daily Mission NPC in Ohrdor.<br>Exchangeable items include Mythic or better equipment and Magic Gem Pouches.
+DailyMissionDesc_1_3=Complete daily missions, and you'll get Dukan's Proofs.<br>You can exchange Dukan's Proofs for items through Dukan, the Daily Mission NPC in Ohrdor.<br>Exchangeable items include Mythic or better equipment and Magic Gem Pouches.
+DailyMissionDesc_2_1=
+DailyMissionDesc_2_2=
+DailyMissionDesc_2_3=
+DailyMissionMsg_Type=Reward available
+DailyMissionMsg_Desc=Completed Daily Mission!
+DailyMissionMsg_Mission_1=Mythic missions (%s_1/%s_2 completed)
+DailyMissionMsg_Mission_2=Territory missions (%s_1/%s_2 completed)
+DailyMissionMsg_Mission_3=Exploration missions (%s_1/%s_2 completed)
+
+[AltarSkillInfo]
+AltarSkill_6001=Soul EXP Gain +5%
+AltarSkill_6011=EXP Gain +5%
+AltarSkill_6021=Uncommon Item Drop Rate +5%
+AltarSkill_6031=Zen Drop +5%
+AltarSkill_6041=Magic Gem Gain +5%
+AltarSkill_6002=Soul EXP Gain +10%
+AltarSkill_6012=EXP Gain +10%
+AltarSkill_6022=Uncommon Item Drop Rate +10%
+AltarSkill_6032=Zen Drop +10%
+AltarSkill_6042=Magic Gem Gain +10%
+AltarSkill_6003=Soul EXP Gain +15%
+AltarSkill_6013=EXP Gain +15%
+AltarSkill_6023=Uncommon Item Drop Rate +15%
+AltarSkill_6033=Zen Drop +15%
+AltarSkill_6043=Magic Gem Gain +15%
+AltarSkill_6004=Soul EXP Gain +20%
+AltarSkill_6014=EXP Gain +20%
+AltarSkill_6024=Uncommon Item Drop Rate +20%
+AltarSkill_6034=Zen Drop +20%
+AltarSkill_6044=Magic Gem Gain +20%
+
+[MegaPhone]
+Content=<font color='#11f210'>%s_1</font> <font color='#ffffff'>%s_2</font>
+
+[TranscendStone]
+PerEnchantAddValue=<font size='15'>(Bonus values per enhancement: %s_1)</font>
+TranscendPart=Transcending Part: %s_1
+TranscendPart_1=Weapon
+TranscendPart_2=Armor
+TranscendPart_3=Accessory
+TranscendItemLevel=Transcendable Item Level: %s_1
+TranscendLevel=Level %s_1
+TranscendGetHow=Source: %s_1
+TranscendLimitResetNum=Available Reset Count: %s_1
+TranscendNum=%s_1
+TranscendStoneGetHow_62510=Can be obtained from dismantled level 65 Ancient weapons.
+TranscendStoneGetHow_62511=Can be obtained from dismantled level 65 Mythic weapons.
+TranscendStoneGetHow_62512=Can be obtained from dismantled level 65 Set weapons.
+TranscendStoneGetHow_62520=Can be obtained from dismantled level 65 Ancient armor.
+TranscendStoneGetHow_62521=Can be obtained from dismantled level 65 Mythic armor.
+TranscendStoneGetHow_62522=Can be obtained from dismantled level 65 Set armor.
+TranscendStoneGetHow_62530=Can be obtained from dismantled level 65 Ancient accessories.
+TranscendStoneGetHow_62531=Can be obtained from dismantled level 65 Mythic accessories.
+TranscendStoneGetHow_62532=Can be obtained from dismantled level 65 Set accessories.
+AmplifierDest=Intensification Target: %s_1
+AmplifierDest_62540=Tier 1 Transcendent Stone
+AmplifierDest_62541=Tier 2 Transcendent Stone
+AmplifierDest_62542=Tier 3 Transcendent Stone
+EquipmentTranscend=Equipment Transcendence +%d
+
+[TournamentCompetition]
+UnderMinCompetition=%s_1 vs. 1 or fewer
+NormalCompetition=%s_1 vs. 1
+

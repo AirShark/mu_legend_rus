@@ -1,0 +1,165 @@
+[Title]
+Title_1000=Movement and Attack
+Title_2000=Main Quest Progress
+Title_3000=Learned New Skill
+Title_4000=Obtained Magic Gem
+Title_5000=Soul Level Increase
+Title_6000=Obtained Porystal
+Title_7000=Obtained Pet
+Title_8000=Obtained Magic Stone
+Title_9000=Skill Window
+Title_10000=Rift Overdrive
+Title_11000=World Map
+Title_12000=Rift
+Title_13000=Dungeon Difficulty
+Title_14000=Ranking
+Title_15000=Manage Pets
+Title_16000=Manage Achievements
+Title_17000=Enchant Equipment
+Title_18000=Endless Tower
+Title_19000=Unseal
+Title_20000=Room of Duty
+Title_21000=Magic Gem Mine
+Title_22000=Zen Dungeon
+Title_23000=Material Item Dungeon
+Title_25000=Manage Artifacts
+Title_26000=Obtained Artifact
+Title_27000=Guild
+Title_28000=Contribution
+Title_29000=AI Arena
+Title_30000=Lupa's Labyrinth
+Title_31000=Your true adventure begins!
+Title_32000=Reached Level 25!
+Title_33000=Reached Level 45!
+Title_34000=Reached Level 65!
+Title_35000=Lupa's Labyrinth
+Title_36000=Magic Gem Mine
+Title_37000=Growing and Evolving Pets
+Title_38000=Wing Growth Stone
+Title_39000=Monster Invasion
+Title_40000=Monster Invasion
+Title_41000=Monster Invasion
+Title_42000=Field Boss Raid
+Title_43000=Field Boss Raid
+Title_44000=Field Boss Raid
+Title_45000=3:3 Co-op Mode
+
+[Contents]
+Contents_1000=<font color='#FDD889'>You can move and attack</font> by left-clicking the mouse.<br>Left-click on the ground to move.<br>Left-click on an enemy to attack.
+Contents_2000=Left-click on <font color='#FDD889'>Linda</font> on the screen to receive a <font color='#FDD889'>quest</font>.
+Contents_3000=When you learn a new skill, you can equip and use the skill in the skill slot on the bottom. <font color='#FDD889'>Left-click on the skill quickslot</font> to check and change available skills.
+Contents_4000=The <font color='#FDD889'>Magic Gem</font> is a very rare and important currency. You can only obtain them from the <font color='#FDD889'>Magic Gem Mine at Ohrdor - Room of Duty or the Rift</font>.
+Contents_5000=Every time your Soul level increases, you get a Soul Point. You can allocate your Soul Points to various stats in <font color='#FDD889'>Soul Chest (Z)</font>.
+Contents_6000=You can enter a very special dungeon by using a Porystal. <font color='#FDD889'>Right-click</font> on the Porystal in the inventory to use it instantly. The basic difficulty of a Porystal dungeon is very high. Enter with a party!
+Contents_7000=Open your inventory and <font color='#FDD889'>right-click</font> a pet to register it to the <font color='#FDD889'>Manage Pets UI</font>.
+Contents_8000=Right-click a Gem, and then click a slotted Equipment item to equip the Gem. You can add slots to your equipment through the <font color='#FDD889'>Gemcutter</font> in town.
+Contents_9000=You can check the information of a variety of skills and equip skill crests. You can obtain <font color='#FDD889'>expert skills at level 25 and 45</font>.
+Contents_10000=When the Overdrive Gauge reaches the max level, the Rift goes into overdrive.<br>When the Rift goes into overdrive, <font color='#FDD889'>the Rift entry count is unlimited</font>.
+Contents_11000=World map supports <font color='#FDD889'>Auto Move</font>. <font color='#FDD889'>Right-click</font> on a location you wish to move to.
+Contents_12000=The Rift has <font color='#FDD889'>monsters that match the player's level</font>. This dungeon is especially <font color='#FDD889'>abundant in items and Magic Gems</font>.
+Contents_13000=You can earn better rewards by raising the dungeon's <font color='#FDD889'>difficulty</font>, but the monsters will become stronger. Make sure you enter with a party.
+Contents_14000=Each ranking category has a different update frequency and rewards.<br>You can check other players' information on the ranking page.
+Contents_15000=Pets provide additional character stats when grown and evolved. Growing pets require <font color='#FDD889'>material pets</font>.
+Contents_16000=When you accomplish achievements, you'll get <font color='#FDD889'>Achievement Points, items, and titles</font>. Achievement Grade rewards include rare items.
+Contents_17000=<font color='#FDD889'>Jewels of Bless</font> can be used to enchant items. Weapons and Armor can be enchanted.<br>Lots of <font color='FF0000'>Zen and Magic Gems</font> are required for enchanting.
+Contents_18000=The Endless Tower consists of 100 stages. Clear a stage <font color='#FDD889'>quickly enough</font>, and you get to skip multiple stages.<br>This Stage Skip feature is useful for bypassing tough stages.
+Contents_19000=If the <font color='#FDD889'>10-minute time limit</font> is exceeded, you fail the challenge. <br>If the Blood Castle clear time is <font color='#FDD889'>shorter</font>, you will get greater rewards!
+Contents_20000=The Room of Duty leads you to various <font color='#FDD889'>mission maps</font> such as Endless Tower and Blood Castle. A mission map is an event battlefield with unique play rules and rewards.
+Contents_21000=Defeat monsters to <font color='#FDD889'>fill the Trenta Gauge</font> to move to the next floor.<br>You can obtain <font color='#FDD889'>a large number of Magic Gems</font> at the Magic Gem Mine.
+Contents_22000=Defeat monsters to <font color='#FDD889'>fill the Trenta Gauge</font> and move to the next floor.<br>You can obtain <font color='#FDD889'>a large amount of Zen</font> in the Secret Vault.
+Contents_23000=Hunt monsters and <font color='#FDD889'>fill the Trenta gauge</font> to move on to the next floor.<br>This garden is <font color='#FDD889'>abundant in crafting materials and rare potions</font>.
+Contents_//24000=This special money <font color='#FDD889'>can only be obtained inside the Rift</font>. You can use it to buy Item Chests from the <font color='#FDD889'>Rift Fragment Merchant</font> in town.
+Contents_25000=You can craft and equip artifacts when you reach <font color='#FDD889'>level 65</font>. You can upgrade artifacts by earning artifact EXP in <font color='#FDD889'>Lupa's Labyrinth</font>.<br>As artifacts upgrade, their effects are enhanced.
+Contents_26000=You can check and equip artifacts in Manage Artifact (X). To grow an artifact, you must <font color='#FDD889'>select it as your Growth Artifact</font>.<br>Artifacts that are not selected as the Growth Artifact cannot be grown.
+Contents_27000=You can join a <font color='#FDD889'>Guild or check Guild information</font> in the Guild window.
+Contents_28000=<font color='#FDD889'>Contribution</font> is the Guild money used for guild activities. You will be able to use it at the Contribution Shop after the Faction War is implemented in the game.
+Contents_29000=You can engage in a <font color='#FDD889'>1-on-1 battle with another player's AI character</font> in the Arena.<br>You will earn a small number of <font color='#FDD889'>Magic Gems</font> after winning an Arena match.
+Contents_30000=Hunt monsters inside the Labyrinth, and your <font color='#FDD889'>Charge Rate</font> increases.<br>You must <font color='#FDD889'>reach 100% Charge Rate within the time limit to get the best reward.</font>Your reward decreases if you fail to max out your Charge Rate.
+Contents_31000=MU Legend features a variety of functions for your convenience for easy and fast upgrade. Click <font color='#FDD889'>Details</font> for more info.
+Contents_32000=- You can now learn a <font color='#FDD889'>new Expert skill</font>!<br>- <font color='#FDD889'>Fabrice's Garden</font> has been unlocked!<br> Press the <font color='#FDD889'>Details</font> button for more details.
+Contents_33000=- You can now learn a <font color='#FDD889'>new Expert skill</font>!<br>- <font color='#FDD889'>Blood Castle</font> has been unlocked!<br>- The <font color='#FDD889'>AI Arena</font> has been unlocked!<br>- <font color='#FDD889'>Luery's Secret Vault</font> has been unlocked!<br>Press the <font color='#FDD889'>Details</font> button for more details.
+Contents_34000=<font color='#FDD889'>You have reached the maximum level!</font><br>- You can now select <font color='#FDD889'>Mythic difficulty</font>.<br>- You can now enter the <font color='#FDD889'>Endless Tower</font>.<br>- The <font color='#FDD889'>Artifacts (X)</font> content has been unlocked!<br>- <font color='#FDD889'>Lupa's Labyrinth</font> has been unlocked!<br> Press the <font color='#FDD889'>Details</font> button for more details.
+Contents_35000=Make sure to craft an Artifact before entering the Labyrinth. After crafting an artifact, it must be selected as an Artifact before upgrading.<br><font color='FDD889'>An artifact will not gain artifact EXP if it is not selected!</font>
+Contents_36000=Once you reach Level 35, the Magic Gem Mine becomes available where you can <font color='FDD889'>obtain the most Magic Gems</font> in game.<br>You can enter the Magic Gem Mine through <font color='FDD889'>the Room of Duty in Ohrdor</font>.
+Contents_37000=Pets need <font color='FDD889'>Pet EXP</font> to grow. Pets gain EXP when your character does.<br>You can <font color='FDD889'>Evolve</font> pets to increase their <font color='FDD889'>Pet tier</font>.
+Contents_38000=You get <font color='FDD889'>Seals of Power</font> for exploring the Endless Tower.<br>Seals of Power are used for buying Wing Growth/Evolution Stones, which are used for growing Wings.<br>Go to the Endless Tower Merchant in Ohrdor.
+Contents_39000=The objective of Monster Invasion mode is to protect the 3 wardstones in the map and eliminate the invasion boss monster.<br>It's important to have an adequate number of players protecting each of the 3 wardstones before all them are destroyed.
+Contents_40000=The objective of Monster Invasion mode is to protect the 3 wardstones in the map and eliminate the invasion boss monster.<br>It's important to have an adequate number of players protecting each of the 3 wardstones before all them are destroyed.
+Contents_41000=The objective of Monster Invasion mode is to protect the 3 wardstones in the map and eliminate the invasion boss monster.<br>It's important to have an adequate number of players protecting each of the 3 wardstones before all them are destroyed.
+Contents_42000=The objective of Field Boss Raid mode is to <font color='FDD889'>eliminate the boss monster within the time limit</font>. The Raid Boss monster flees when it loses HP. You can stop its escape by inflicting great damage.
+Contents_43000=The objective of Field Boss Raid mode is to <font color='FDD889'>eliminate the boss monster within the time limit</font>. The Raid Boss monster flees when it loses HP. You can stop its escape by inflicting great damage.
+Contents_44000=The objective of Field Boss Raid mode is to <font color='FDD889'>eliminate the boss monster within the time limit</font>. The Raid Boss monster flees when it loses HP. You can stop its escape by inflicting great damage.
+Contents_45000=In 3:3 Co-op mode, the team that gains more Kill Points than the other within the time limit wins.<br>The winners get <font color='FDD889'>Fighter's Tokens</font>, which they can exchange for various in-game resources through the PvP Merchant in Ohrdor.
+
+[SuperGuide_31000]
+SuperGuideTitle=Important information for your adventures!
+Content_Title_1=Auto Move
+Content_SubTitle_1=Automatically moves you to a desired location.
+Content_Text_1=- Right-click on a location on the mini map or the world map. Then your character will automatically move to that location.
+Content_GuideLink_1=1001001
+Content_Image_1=SuperGuide_01
+Content_Title_2=Auto Pickup
+Content_SubTitle_2=You can pick up all nearby items at once.
+Content_Text_2=- Pressing the F key near a dropped item will pick up all items nearby.
+Content_GuideLink_2=1001002
+Content_Image_2=SuperGuide_02
+Content_Title_3=Alt and Shift
+Content_SubTitle_3=Alt and Shift are important function keys.
+Content_Text_3=- While Pressing the Alt key, You can control the UI or load the menu by Right-clicking on another character.<br>- While Pressing the Shift key, You can attack without moving from your current location.
+Content_GuideLink_3=1000002
+Content_Image_3=SuperGuide_03
+
+[SuperGuide_32000]
+SuperGuideTitle=You reached level 25, new content is unlocked!
+Content_Title_1=First Expert Skill
+Content_SubTitle_1=You can learn powerful expert skills.
+Content_Text_1=- Expert skills are extremely powerful skills that you can learn only at Level 25, 45, and 65.<br>- To learn these skills, perform the Expert Skill quests available at the Hall of Light in Ohrdor.
+Content_GuideLink_1=1003002
+Content_Image_1=SuperGuide_04
+Content_Title_2=Metropolis Ohrdor
+Content_SubTitle_2=Ohrdor, the biggest city in the MU Continent, provides all the possible convenience features.
+Content_Text_2=- You can play various Mission maps in the Room of Duty in Ohrdor.<br>- You can learn Expert skills, use the Auction House, and meet the Guild Manager.
+Content_GuideLink_2=1023001
+Content_Image_2=SuperGuide_05
+Content_Title_3=Fabrice's Garden
+Content_SubTitle_3=Fabrice's Garden is optimized for material farming.
+Content_Text_3=- It's accessible through the Room of Duty in Ohrdor.<br>- It's abundant in high-grade materials and potions.
+Content_GuideLink_3=1023006
+Content_Image_3=SuperGuide_06
+
+[SuperGuide_33000]
+SuperGuideTitle=You reached level 45, new content is unlocked!
+Content_Title_1=Second Expert Skill
+Content_SubTitle_1=Your can learn another expert skill.
+Content_Text_1=- Expert skills are essential as they provide powerful Passive effects that remain active even if they are not equipped.<br>- You can unlock your second Expert Skill slot by performing the related skill quests in the Hall of Light in Ohrdor.
+Content_GuideLink_1=1003002
+Content_Image_1=SuperGuide_04
+Content_Title_2=Litenberg Continent
+Content_SubTitle_2=Experience the new continent!
+Content_Text_2=- At Level 45 and higher, you can move on to the Litenberg Continent.<br>- Haven't you visited the Litenberg Continent yet? Check your Main quests! More exciting adventures await.
+Content_GuideLink_2=1017002
+Content_Image_2=SuperGuide_08
+Content_Title_3=Blood Castle and AI Arena
+Content_SubTitle_3=Blood Castle and Arena are unlocked!
+Content_Text_3=- Blood Castle is a Time Attack Mission map. It's abundant in Magic Gems, Skill Crest Cubes, and Jewels of Bless.<br>- Fight the AI characters of other users in the AI Arena. You'll get Magic Gems if you win.
+Content_GuideLink_3=1023003
+Content_Image_3=SuperGuide_09
+
+[SuperGuide_34000]
+SuperGuideTitle=Congratulations on reaching the max level.
+Content_Title_1=Mythic Difficulty
+Content_SubTitle_1=Max Level Difficulty
+Content_Text_1=- Mythic difficulty is so difficult that only the highest-leveled characters can play it.<br>- Only the last dungeon on each continent—Heath Mine, Sky Temple, and Pit of Nightmare—supports Mythic mode.<br>- Mythic difficulty helps you further grow your character after reaching maximum level. Once you master Mythic difficulty, you can move on to the Epic dungeons.
+Content_GuideLink_1=1019004
+Content_Image_1=SuperGuide_10
+Content_Title_2=Lupa's Labyrinth
+Content_SubTitle_2=Artifact Growth Content
+Content_Text_2=- Lupa's Labyrinth is a unique Mission map whose difficulty can be chosen from 100 different levels.<br>- It's accessible through the Room of Duty in Ohrdor.<br>- You can create and grow artifacts through Lupa's Labyrinth.
+Content_GuideLink_2=1023007
+Content_Image_2=SuperGuide_11
+Content_Title_3=Endless Tower
+Content_SubTitle_3=Wing Growth Content
+Content_Text_3=- The Endless Tower consists of 100 stages and has a high difficulty level.<br>- Explore the Endless Tower and get Seals of Power. You can exchange them for Wing growth items through the Endless Tower merchant NPC in Ohrdor.
+Content_GuideLink_3=1023002
+Content_Image_3=SuperGuide_06
+

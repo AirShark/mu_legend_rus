@@ -1,0 +1,31 @@
+[MenuButton]
+PartyMenu=Party Menu
+SystemMenu=System Menu (Esc)
+
+[SystemMenu]
+Server=Select Server
+Homepage=Home
+Help=Help
+GameGrade=Check Game Rating
+Character=Select Character
+Quit=Exit Game
+Option=System Settings
+Channel=Change Channel
+
+[PartyMenu]
+Charge=Designate Party Leader
+Dismission=Disband
+RuleChange=Change Rule
+Banishment=Expel
+Leave=Leave
+
+[PartyOffMenu]
+Invitation=Invite
+Search=Search
+
+[MessageBox]
+CharSelectTitle=Select Character
+CharSelect=<p>Go to the character selection screen?</p>
+ExitGameTitle=Exit Game
+ExitGame=<p>Exit game?</p>
+

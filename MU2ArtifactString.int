@@ -1,0 +1,65 @@
+[ArtifactToolTip]
+Artifact_2000_Basic=Basic Effect@Attacks create a <font color='#FE6D03'>[Cal_Type_11]% (0.25% *{Growth Level})%</font> chance of increasing Attack by 5% for 2 seconds.<br><font color='#FE6D03'>Increase per Level: 0.25%</font>
+Artifact_1000_Basic=Basic Effect@When attacked by an enemy, increases Defenses by <font color='#FE6D03'>[Cal_Type_1]% (2% +{Growth Level/50})%</font> for 3 seconds. (Max Stacks: 10)<br><font color='#FE6D03'>Increase per Level: 0.02%</font>
+Artifact_1100_Basic=Basic Effect@Attacks create a <font color='#FE6D03'>[Cal_Type_2]% (0.2% +{Growth Level/5})%</font> chance of casting Rugard's Touch around you.<br><font color='#FE6D03'>Increase per Level: 0.2%</font>
+Artifact_1200_Basic=Basic Effect@Increases Critical Rate by <font color='#FE6D03'>[Cal_Type_3]% (5% +{Growth Level/5})%</font> at the cost of HP Recovery per Second.<br><font color='#FE6D03'>Increase per Level: 0.2%</font>
+Artifact_1300_Basic=Basic Effect@Attacks create a <font color='#FE6D03'>[Cal_Type_4]% (0.2% +{Growth Level/5})%</font> chance of casting a random buff on you.<br><font color='#FE6D03'>Increase per Level: 0.2%</font>
+Artifact_1400_Basic=Basic Effect@When your HP drops to 30% or lower, this artifact casts Stealth for 5 seconds and increases Evasion Rate by <font color='#FE6D03'>[Cal_Type_5]% (5% +{Growth Level/2})%</font>.  (Cooldown: 20 seconds)<br><font color='#FE6D03'>Increase per Level: 0.5%</font>
+Artifact_1500_Basic=Basic Effect@Knocked back and Airborne enemies increase your Attack by <font color='#FE6D03'>[Cal_Type_6]% (10% +{Growth Level})%</font> for 3 seconds.<br><font color='#FE6D03'>Increase per Level: 1%</font>
+Artifact_1600_Basic=Basic Effect@Attacks increase Attack by <font color='#FE6D03'>[Cal_Type_7]% (1% +{Growth Level/50})%</font> for 2 seconds. (Max Stacks: 10)<br><font color='#FE6D03'>Increase per Level: 0.02%</font>
+Artifact_1700_Basic=Basic Effect@Main Weapon skills add Enhanced Attack and negate Enhanced Defense. Other skills add Enhanced Defense and negate Enhanced Attack.<br>Increases its Attack/Defense boost by <font color='#FE6D03'>[Cal_Type_8]% (0.3% +{Growth Level/100})%</font>. (Max Stacks: 30)
+Artifact_1800_Basic=Basic Effect@Successful dodges decrease Attack and Defense for surrounding enemies by <font color='#FE6D03'>[Cal_Type_9]% ({Growth Level/2})%</font> for 3 seconds.<br><font color='#FE6D03'>Increase per Level: 0.5%</font>
+Artifact_1900_Basic=Basic Effect@Decreases basic Damage by 30% and increases Critical Damage by <font color='#FE6D03'>[Cal_Type_10]% (10% +{Growth Level x2})%</font>.<br><font color='#FE6D03'>Increase per Level: 2%</font>
+Artifact_1000_20=Level 20 Effect@Increased Defense, when max-stacked, increases HP Recovery per second by 30% for 5 seconds.
+Artifact_1100_20=Level 20 Effect@Creates a very low chance of casting Bulcan's Gaze.
+Artifact_1200_20=Level 20 Effect@Causes Cold Explosion with every enemy killed by a Critical hit. (Cooldown: 15 seconds)
+Artifact_1300_20=Level 20 Effect@Attacks create a very low chance of casting all buffs at once. This effect persists for 10 seconds.
+Artifact_1400_20=Level 20 Effect@Increases Movement Speed by 50% and ignores unit collision for 5 seconds.
+Artifact_1500_20=Level 20 Effect@Damage from enemies' Crowd Control skills decrease your incoming damage by 20% and increase Movement Speed by 10% for 5 seconds. (Cooldown: 20 seconds)
+Artifact_1600_20=Level 20 Effect@Increased Attack, when max-stacked, increases all speeds by 15% for 10 seconds.
+Artifact_1700_20=Level 20 Effect@The Enhanced Attack and Defense buffs, if both of them are stacked 20 times, increase all speeds by 15% for 1 minute.
+Artifact_1800_20=Level 20 Effect@2 successful dodges in a row inflict great damage on a narrow area and Stun the enemies. (Cooldown: 20 seconds)
+Artifact_1900_20=Level 20 Effect@Critical attacks create a very low chance of inflicting additional 400% damage.
+Artifact_2000_20=Level 20 Effect@Increases Defense by 5%.
+Artifact_1000_Desc=When you're able to completely control all emotions inside, you will face the truth at the end of the endeavor.<br> - Avant Edouard<br><br><font color='#FF0000'>Caution!<br> - This artifact does not take effect in Faction War Tournament matches. For more information, refer to our official announcements.</font>
+Artifact_1100_Desc=An ancient proverb perfectly sums up what you've just experienced: One man sows and another man reaps.<br><font color='#FF0000'>Caution!<br> - This artifact does not take effect in Faction War Tournament matches. For more information, refer to our official announcements.</font>
+Artifact_1200_Desc=His pain and anger are so great that his sword, his armor, and even his soul are frosted up. He's no longer the great leader of Tullan he once was.<br><font color='#FF0000'>Caution!<br> - This artifact does not take effect in Faction War Tournament matches. For more information, refer to our official announcements.</font>
+Artifact_1300_Desc=It's almost impossible to take complete control over this beautiful, iridescent artifact. Just give up. Let it control you.<br><font color='#FF0000'>Caution!<br> - This artifact does not take effect in Faction War Tournament matches. For more information, refer to our official announcements.</font>
+Artifact_1400_Desc=This mask was once used in the traditional mask performance of another world.<br>It was a sort of satirical drama that bloomed under the oppression of a powerful caste system.<br><font color='#FF0000'>Caution!<br> - This artifact does not take effect in Faction War Tournament matches. For more information, refer to our official announcements.</font>
+Artifact_1500_Desc=The greatest weapon of war is valor, and the key to survival in battle is the sharpest wits. Now, try to beat your enemies solely with your valor and wits.<br><font color='#FF0000'>Caution!<br> - This artifact does not take effect in Faction War Tournament matches. For more information, refer to our official announcements.</font>
+Artifact_1600_Desc=A power that can kill anyone can also kill its wielder. More easily so if the wielder is as green as you.<br> - Udgrasir, Hero of Xylok<br><font color='#FF0000'>Caution!<br> - This artifact does not take effect in Faction War Tournament matches. For more information, refer to our official announcements.</font>
+Artifact_1700_Desc=Life and death, spirit and body, restraint and desire.<br>An artifact that balances everything.<br><font color='#FF0000'>Caution!<br> - This artifact does not take effect in Faction War Tournament matches. For more information, refer to our official announcements.</font>
+Artifact_1800_Desc=I've never been hit in my entire life! Ho ho ho!<br> - During Witch Pamela's 542nd birthday party...<br><font color='#FF0000'>Caution!<br> - This artifact does not take effect in Faction War Tournament matches. For more information, refer to our official announcements.</font>
+Artifact_1900_Desc=Although I can't say this artifact is responsible for it,<br>everyone who owned this artifact at one time or another grew irritable.<br>- Mukler's Artifact Manual<br><font color='#FF0000'>Caution!<br> - This artifact does not take effect in Faction War Tournament matches. For more information, refer to our official announcements.</font>
+Artifact_2000_Desc=It's not easy to master the amazing powers of the artifacts, but I can teach you the gist of it.<br> - Grande, Rift Research Society<br><font color='#FF0000'>Caution!<br> - This artifact, when alchemized, produces 5 Broken Artifact Fragments instead of Sage's Stones.<br> - This artifact does not take effect in Faction War Tournament mode. For more information, refer to our official announcements.</font>
+
+[FormulaValue]
+Cal_Type_1=2,50
+Cal_Type_2=0.2,5
+Cal_Type_3=5,5
+Cal_Type_4=0.2,5
+Cal_Type_5=5,2
+Cal_Type_6=10,1
+Cal_Type_7=1,50
+Cal_Type_8=0.3,100
+Cal_Type_9=0,2
+Cal_Type_10=10,2
+Cal_Type_11=0.25,1
+
+[UMU2GFxArtifactName]
+ArtifactName_1000=Endurance
+ArtifactName_1100=Sunrise
+ArtifactName_1200=Frozen Heart
+ArtifactName_1300=Rainbow
+ArtifactName_1400=Mask Performance
+ArtifactName_1500=Tenacity
+ArtifactName_1600=Frenzy
+ArtifactName_1700=Balance
+ArtifactName_1800=Allegro
+ArtifactName_1900=Hysteria
+ArtifactName_2000=Growing Sprout
+
+[Desc]
+GrowDesc=<font color='#FF0000'>Caution!</font><br> - Level-up Slot: Select an artifact to gain artifact EXP.<br> - Equip Slot: Select an artifact to activate its effect.<br> - When the level-up slot is empty, all gained artifact EXP will disappear.
+EquipDesc=<font color='#FFFFFF'>Only the artifact in the equip slot activates its effect.</font>
+

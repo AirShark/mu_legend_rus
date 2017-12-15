@@ -1,0 +1,5377 @@
+[DirectionTalk]
+Talk_1=Oh. You finally came.
+Talk_2=This is the Ancient Hall of Records. I believe this is where the records containing the history of the Dracans are kept.
+Talk_3=I must find out what happened here.
+Talk_4=I needed just a little more... Hey, guys! Protect me, please.
+Talk_5=Oh! Now I get it. This place seems to have been infected by Sekneum.
+Talk_6=What an old loudmouth. Kill them!
+Talk_1100=I've wandered the Rift Warp for thousands of years. This will be your grave.
+Talk_1101=Kill, destroy, kill, destroy...
+Talk_1102=Who awakens me from my slumber...?
+Talk_1103=Activation number: 1322. Initiating action... Action pattern: Elimination.
+Talk_51801=Enemy intrusion!
+Talk_51802=Alert! Alert! We have an enemy intrusion.
+Talk_51803=It's the enemy! Alert! Alert!
+Talk_51804=How annoying... He's still after us.
+Talk_51805=Stop him.
+Talk_51806=Help me. Captain!!
+Talk_101001=Watch your fellow men and lament!
+Talk_101002=Answer my call, you fools!
+Talk_101003=The time of death is upon us!
+Talk_101004=Eyik vo'hollom!
+Talk_101005=Vo'sol izh!
+Talk_49306=A Pandemonium Giant!
+Talk_49308=If it attacks us, we're all doomed. We must move carefully.
+Talk_49310=Pandemoniums, you won't stop us!
+Talk_49313=Darn it, I'm on my own! Right, will... this work?
+Talk_49319=We're almost at our headquarters. Let's keep going!
+Talk_49323=It's a trap! If we don't push them out, we won't be able to get through!
+Talk_49337=We're not far from the Artillery Base.
+Talk_49338=We can't let the Pandemonium forces get their hands on our Imperial weapons.
+Talk_49344=I'll break through here first. Take care of the rest.
+Talk_49515=It's good to know some knights are still alive. How'd you like to join me?
+Talk_49519=I thought the Titans were the stuff of legend. This is no joke.
+Talk_49525=Good, we don't have many chances left. Let's hurry to the top of the Heavens' Path!
+Talk_49528=I'm sure Zephiros can take care of himself. I must move forward.
+Talk_49534=We must combine all the Heavenly energy that the guardians have!
+Talk_90010=Thank you for saving me. I'll join you right away!
+Talk_90011=Reinforcements just have arrived!
+Talk_90012=Good, now we can defend the wardstone more easily!
+Talk_90013=Hold your positions!
+Talk_90014=Just for a little longer!
+Talk_90015=You won't get past me!
+Talk_90016=Is he the Hero of Enova? He's incredible.
+Talk_90017=I can do anything for my children!
+Talk_90018=I miss my wife...
+Talk_90019=For Enova!
+Talk_90020=I can die for Enova!
+Talk_90021=Open the Map and go support one of the three wardstones.
+Talk_90022=If you see no arrows pointing at a wardstone, it's already destroyed??go to another one!
+Talk_90023=A gigantic abomination has appeared! Open the Map and check its location, and go to it!
+Talk_90024=Our troops are fighting a boss monster! Open the Map and check its location, and go to it!
+Talk_90025=We haven't located it yet. Go look for it now!
+Talk_90026=A gigantic abomination has appeared! Open the Map and check its location, and go to it!
+Talk_90027=For Duelden!
+Talk_90028=I can die for Duelden!
+Talk_90029=For Litenberg!
+Talk_90030=I can die for Litenberg!
+Talk_35301=Who are you? Get them!
+Talk_35302=Yes, sir!
+Talk_35303=Stop them from destroying the device!
+
+[GuideNpc_8005]
+StartQuest1=I'll take you to the mayor!
+StartQuest2=Follow me.
+Mission1_1=That lady in front of the door is the mayor.
+Mission2_1=You're looking for Ilina in the police administration department, right? This way.
+Mission2_2=But how rude of the mayor. You just woke up...
+Mission3_1=The lady in front of the guards is Ilina. I'll wait here.
+Mission4_1=Are you heading to the Amberial Forest already? But you haven't recovered yet...
+Mission4_2=The Amberial Forest is filled with monsters.
+CompleteQuest1=This the entrance to the Amberial Forest...
+CompleteQuest2=Please be careful.
+Standing1=This way, traveler. Welcome!
+Standing2=You're not ready yet?
+
+[GuideNpc_300001]
+Name=Dracans Boy Kian
+StartQuest1=This way! Come on, follow me!
+StartQuest2=You're lucky such a great Dracans warrior like me is helping you.
+Mission1_1=Get out of here, and you'll be in the Ice Lake Plains.
+Mission1_2=Be careful. The Ice Lake Plains are dangerous.
+Standing1=Hey, what are you doing? Follow me already.
+Standing2=Are you not ready yet? You're scared, aren't you?
+
+[Npc_2]
+Name=Dudrin Local Police Member
+Greeting1=Nothing to report!
+Greeting2=There's news that monsters have been appearing. Please be careful.
+
+[Npc_3]
+Name=Middle-aged Dudrin Local Police Member
+Greeting1=What can I do for you?
+Greeting2=This place is safe.
+
+[Npc_29]
+Name=Kazz
+Greeting1=You're no ordinary person. Hey, where do you call home?
+
+[Npc_12]
+Name=Dudrin Rugard Priest
+Sayhello1=Your arrival in Dudrin must be the will of Rugard.
+Greeting1=This is a temple dedicated to Rugard, the god of protection. Everyone is welcome here.
+
+[Npc_51]
+Name=Ashas Skill Instructor
+Greeting1=Do you want to prove your strength?
+
+[Npc_251]
+Name=Army Cook Hinter
+Sayhello1=Ah, what should I cook tomorrow? Picking a menu is the hardest part.
+Greeting1=Dwarves may be good blacksmiths, but not good cooks.
+Greeting2=I've been sent here to cook for these poor dwarves.
+
+[Npc_259]
+Name=Mining Expert Tobias
+Greeting1=Whatever is buried in here, it must be valuable to attract so many miners.
+Greeting2=Experienced miners can quickly distinguish ores from plain rocks.
+
+[Npc_8098]
+Name=Local Police
+Greeting1=Did you hear...? They say Evil Energy has been discovered.
+
+[Npc_8100]
+Name=Lilaba
+Greeting1=The local police alone won't last long... We need support from the Lorencia Army as well.
+
+[Npc_8101]
+Name=Lilaba
+Greeting1=I dream of becoming just like Captain Cain. Please send my regards if you meet him.
+
+[Npc_8102]
+Name=Lilaba
+Greeting1=Even historical facts become mere myths over time.
+
+[Npc_8103]
+Name=Lilaba
+Greeting1=Did you know? There is a deep mining tunnel that leads all the way up to Dudrin City!
+
+[Npc_8123]
+Name=Lilaba
+Greeting1=I heard Ramotu is struggling at Weiss Basin... I hope he's okay.
+
+[Npc_8124]
+Name=Dollan
+Greeting1=I heard Goblins raided the mine... And my father hasn't come back... I'm worried.
+
+[Npc_8107]
+Name=Rastus
+Greeting1=Did you know? Dwarf Chief Herman... People say he's a very greedy man.
+
+[Npc_8108]
+Name=Shyrik
+Sayhello1=A cool head and a burning passion. That's what an adventurer needs!
+Greeting1=My dream is to become an adventurer!
+
+[Npc_8110]
+Name=Rohan
+Greeting1=Mayor Andrea is a great person.
+
+[Npc_8111]
+Name=Agna
+Greeting1=Have you recovered your memory?
+
+[Npc_8113]
+Name=Spade
+Greeting1=Oh, it's you! I found you unconscious in Enova and brought you here.
+
+[Npc_8114]
+Name=Brandonel
+Greeting1=Spade is a big fat liar! He just watched you being carried all the way to Dudrin!
+
+[Npc_8115]
+Name=Teratracker
+Greeting1=There's not much to life. I'm just going to grab some ale.
+
+[Npc_8119]
+Name=Deegle
+Greeting1=I wonder where we're going this time. Last time, it was a real exciting adventure!
+Greeting2=Hey, friend. Soon you'll learn the thrill of adventure.
+
+[Npc_8120]
+Name=Harfut
+Greeting1=Our ship travels throughout MU Continent.
+Greeting2=A ship that links the entirety of MU Continent! Can you imagine just how amazing this ship is?
+
+[Npc_8122]
+Name=Citrine
+Greeting1=You're a new face. Is this your first time in Dudrin?
+Greeting2=This is Dudrin.
+
+[Npc_8116]
+Name=Lennon
+Sayhello1=Today, we will find a way to protect the mining rights of the Dwarves.
+Greeting1=Newk Mine was once owned by Humans. But our efforts allowed us to gain mining rights instead of being paid for our labor.
+
+[Npc_8117]
+Name=Carlos
+Greeting1=I heard that the conflict with the Goblins is getting worse every day. It's not looking good.
+Greeting2=People say Goblin Chief Garus is very ambitious.
+
+[Npc_8121]
+Name=Rumble
+Greeting1=As the Zolatu Mining Association grows, the conflict with Humans grows along with it.
+
+[Npc_8109]
+Name=Kevin
+Greeting1=The Goblin liberation movement is growing day by day. It's becoming a serious threat to the Dwarves.
+
+[Npc_8112]
+Name=Quiner
+Greeting1=I never imagined that the diligence of Dwarves came from materialistic greed.
+
+[Npc_8118]
+Name=Ericwiff
+Greeting1=I lost my job due to Goblins. Let me know if there are any good positions available.
+
+[Npc_8125]
+Name=Cyana
+Greeting1=Have you ever fought monsters before?
+
+[Npc_8289]
+Name=Weiss Basin Local Police
+Greeting1=What can I do for you?
+
+[Npc_8292]
+Name=Amberial Forest Local Police
+Greeting1=Hold your positions!
+
+[Npc_8295]
+Name=Amberial Lorencia Royal Soldier
+Greeting1=Hail Lorencia Royal Army!
+
+[Npc_8314]
+Name=Core
+Greeting1=The fire set by Gold Manes is going to leave the Morning Calm Farm in ruins.
+
+[Npc_8315]
+Name=Skae
+Greeting1=Aww, our situation is dire. Will we be okay?
+
+[Npc_8344]
+Name=Local Police Captain
+Greeting1=There's news that monsters have been appearing. Please be careful.
+
+[Npc_9231]
+Name=Dudrin Peddler
+Greeting1=Take your time. You might remember something you need.
+
+[Npc_1221]
+Name=Iope
+Greeting1=Can we get through this?
+Greeting2=I see no hope...
+
+[Npc_1237]
+Name=Datan
+Greeting1=My dad is fighting to protect me from zombies.
+Greeting2=Have you seen my dad?
+Greeting3=Every time my dad swings his sword like this, zombies fall like leaves!
+
+[Npc_1238]
+Name=Patrice
+Greeting1=Oh, poor Datan.
+Greeting2=Datan's mother died while giving birth to him.
+Greeting3=My brother, his father, has been sent to the front line of the battle. Every day I brace myself for the bad news.
+Greeting4=I'm Datan's aunt. I'm taking care of him for my brother.
+
+[Npc_1253]
+Name=Kyle
+Greeting1=The Karol Kingdom is the precursor of the Tephakin Dukedom.
+Greeting2=The spirit of the ancient kingdom is what we need in times like this.
+
+[Npc_1254]
+Name=Mercenary
+Greeting1=If I knew my client was such a busy man, I wouldn't have agreed to work for him.
+
+[Npc_1283]
+Name=Jelly
+Greeting1=I'm honored to serve Her Highness by her side.
+Greeting2=You're threatening Her Highness. Please don't come closer.
+
+[Npc_1284]
+Name=Linsey
+Greeting1=I can't believe I'm with Her Highness! It's an honor to my family!
+Greeting2=Her Highness is so beautiful, isn't she? She's famous for her beauty.
+
+[Npc_8307]
+Name=Branzen
+Greeting1=Too... Too many people have died...
+
+[Npc_8309]
+Name=Kylun
+Greeting1=I've survived... Hah hah... Hah hah hah!
+
+[Npc_8313]
+Name=Amchard
+Greeting1=We're from Canal City.
+Greeting2=The lights have been turned on in Canal City! We'll be able to go back home soon.
+
+[Npc_8316]
+Name=Rena
+Greeting1=Sigh, I left Canal City in such a hurry that I couldn't bring anything with me.
+Greeting2=Canal City is not dark anymore!
+
+[Npc_8327]
+Name=Tricheu
+Greeting1=Hey, bring me any valuables you can find on corpses. I'll fence them for you.
+Greeting2=You won't find such a good, honest buyer like me in such a chaotic times.
+Greeting3=The dead are dead and the living are living. Don't you think so?
+
+[Npc_8359]
+Name=Fisher Wilson
+Greeting1=Just one fish... One fish...
+Greeting2=Fish in this place are so delicious and rare that they're traded to the highest bidder.
+
+[Npc_8360]
+Name=Peddler Horrison
+Greeting1=Here's food. Have your fill.
+Greeting2=You're not sick, are you? You're my biggest asset. You got to let me know if you're sick. Got it?
+
+[Npc_8363]
+Name=Army Kitchenhand
+Greeting1=I do most of the cooking, and Hinter gives the food a finishing touch.
+Greeting2=I want to find out what Hinter does to transform disgusting fodder into such delicious meals.
+Greeting3=What does he do to make food taste so great?
+
+[Npc_8364]
+Name=Hunter Sykel
+Greeting1=I've been hired to supply food to the Dwarf Guard... I think.
+Greeting2=Ah, Hertz... He's so handsome!
+
+[Npc_8365]
+Name=Blacksmith Fergus
+Greeting1=I specialize in refining ores produced in the mine.
+Greeting2=For now, I repair weapons and armor for the soldiers who fight the Bull Horns.
+
+[Npc_8366]
+Name=Ohrdor Group Researcher
+Greeting1=Lionel is not focusing on his work.
+
+[Npc_8367]
+Name=Ohrdor Group Researcher
+Greeting1=Our senior researcher is not setting a good example for us.
+
+[Npc_8368]
+Name=Ohrdor Group Researcher
+Greeting1=I don't know why everyone else can't leave Lionel alone. It's not a bad thing to fall in love, is it?
+
+[Npc_8369]
+Name=Male Civilian
+Greeting1=Sigh... I had to leave my family's farmland to save myself.
+
+[Npc_8370]
+Name=Male Civilian
+Greeting1=I don't know what to do to feed myself from now on.
+
+[Npc_8371]
+Name=Female Civilian
+Greeting1=Fortunately all my family has survived.
+
+[Npc_8372]
+Name=Female Civilian
+Greeting1=I couldn't bring valuables with me, but at least I've got my kettle.
+
+[Npc_8376]
+Name=Wise
+Greeting1=...Is this research really that important?
+
+[Npc_8377]
+Name=Merria
+Greeting1=Frodo is amazing in every aspect except for his personality.
+
+[Npc_8378]
+Name=Cyndia
+Greeting1=Welcome. I've got a variety of food.
+
+[Npc_8379]
+Name=Drunkard
+Greeting1=No, I'm not—hiccups!—drunk yet!
+Greeting2=Hey, give me more booze.
+Greeting3=We're safe as long as Ohrdor Group exists. Bwa hah hah, I feel great!
+
+[Npc_8380]
+Name=Ohrdor Group Merchant
+Greeting1=Now, what do you need? Feel free to take a look!
+Greeting2=I had to raise my prices because of an increase in freight cost, thanks to those monsters.
+
+[Npc_8381]
+Name=Arke Merchant Osung
+Sayhello1=Ah, I'm doomed! I'm doomed!
+Greeting1=I don't know what to say to Ellan. I should've never dragged him into this business. Now we're both doomed! Argh!
+Greeting2=The Bredrice Field always was a source of stable income before this happened.
+
+[Npc_8382]
+Name=Arke Merchant Ellan
+Greeting1=I trust my friend, and I do so of my own volition. What's happening to us is not his fault.
+Greeting2=None of us knew this would happen. We can get back on our feet.
+Greeting3=We'll learn from this failure and become more successful than ever.
+
+[Npc_8383]
+Name=Krio
+Greeting1=The negative energy... How do these people withstand such undiluted hatred? Don't you want to know?
+
+[Npc_8384]
+Name=Special Force Member
+Greeting1=This is the Karol Ruins Investigation Group's camp. Please try not to make a fuss.
+
+[Npc_8385]
+Name=Historian's Assistant Johns
+Greeting1=Currently the most important leaders in the field of world history are dwarves, who have a slight different point of view from we humans.
+Greeting2=I intend to start a new chapter in historical science.
+
+[Npc_8386]
+Name=Escort
+Greeting1=Halt! Don't come any closer to the Mistress.
+Greeting2=I don't know what she sees in such a crazy guy.
+
+[Npc_8387]
+Name=Cathy
+Greeting1=The priest? No, he would never do that! You got it wrong! It can't be him!
+
+[Npc_8388]
+Name=Rugard Priest
+Greeting1=We can't give up our temple for a single priest. That's why we came.
+Greeting2=This is Rugard's will.
+
+[Npc_8389]
+Name=Rugard Priestess
+Greeting1=We must appease the souls who are wounded by that mad priest.
+Greeting2=This is Rugard's will.
+
+[Npc_8390]
+Name=Bachi
+Greeting1=Whew, thank God, I almost lost my job because of that crazy priest.
+
+[Npc_8391]
+Name=Tephakin Dukedom Soldier
+Sayhello1=Sigh...
+Greeting1=Sigh... I can't believe I'm here to protect a prick.
+Greeting2=It kills me that I can't do anything to save my comrades because I have to stay with this prick.
+Greeting3=I would've rushed into the battlefield and fought for my country if it weren't for this Lorencian nobleman.
+
+[Npc_8392]
+Name=Tephakin Dukedom Soldier
+Greeting1=We're holding out for now, but there are too many enemies.
+
+[Npc_8393]
+Name=Senior Soldier
+Greeting1=Stay sharp! Our civilians are defenseless without us. Got it?
+
+[Npc_8394]
+Name=Junior Soldier
+Greeting1=I'll protect my country with my own hands.
+
+[Npc_102]
+Name=Dumpain Kerka
+Greeting1=I am Dumpain, leader of Ohrdor.
+Greeting2=All currency goes through Ohrdor.
+
+[Npc_112]
+Name=Goblin Chief Garus
+Greeting1=There will be consequences if you challenge us again. Gobble gobble.
+
+[Npc_113]
+Name=Arke Pirate Junior
+Greeting1=How ridiculous. A shabby traveler asking the whereabouts of Arke Pirates.
+Greeting2=Don't underestimate me because of my size! I may be small, but I'm much faster than these big guys behind me.
+
+[Npc_114]
+Name=Arke Pirate Cannon
+Greeting1=Hey, don't touch that.
+
+[Npc_115]
+Name=Arke Pirate Gun
+Greeting1=If you've got great weapons, just call us.
+
+[Npc_202]
+Name=Guard Captain Viper
+Sayhello1=Nothing to report!
+Greeting1=It's my job to keep watch over my village day and night.
+Greeting3=Nice to meet you. You're that young warrior I've been hearing so much about.
+
+[Npc_203]
+Name=Dwarf Chief
+Greeting1=The pay-off from the Mining Association is really small...
+Greeting2=How arrogant, following Duprian...
+Greeting3=I am the leader of the dwarves! Duprian is just another soldier.
+Greeting4=The residence's security doesn't seem that tight...
+
+[Npc_8361]
+Name=Dwarf Guard Member
+Greeting1=What brings you?
+Greeting2=Stay safe.
+
+[Npc_8356]
+Name=Local Police
+Greeting1=What brings you?
+
+[Npc_8357]
+Name=Local Police
+Greeting1=What brings you?
+
+[Npc_8375]
+Name=Cow
+Sayhello1=Moo.
+
+[Npc_8362]
+Name=Dwarf Guard Member
+Greeting1=What brings you?
+Greeting2=Stay safe.
+
+[Npc_8423]
+Name=Escort
+Greeting1=Ilina is safe with me.
+
+[Npc_257]
+Name=Worker
+Greeting1=Unlike Fergus, I'm not good with my hands. I'm just running errands.
+
+[Npc_8424]
+Name=Fisher
+Greeting1=I'm trying to catch time.
+Greeting2=You don't need fish to fish.
+
+[Npc_8425]
+Name=Rio
+Sayhello1=Aww... I feel dizzy. Why is the world spinning?
+Greeting1=I'm all right! I'm just a little bit dizzy.
+
+[Npc_8426]
+Name=Ricco
+Greeting1=Jeez, Rio. I told you not to drink so much!
+
+[Npc_8427]
+Name=Fernando
+Greeting1=We're safe as long as the Ohrdor Group branch exists.
+Greeting2=Rio is just upset because his crops are ruined. He's not as foolish as you might think.
+
+[Npc_8434]
+Name=Ohrdor Group Researcher Turis
+Greeting1=Ah, this place is a healing balm to my soul.
+Greeting2=I come here whenever I feel frustrated.
+Greeting3=It's good to slow down sometimes, you know.
+Greeting4=Why don't you relax and watch the waterfall with me for a while?
+Greeting5=Why are you in such a hurry? Just take a look around.
+Greeting6=If you can't even see what's right next to you, how are you going to move forward?
+
+[Npc_8432]
+Name=Phoebe's Escort
+Greeting1=Sigh... I can't believe I'm here to protect a prick.
+Greeting2=It kills me that I can't do anything to save my comrades because I have to stay with this prick.
+
+[Npc_204]
+Name=Dwarf Chief's Wife
+Greeting1=How rude of you to talk to me while dressed like that.
+
+[Npc_206]
+Name=Cain (Amberial)
+Greeting1=Nice to meet you. This vigilante outpost was set up on the chief's orders.
+Greeting2=The vigilantes need more hands to fend off spider attacks.
+
+[Npc_207]
+Name=Royce
+Greeting1=Reconnaissance missions can be so lonely...
+
+[Npc_209]
+Name=Jerome
+Greeting1=Dear Rugard, why did you forsake us?
+
+[Npc_211]
+Name=Swen
+Greeting1=There is a wicked energy lingering in the forest.
+Greeting2=I envy the knights. Especially their indomitable spirit and bodies...
+
+[Npc_210]
+Name=Henry
+Greeting1=Mutated trees... Now what am I supposed to do for a living...?
+Greeting2=Don't you think Priestess Rosa is beautiful?
+
+[Npc_212]
+Name=Ilina (Amberial)
+Greeting1=I hope that the situation improves soon...
+
+[Npc_213]
+Name=Shadow Phantom Soldier 1
+Greeting1=The Shadow Phantoms are the strongest knights in Noria.
+Greeting2=If it's important, report to Commander Iris.
+
+[Npc_214]
+Name=Shadow Phantom Soldier 2
+Greeting1=Noria is a member of the Heraus Coalition.
+Greeting2=Lorencia and Noria are close allies.
+
+[Npc_215]
+Name=Twan
+Sayhello1=This mine base oversees the miners in Newk Mine.
+
+[Npc_216]
+Name=Hans
+Greeting1=I'm Hans, the chief of this mine base.
+Greeting2=All the miners here follow me just like their own father.
+
+[Npc_217]
+Name=Rookie Guard Kilry
+Greeting1=Don't trust the Dwarf chief.
+Greeting2=Duprian is our true leader.
+
+[Npc_218]
+Name=Tailor Phili
+Greeting1=I bet no one can smell money better than I do.
+Sayhello1=Life is all about taking chances!
+
+[Npc_222]
+Name=Vigmund
+Greeting1=Feel free to admire my knowledge...
+Sayhello1=Do you think there is anyone smarter than me in Enova?
+
+[Npc_223]
+Name=Quarry Supervisor
+Greeting1=I can't believe our output decreased on account of the invasion by the Pandemonium Army...
+Sayhello1=Karmatan Mine has the largest output in Weiss Basin.
+SayHello2=I'm the captain of the Karmatan Mine Guards.
+
+[Npc_224]
+Name=Dwarf Worker 1
+Greeting1=Ale... Did you bring ale?
+
+[Npc_225]
+Name=Dwarf Worker 2
+Greeting1=Is there any news about the Bull Horn Legion? If anything happens, I'm going to leave the mine.
+
+[Npc_226]
+Name=Dwarf Worker 3
+Greeting1=We don't get paid much because the association is already exploiting us.
+
+[Npc_227]
+Name=Dwarf Worker 4
+Greeting1=The association... Pandemonium... Same thing, different leaders... What's going to be so different this time?
+
+[Npc_229]
+Name=Association President
+Greeting1=The Mining Association is a union of mine owners.
+Greeting2=Is this war an opportunity or a calamity?
+Sayhello1=We are the leviathans that control Dudrin.
+
+[Npc_230]
+Name=Association President's Secretary
+Greeting1=The president is very busy. Please bring work-related issues to me...
+
+[Npc_231]
+Name=Peter
+Greeting1=Do not despair! Dwarf guards! Fight with your lives!
+
+[Npc_232]
+Name=Gershon
+
+[Npc_233]
+Name=Kady
+Sayhello1=Stay back! This place is dangerous!
+Greeting1=Ah, you're a knight. Thank you for your help. I wish you good luck.
+
+[Npc_237]
+Name=Rugard Priestess Sebina
+Greeting1=May Rugard's blessing be with you.
+
+[Npc_241]
+Name=Cain (Amberial)
+
+[Npc_243]
+Name=Billy
+Greeting1=Mine Base Chief Hans is like a father to me...
+
+[Npc_255]
+Name=Duprian (Karmatan Mine)
+Sayhello1=We shall drive the Bull Horn Legion back with a wedge formation!
+SayHello2=Protect the Karmatan Mine with your lives!
+
+[Npc_256]
+Name=Trader Phili (Karmatan Mine)
+Greeting1=I smell money here.
+Sayhello1=Life is all about taking chances!
+
+[Npc_260]
+Name=Goblins' Record
+Questid_Num1=117
+QuestID_117=It's in the Goblin language. I can't read it. We should copy it and show it to that Felix guy.
+
+[Npc_261]
+Name=Goblins' Record
+Questid_Num1=117
+QuestID_117=It's in the Goblin language. I can't read it. We should copy it and show it to that Felix guy.
+
+[Npc_262]
+Name=Goblins' Record
+Questid_Num1=117
+QuestID_117=It's in the Goblin language. I can't read it. We should copy it and show it to that Felix guy.
+
+[Npc_319]
+Name=Royal Guard
+Greeting1=For Dracans!
+
+[Npc_307]
+Name=Atilla
+Greeting1=Rosy, Loki. Promise not to cause trouble. Okay?
+Greeting2=I really hope I can take my children safely back to Qwyinan.
+
+[Npc_308]
+Name=Loki
+Greeting1=Atilla worries too much.
+Greeting2=I'm not a little child anymore!
+
+[Npc_309]
+Name=Rosy
+Greeting1=Loki acts as if he's all grown up, but he always gets into trouble.
+Greeting2=I'm a lady. Atilla, I promise I won't get into trouble like my brother.
+
+[Npc_359]
+Name=Talassa
+Greeting1=Estesia, you wench!
+Greeting2=Oh, Gadrion, I can't believe you're smitten with such a lowly tramp.
+Greeting3=Pureblood Kanturian noblemen like you deserve women of the same station like me.
+
+[Npc_361]
+Name=Egon
+Greeting1=I'll make sure the Datanses can no longer set foot in this place!
+Greeting2=I protect Yungcla and Deakan!
+
+[Npc_467]
+Name=Clark
+Greeting1=Arch can hunt without hounds. I can't.
+Greeting2=I'm envious of Arch's hunting skills...
+
+[Npc_581]
+Name=Refugee
+Greeting1=I can't believe I have to leave my hometown...
+Greeting2=Ah, my home...
+
+[Npc_582]
+Name=Refugee
+Greeting1=I'm exhausted and hungry.
+Greeting2=If I don't want to die, I have to keep moving.
+
+[Npc_583]
+Name=Refugee
+Greeting1=Will I be able to settle down in Qwyinan?
+Greeting2=I've left everything behind me.
+
+[Npc_630]
+Name=Lorencia Royal Soldier
+Sayhello1=The coast is clear.
+Greeting1=Failed guards cannot be forgiven.
+
+[Npc_631]
+Name=Lorencia Royal Soldier
+Greeting1=Sigh... The undead inside the tomb can decide to get out anytime.
+Greeting2=If the undead get out, it'll be the end of us.
+
+[Npc_635]
+Name=Daniel
+Sayhello1=This place is dangerous. Please stay away.
+Greeting1=You're a knight. Pandemonium's influence is pretty strong in this place. Please be careful.
+
+[Npc_637]
+Name=Remulia
+Greeting1=I'm not happy to be surrounded by these barbarians.
+Greeting2=I'm looking for strong knights.
+
+[Npc_638]
+Name=Caron
+Greeting1=My master always dumps things on me.
+Greeting2=What can I do to fulfill my mission quickly?
+
+[Npc_639]
+Name=Gaion
+Greeting1=I'm on a mission.
+
+[Npc_640]
+Name=Dracans Watchman
+Greeting1=I'm here to watch the Alliance spies.
+Greeting2=For Dracans!
+
+[Npc_330]
+Name=Dracans Boy Kian
+Greeting1=Err? You've got no wings. And you look strange. Are you a mutant?
+
+[Npc_629]
+Name=Dracans Boy Enser
+Sayhello1=This is just the outskirts of Drapia.
+SayHello2=You'll be shocked to see the capital Qwahadan downstairs.
+Greeting1=Err? You've got no wings. And you look strange. Are you a mutant?
+
+[Npc_550]
+Name=Guard Warrior
+Greeting1=We don't need help from an outsider!
+
+[Npc_551]
+Name=Guard Warrior
+Greeting1=We don't need help from an outsider!
+
+[Npc_355]
+Name=Gomon
+Greeting1=I really hope the Dios will work properly soon...
+
+[Npc_356]
+Name=Dumel
+Greeting1=Kanturu is great.
+
+[Npc_360]
+Name=Gadrion
+Greeting1=You dare to talk to me? You must have a lot of guts.
+
+[Npc_365]
+Name=Zodiac
+Greeting1=Kanturu is great.
+
+[Npc_366]
+Name=Arvad
+Greeting1=The age of Kanturu will come again.
+
+[Npc_369]
+Name=Magoaduk
+Greeting1=Kanturu is great.
+
+[Npc_370]
+Name=Tulum
+Greeting1=Do not oppose us the Kanturians.
+
+[Npc_372]
+Name=Hagar
+Greeting1=You have business with me?
+
+[Npc_400]
+Name=Swordsman
+Greeting1=Dracans Knights! March!
+
+[Npc_401]
+Name=Rider
+Greeting1=This is a safe area.
+
+[Npc_402]
+Name=Lancer
+Greeting1=Dracans Knights! March!
+
+[Npc_422]
+Name=Sullin
+Greeting1=Devias Knights are the most powerful knights on the continent.
+
+[Npc_423]
+Name=Milla
+Greeting1=You want to bet on who can kill more enemies?
+
+[Npc_429]
+Name=Garbal
+Greeting1=You want to bet on who can kill more enemies?
+
+[Npc_452]
+Name=Garbal
+Greeting1=Hail Tephakin Army!
+
+[Npc_548]
+Name=Kanturian Guard
+Greeting1=What do you want with me?
+Greeting2=This place is safe.
+
+[Npc_555]
+Name=Tephakin Soldier
+Greeting1=Hail Tephakin Army!
+
+[Npc_572]
+Name=Sgall
+Greeting1=I really hope the Dios will work properly soon...
+
+[Npc_588]
+Name=Devi Special Force Member
+Greeting1=Salute to Master Muren!
+
+[Npc_589]
+Name=Devi Special Force Member
+Greeting1=Salute to Master Muren!
+
+[Npc_605]
+Name=Fruit Merchant
+Sayhello1=Fresh fruits are good for your skin as well as your health!
+SayHello2=I like fruit so juicy and flavorful that practically bursts in my mouth.
+
+[Npc_606]
+Name=Retired Dracans Knight
+Greeting1=I may have retired, but I'm still as determined and proud as before.
+
+[Npc_607]
+Name=Dracans Lumberjack
+Sayhello1=I hope I can meet the fairy in the forest one day.
+
+[Npc_608]
+Name=Arke Merchant
+Greeting1=Money, money, money! I'm tired of hearing about it!
+
+[Npc_609]
+Name=Kerben
+Greeting1=It figures, of all the places in the world, I'd end up in the worst possible place.
+
+[Npc_610]
+Name=Dowker
+Sayhello1=Huh, mom? It's not her...
+
+[Npc_612]
+Name=Cellucion
+Sayhello1=Mommy will come back if I wait here!
+
+[Npc_614]
+Name=Denain
+Sayhello1=Different races live in harmony here at the Foreigner Residence.
+SayHello2=This must be the only place in which different races coexist so peacefully.
+
+[Npc_615]
+Name=Atel
+Sayhello1=Love is the only thing that can transcend borders and races.
+
+[Npc_616]
+Name=Mesin
+Greeting1=Of course, no one can tear us apart.
+
+[Npc_617]
+Name=Tekura
+Greeting1=Sigh... Will I ever be able to get a house of my own and leave this place?
+
+[//Npc_624]
+Name=Infectious Lorencia Royal Soldier
+Sayhello1=Aww... I don't feel good...
+
+[//Npc_627]
+Name=Prison Camp Guard Haron
+Sayhello1=Rest in peace, my friends.
+
+[//Npc_628]
+Name=Kanturian Scientist Tulum
+Sayhello1=Marongo... Soon my age will begin.
+
+[Npc_104050506]
+Name=Arke Noble
+Sayhello1=The scenery outside is what makes riding in the airship so fun.
+
+[Npc_104050507]
+Name=Arke Noble
+Sayhello1=It'll cost me a lot to buy all these...
+Greeting1=I've got more money than I can spend in a lifetime. I'll just buy them.
+
+[Npc_104050508]
+Name=Arke Noble
+Greeting1=I hope there will be more expensive wares I can buy.
+
+[Npc_104050512]
+Name=Airship Guard
+Greeting1=Be careful not to fall from the airship.
+
+[Npc_104050513]
+Name=Airship Guard
+Sayhello1=This place is off limits.
+Greeting1=Stay out of this place.
+
+[Npc_104050514]
+Name=Airship Guard
+Greeting1=So far the airship is running smoothly.
+
+[Npc_104050515]
+Name=Trader
+Sayhello1=Some good products have arrived.
+
+[Npc_104050516]
+Name=Trader
+Greeting1=Ohrdor, being the big city as it is, has a wide selection of products.
+
+[Npc_104050518]
+Name=Arke Trader
+Greeting1=This product is quite valuable. I can't take anything below my price.
+
+[Npc_104050519]
+Name=Arke Trader
+Sayhello1=Goodbye, my babies.
+
+[Npc_104050520]
+Name=Ohrdor Trader Tray
+Sayhello1=Don't drop or bang the merchandise!
+SayHello2=You can say I'm the most influential trader in this Ohrdor.
+Greeting1=Err? Stranger, we meet again!
+Greeting2=I haven't forgotten about your help. Thank you!
+
+[Npc_104050523]
+Name=Arke Noble
+Greeting1=Well, I don't like the tone of your voice.
+
+[Npc_104050525]
+Name=Arke Trader
+Sayhello1=Being a trader is not as easy as I thought.
+Greeting1=Yes? Are you interested in my merchandise?
+
+[Npc_104050526]
+Name=Arke Trader
+Sayhello1=Sigh, it's going to take forever to move these...
+Greeting1=Huh? You want to move them for me?
+
+[Npc_104050527]
+Name=Arke Cook
+Sayhello1=The passengers, when they taste my food, usually can't stop singing my praises.
+Greeting1=I cook for a living.
+
+[Npc_105040031]
+Name=Devias Knights Guard
+Greeting1=Death to those who oppose the Devias Knights!
+Greeting2=Do you have something to say to me?
+Greeting3=Huh? Do I know you?
+
+[Npc_105040033]
+Name=Devias Knights Guard
+Greeting1=Salute to Master Muren!
+
+[Npc_105040037]
+Name=Devias Knights Defense Squad Leader
+Greeting1=Devias Knights, charge!
+Greeting2=Hold your positions!
+
+[Npc_8245]
+Name=Taro
+Greeting1=Have you ever been to the capital, Qwahadan, deep underground? Compared to the capital, Qwyinan Village is just a suburb.
+
+[Npc_8246]
+Name=Gonchi
+Greeting1=Mediah Kingdom may be our enemy, but it is endeavoring to maintain peace.
+
+[Npc_8247]
+Name=Gart
+Greeting1=An outsider... I recommend that you stay quiet until you leave.
+
+[Npc_8248]
+Name=Bantua
+Greeting1=Do you know anything about the Prison Camp? It's a place where tens of thousands of Pandemonium prisoners are kept.
+
+[Npc_8249]
+Name=Piacon
+Greeting1=It appears there was war within the royal family. Prince Woongpam was expelled along with his followers.
+
+[Npc_8250]
+Name=Duburu
+Greeting1=It was sad to lose Prince Woongpam. I wonder what happened...
+
+[Npc_8251]
+Name=Timally
+Greeting1=Most people think the Dracans Warriors are controlled by the Elder Council.
+
+[Npc_8252]
+Name=Nardan
+Greeting1=I've heard tell that a man named Marongo of Kanturu made an artificial sun.
+
+[Npc_8253]
+Name=Gadon
+Greeting1=Bulcan is furious! Fail to repent and Bulcan shall destroy the world with dragons!
+
+[Npc_8254]
+Name=Duruduk
+Greeting1=Bulcan is a god of the Line Alliance. They think dragons represent the wrath of god.
+
+[Npc_8255]
+Name=Heta
+Greeting1=The deeper the cities of Drapia, the larger and grander they are.
+
+[Npc_8395]
+Name=Duran
+Greeting1=For Dracans!
+Greeting2=Qwyinan is safe as long as we Guards exists!
+
+[Npc_8396]
+Name=Lumberjack
+Greeting1=I miss being in Mediah. There, I didn't have to do manual labor.
+Greeting2=I'm only doing this because I lost a bet. The problem is I keep losing the bet...
+
+[Npc_8397]
+Name=Dracans Priest
+Greeting1=Tenacity! Bravery! Warriors! Are you attracted to what these words stand for? Then believe in Bulcan!
+Greeting2=Huh? No, they don't sound manly??they sound like Bulcan!
+Greeting3=You! Believe in Bulcan when I ask nicely!
+
+[Npc_8398]
+Name=Dracans Lumberjack
+Greeting1=No, I'm not exhausted. I was just reflecting on my life.
+Greeting2=This is not tough at all. My ax keeps slipping from my hand, so I was thinking about how to get a better grip.
+
+[Npc_8399]
+Name=Bulcan Temple Guard
+Greeting1=Hah hah! Come at me anytime, you scoundrels!
+
+[Npc_8400]
+Name=Kanturian Technician Hamon
+Greeting1=What is the problem...?
+Greeting2=Stop talking to me. I'm busy.
+
+[Npc_8402]
+Name=Tulum's Assistant
+Greeting1=Tulum is a scientist, not an engineer. He can't fix the Dios even if he dismantle them.
+Greeting2=In the end it'll be me who puts them back together. Sigh...
+Greeting3=I think Tulum refuses to stop dismantling Dios because doing so will be the admission of his defeat.
+Greeting4=It was difficult to move all the broken Dios, and now I have to go back out to get more.
+
+[Npc_8403]
+Name=Delia
+Greeting1=I cook for the hunters at this camp.
+Greeting2=Hunters are a generous lot. They pay me more than enough for my food.
+Greeting3=Have you heard of the hunter named Ohgrok? He's the greatest hunter ever passed by this place.
+
+[Npc_8404]
+Name=Kasim
+Greeting1=Just leave me alone.
+Greeting2=I'm on a break. Stop bothering me.
+
+[Npc_8405]
+Name=Officer
+Sayhello1=We'll go pick up the supplies soon. Everyone, stay sharp!
+Greeting2=In war, nothing's more important than supplies. If we fail to get them this time, everyone will starve. Is that clear?
+
+[Npc_8407]
+Name=Soldier
+Greeting1=I've lost many comrades...
+
+[Npc_8408]
+Name=Soldier
+Greeting1=We no longer have enough men to keep watch of this place.
+
+[Npc_8409]
+Name=Excavator's Assistant
+Greeting1=Those who forget the past have no future.
+Greeting2=Drapia wouldn't have existed this long if it weren't for the sacrifice of those before us.
+Greeting3=Calif is a great scholar. He came to this site to lead the excavation of our ancestors' remains.
+Greeting4=These knights volunteered to protect the excavation group. They're honorable men.
+
+[Npc_8410]
+Name=Devias Guard
+Greeting1=Salute to Lord Muren!
+Greeting2=You're safe here at Devias' outpost.
+
+[Npc_8411]
+Name=P'song
+Greeting1=Ah, this is so tough, I want to quit the first chance I get.
+Greeting2=I miss working in Enova. This place is too cold and the work is too tiring. *Whimper*
+Greeting3=This place thrived at one point.
+Greeting4=The Canyon Branch has let go of a large number of mines. That's why this place is so empty.
+
+[Npc_8412]
+Name=Genie
+Greeting1=Crow, crow! Hello, I'm Genie.
+Greeting2=Nothing tastes better than a cool glass of carbonated water in the middle of hard work!
+Greeting3=Get me some carbonated water, and I might grant you a wish.
+Greeting4=Crystals from the Crystal Mine are of such high quality that people don't bother with impure crystals like those over there.
+Greeting5=For now, the branch lets the Nobility Alliance use its name and uses the money for its operation.
+
+[Npc_8413]
+Name=Spanner
+Greeting1=There used to be more than one brazier here.
+Greeting2=I like that I don't have as much work as I used to.
+Greeting3=The Crystal Mine belongs to the Nobility Alliance.
+Greeting4=We need the Nobility Alliance's permission to mine in the Crystal Mine.
+Greeting5=Vench and I are here to keep the brazier running.
+
+[Npc_8415]
+Name=Arch
+Sayhello1=Ah, I want a hound too!
+Greeting1=Clark just has begun hunting, and he already has a hound.
+Greeting2=I can't afford a hound.
+Greeting3=I can hunt more safely if I have one.
+Greeting4=Nothing's more dangerous than hunting by yourself.
+
+[Npc_8416]
+Name=Phili
+Greeting1=Life is all about taking chances!
+Greeting2=Today I'm here for important business with the traders. I've got no job for you. See you later.
+Greeting3=I even brought my pet armadillo with me for the important business today.
+
+[Npc_8417]
+Name=Guard Flag
+Greeting1=Do not cause trouble while in Dracanem.
+Greeting2=Behave yourself.
+Greeting3=We're watching you.
+
+[Npc_8418]
+Name=Guard Sword
+Greeting1=Do not cause trouble while in Dracanem.
+Greeting2=Behave yourself.
+Greeting3=We're watching you.
+
+[Npc_8419]
+Name=Guard Bow
+Greeting1=Do not cause trouble while in Dracanem.
+Greeting2=Behave yourself.
+Greeting3=We're watching you.
+
+[Npc_618]
+Name=Devias Squad Leader
+Greeting1=Everyone, stay sharp!
+Greeting2=We have to be better than the Dracans Knights at everything, got it?
+Greeting3=Devias is the greatest knights on the continent.
+
+[Npc_620]
+Name=Devias Lance
+Greeting1=Salute to Master Muren!
+Greeting2=Devias is the greatest knights on the continent.
+
+[Npc_621]
+Name=Devias Spear
+Greeting1=Salute to Master Muren!
+Greeting2=Devias is the greatest knights on the continent.
+
+[Npc_619]
+Name=Dracans Knight Captain Kainan
+Greeting1=Who are we? The Dracans Knights!
+Greeting2=We always win! We never lose!
+Greeting3=Glory to the Dracans Knights!
+
+[Npc_622]
+Name=Dracans Knight Flag
+Greeting1=Glory to the Dracans Knights!
+Greeting2=Our fighting spirit and pride never die!
+
+[Npc_623]
+Name=Dracans Knight Sword
+Greeting1=Glory to the Dracans Knights!
+Greeting2=Our fighting spirit and pride never die!
+
+[Npc_8420]
+Name=Pilgrim
+Greeting1=????
+
+[Npc_8422]
+Name=Dracans Priest Puzo
+Greeting1=Don't give ground! Show them what you're made of!
+Greeting2=If you believe in Bulcan, don't be afraid. Just fight!
+
+[Npc_342]
+Name=Qwyinan Guard Captain Roxa
+Greeting1=Dracans Knights! March!
+
+[Npc_386]
+Name=Qwyinan Guard Buzon
+Greeting1=Dang, I can't even take a break!
+
+[Npc_387]
+Name=Qwyinan Guard Neipann
+Greeting1=I've been waiting for battle!
+
+[Npc_388]
+Name=Qwyinan Guard Lamprok
+Greeting1=Is it my turn yet!?
+
+[Npc_389]
+Name=Combat Technician Seikernan
+Greeting1=Asking for my help was certainly a wise decision.
+
+[Npc_390]
+Name=Wandering Knight Londia
+Greeting1=Everywhere I go, someone needs my sword!
+
+[Npc_331]
+Name=Dracans Girl Ligul
+Greeting1=I miss my dad...
+Greeting2=Those dragons are so annoying!
+
+[Npc_300]
+Name=Qwyinan Guard Soldier
+Greeting1=For Dracans!
+Greeting2=Qwyinan remains strong!
+
+[Npc_301]
+Name=Qwyinan Guard Soldier
+Greeting1=This is a safe area.
+
+[Npc_302]
+Name=Qwyinan Guard Soldier
+Greeting1=For Dracans!
+Greeting2=Qwyinan remains strong!
+
+[Npc_585]
+Name=Dracans Lancer
+Greeting1=Dracans Knights! March!
+
+[Npc_586]
+Name=Dracans Archer
+Greeting1=Dracans Knights! March!
+
+[Npc_593]
+Name=Dracans Knight
+Greeting1=Do you need my sword?
+
+[Npc_596]
+Name=Dracans Male 1
+Greeting1=I've been seeing quite a few outsiders recently... What's going on?
+
+[Npc_598]
+Name=Dracans Male 2
+Greeting1=What is it, outsider?
+
+[Npc_379]
+Name=Airship Attendant Serona
+Sayhello1=Welcome to Drapia Kingdom.
+SayHello2=Nitro Airline is the best airline, connecting the Alliance and the Coalition.
+
+[Npc_391]
+Name=Qwyinan Guard Rommo
+Greeting1=A dragon reached the outskirts of Qwyinan...
+
+[Npc_392]
+Name=Qwyinan Guard Javan
+Greeting1=If the fight is boring, fight more aggressively!
+
+[Npc_393]
+Name=Qwyinan Guard Ancao
+Sayhello1=I can't believe I'm protecting enemy civilians...
+Greeting1=The battlefield is right over there, and I'm here protecting some scholars!
+
+[Npc_304]
+Name=Silver Sparrowhawks Researcher Leon
+Sayhello1=I wonder what dragons truly are...
+SayHello2=It's too cold here...
+Greeting1=The mystical creature, dragon... I guess the only way to find out is to see it in person...
+
+[Npc_305]
+Name=Silver Sparrowhawks Assistant Researcher Jerry
+Greeting1=The lands of Drapia are certainly too cold.
+Greeting2=I'm cold and hungry... I really want to go back to Mediah.
+
+[Npc_303]
+Name=Kyle (Ice Lake Plain)
+Greeting1=How boring. I really want to do something...
+Greeting2=Those Dracanses, they don't take kindly to civilians like us.
+Greeting3=How boring. I really want to do something...
+
+[Npc_332]
+Name=Field Keeper Galkamu
+Greeting1=The plains belong to us Dracans!
+
+[Npc_312]
+Name=Dracans Priest
+Greeting1=Gather your strength and show your determination!
+Greeting2=Bulcan only blesses those who are courageous!
+
+[Npc_394]
+Name=Dracans Priest Gendan
+Greeting1=Gather your strength and show your determination!
+Greeting2=Bulcan only blesses those who are courageous!
+
+[Npc_395]
+Name=Dracans Priest Aniv
+Greeting1=Gather your strength and show your determination!
+Greeting2=Bulcan only blesses those who are courageous!
+
+[Npc_396]
+Name=Dracans Priest Mannu
+Greeting1=Gather your strength and show your determination!
+Greeting2=Bulcan only blesses those who are courageous!
+
+[Npc_311]
+Name=Dracans Priest Xelloss
+Greeting1=I serve the orders of War God Bulcan!
+
+[Npc_333]
+Name=Dracans Warrior Naki
+Greeting1=Do not show signs of weakness!
+Greeting2=Gain maximum effect with optimized attacks!
+
+[Npc_306]
+Name=Dracans Male Honir
+
+[Npc_313]
+Name=Yak Tamer Roy
+Greeting1=My dear yaks... Trust your daddy...!
+Greeting2=These yaks are like my children.
+
+[Npc_314]
+Name=Yak
+Greeting1=Moo...
+Greeting2=Meh...
+
+[Npc_334]
+Name=Mysterious Dracans Knight
+
+[Npc_315]
+Name=Dracans Knight Commander Kainan
+
+[Npc_335]
+Name=Dracans Knight Dinvanin
+Greeting1=Glory to the Dracans Knights!
+Greeting2=Oppose me, and I'll finish you off with one slice!
+
+[Npc_397]
+Name=Dracans Knight Saolan
+Greeting1=Glory to the Dracans Knights!
+Greeting2=Death to those who oppose us!
+
+[Npc_398]
+Name=Fisher Kuong
+Greeting1=Where should I fish today...?
+Greeting2=Do you know any nice spots?
+
+[Npc_323]
+Name=Fisher Narby
+Greeting1=I hope I catch some today!
+Greeting2=Did you know? Fishing requires greater focus than battle!
+
+[Npc_322]
+Name=Fisher Greed
+Greeting1=Shall I catch a bunch today?
+
+[Npc_325]
+Name=Fisher Dvalinn
+Greeting1=Do you like fishing?
+Greeting2=Isn't the weather great? It's a bit cold, though...
+
+[Npc_326]
+Name=Chakua Prisoner 1
+Greeting1=Argh... Save me!
+
+[Npc_327]
+Name=Chakua Prisoner 2
+Greeting1=Help me... just once.
+
+[Npc_399]
+Name=Trader Phili
+
+[Npc_336]
+Name=Wounded Dracans Zallo
+
+[Npc_384]
+Name=Dargon
+Greeting1=Our spirit is forever...
+
+[Npc_601]
+Name=Nencha
+Greeting1=Honor to the Wallkreiger!
+Greeting2=Wallkreiger forever!
+
+[Npc_403]
+Name=Dracans Knight
+Greeting1=Glory to the Dracans Knights!
+
+[Npc_404]
+Name=Dracans Knight
+Greeting1=Glory to the Dracans Knights!
+Greeting2=Heheh, I chopped off four Chakua heads with a single swing!
+
+[Npc_410]
+Name=Dracans Knight
+Greeting1=Glory to the Dracans Knights!
+Greeting2=Accuracy is just as important as strength!
+
+[Npc_27]
+Name=Guard
+Greeting1=Nothing to report!
+
+[Npc_28]
+Name=Guard
+Greeting1=What are you doing?
+Greeting2=This place is safe.
+
+[Npc_8217]
+Name=Catallena
+Greeting1=My parents were farmers. Recently, they passed away after severe pain.
+
+[Npc_8222]
+Name=Katrin
+Greeting1=Sister, when are mom and dad coming home?
+
+[Npc_8233]
+Name=Marco
+Greeting1=Duelden is where vast majority of farming occurs on the MU Continent.
+
+[Npc_8234]
+Name=Dent
+Greeting1=Do you know about the Karol Kingdom? The Tephakin dukedom of today was founded by their descendants.
+
+[Npc_8235]
+Name=Bein
+Greeting1=When I go to Karolsandria, I get chills on my back.
+
+[Npc_8236]
+Name=Gaal
+Greeting1=Lorencia denies that the Karol Kingdom is our ancestor.
+
+[Npc_8240]
+Name=Lavellon
+Greeting1=The first archduke, Ion Tephakin, was a great politician and orator.
+
+[Npc_8241]
+Name=Gunt
+Greeting1=They say the stone statues of Titans were found at Salormis.
+
+[Npc_8242]
+Name=Vash
+Greeting1=Northern Salormis is home to the Garudas, who are part of the Line Alliance.
+
+[Npc_8237]
+Name=Damien
+Greeting1=Our successor, Kali, wishes Tephakin to be free from Lorencia's hands.
+
+[Npc_8238]
+Name=Semia
+Greeting1=Greetings! Welcome to our village!
+
+[Npc_8239]
+Name=Illin
+Greeting1=You must be a traveler. Try to visit Canal City at Salormis if you have the time.
+
+[Npc_8244]
+Name=Tephakin Officer
+Greeting1=Hail Tephakin Army!
+
+[Npc_8263]
+Name=Tephakin Officer
+Greeting1=There's no end to them... We won't survive long!
+
+[Npc_8264]
+Name=Tephakin Officer
+Greeting1=There's news that monsters have been appearing. Please be careful.
+
+[Npc_8265]
+Name=Tephakin Officer
+Greeting1=There are soldiers surrendering to Pandemonium... This is getting serious.
+
+[Npc_8266]
+Name=Tephakin Officer
+Greeting1=We have no hope... They've broken through the line.
+
+[Npc_8269]
+Name=Tephakin Bow
+Greeting1=Hold your positions!
+
+[Npc_8271]
+Name=Tephakin Army Sword
+Greeting1=Hail Tephakin Army!
+
+[Npc_8272]
+Name=Tephakin Army Sword
+Greeting1=There are soldiers surrendering to Pandemonium... This is getting serious.
+
+[Npc_8274]
+Name=Tephakin Army Sword
+Greeting1=We have no hope... They've broken through the line.
+
+[Npc_8275]
+Name=Tephakin Army Sword
+Greeting1=There's no end to them... We won't survive long!
+
+[Npc_8276]
+Name=Tephakin Army Sword
+Greeting1=There's nowhere to retreat! We must hold our position!
+
+[Npc_8294]
+Name=Tephakin Army Sword
+Greeting1=What can I do for you?
+
+[Npc_8296]
+Name=Tephakin Army Arrow
+Greeting1=What can I do for you?
+
+[Npc_8278]
+Name=Tephakin Army Sword
+Greeting1=There's news that monsters have been appearing. Please be careful.
+
+[Npc_8279]
+Name=Tephakin Army Sword
+Greeting1=Civilians cannot go beyond this point.
+
+[Npc_8284]
+Name=Tephakin Army Sword
+Greeting1=Please evacuate! This place is not safe!
+
+[Npc_8285]
+Name=Mining Association Local Police
+Greeting1=Do you have something to say to me?
+
+[Npc_8286]
+Name=Mining Association Local Police
+Greeting1=Don't worry. This place is safe.
+
+[Npc_1004]
+Name=Guard
+Greeting1=Leave the security of Tempano Village to us.
+Greeting2=Let me know if you find yourself in trouble.
+
+[Npc_1201]
+Name=Gheller
+Sayhello1=This place is dangerous. Stay out of it.
+Greeting1=Ah, you're a knight here to help us. Thank you. You may pass.
+
+[Npc_1202]
+Name=Lionel
+Greeting1=Farms are gradually becoming infected. Tenant farmers like myself are having a hard time making ends meet.
+Greeting2=Did Lady Nicole say when she will be returning? Ahem... Well, it's not that I don't have an interest in her...
+Greeting3=I don't fall in love at first sight. I'm getting to know her slowly.
+
+[Npc_1203]
+Name=Nicole
+Greeting1=You need fresh herbs to make a potion.
+
+[Npc_1204]
+Name=Pupil of Zakarian 1
+Greeting1=Master is trying to lead the world down a righteous path.
+
+[Npc_1205]
+Name=Alfredo
+Greeting1=………….
+
+[Npc_1206]
+Name=Arke Merchant 1
+Greeting1=Phew... I lost everything I had. How am I going to get back to Ohrdor?
+
+[Npc_1207]
+Name=Arke Merchant 2
+Greeting1=Hello, youngster! You seem very busy.
+
+[Npc_1208]
+Name=Pupil of Zakarian 2
+Greeting1=We are busy purifying the land. Will you join us?
+
+[Npc_1209]
+Name=Joseph
+Sayhello1=I'm Joseph, the commander of the Central Base.
+SayHello2=The base has a beacon mound for signaling enemy attacks.
+Greeting1=If this base falls, Tempano City is finished.
+Questid_Num1=1109
+QuestID_1109=Oh my. I've never heard of such a thing. I already found a spouse for Daisy. I shall proceed with the wedding as soon as I return home.
+
+[Npc_1210]
+Name=Michelle
+Greeting1=
+Questid_Num1=1109
+QuestID_1109=What did my husband say? I did not approve of their wedding. Daisy is still young. She still has a lot of time to find Mr. Right.
+
+[Npc_1211]
+Name=Daisy
+Sayhello1=I'm sick of small town life...
+Greeting1=Phew... I wonder when I can return to Ohrdor.
+
+[//Npc_1212]
+Name=Gabriel
+Sayhello1=I won't go back until I get food!
+
+[Npc_1213]
+Name=Frank
+Sayhello1=Those Thorned Brown Bears ruined my farm.
+Greeting1=Thorned Brown Bears are the Gnolls' pets.
+
+[Npc_1214]
+Name=Paul
+Greeting1=The Gnoll Legion came by and robbed the farms of all their food.
+Greeting2=The granary area, Bredrice, is now finished.
+
+[Npc_1215]
+Name=Stanley
+Sayhello1=Look how it burns... Burn...
+Greeting1=Look how it burns... Burn...
+
+[Npc_1220]
+Name=Innes
+Greeting1=There's nowhere to retreat! We must hold our position!
+
+[Npc_1222]
+Name=Arundinem
+Greeting1=I think the Dark Mission is more threatening than Pandemonium.
+Greeting2=How can I raise my army's morale...?
+
+[Npc_1223]
+Name=Euclea
+Sayhello1=Dark Reaper is a giant monster that embodies the anger of Karol citizens.
+Greeting1=This place is too dangerous now...
+
+[Npc_1224]
+Name=Remon
+Sayhello1=Karolsandria is the ancient capital of Karol Kingdom. There are numerous ruins remaining.
+
+[Npc_1225]
+Name=Kamok
+Sayhello1=People call me a great scholar. But I just read more than others.
+
+[Npc_1226]
+Name=David
+Greeting1=Karol is a doomed kingdom removed from the pages of history.
+
+[Npc_1228]
+Name=Aron
+Greeting1=That mad priest has lured the innocent into the Dark Mission.
+Greeting2=That mad priest, if he hadn't disappeared like that all of a sudden, might have become a respectable archpriest by now.
+
+[Npc_1229]
+Name=Emil
+Sayhello1=How can I change his mind?
+
+[Npc_1230]
+Name=Samuel
+Greeting1=My sister has been bewitched by the Dark Mission.
+
+[Npc_1232]
+Name=Phoebe
+Sayhello1=Watching a war rage from afar is fun. Lorencia is simply too boring...
+Greeting1=I have plenty of time and money... Isn't there anything fun to do?
+
+[Npc_1233]
+Name=Matthias
+Sayhello1=Tephakin Army, rise up from despair!
+Greeting1=Canal City is the origin of Tephakin.
+Greeting2=We take pride in being descendants of Karol.
+
+[Npc_1234]
+Name=Phoebe
+Sayhello1=You'll be shocked to find out who our father is!
+
+[Npc_1235]
+Name=Pierre
+Greeting1=Is that money I smell?
+Sayhello1=Life is all about taking chances!
+
+[Npc_1248]
+Name=Icarus (Salormis)
+Sayhello1=The Tephakin Army is fighting as best they can...
+SayHello2=Having Kundun would've been really helpful right now.
+Greeting1=Life means nothing without the pursuit of truth, does it?
+Greeting2=Huh? Are you looking for me?
+
+[Npc_1286]
+Name=Joanne
+Sayhello1=They might attack again at any time!
+SayHello2=Regroup!
+Greeting1=This place is dangerous!
+Greeting2=Be careful of the giant dragons!
+
+[Npc_1287]
+Name=Ohgrok
+Greeting1=Shhh, be quiet!
+Greeting2=I never miss my target.
+
+[//Npc_1292]
+Name=Tephakin Special Force Member
+Sayhello1=I can't believe I fell behind my unit.
+
+[Npc_8218]
+Name=Aillia
+Greeting1=Tempano City is packed with merchants who travel around the continent to trade crops.
+
+[Npc_8219]
+Name=Maiv
+Greeting1=Do you know the Great Sage Zakarian? He was regent of Noria for 10 years.
+
+[Npc_8221]
+Name=Isolda
+Greeting1=You're not supposed to eat dirt. Spit it out!
+
+[Npc_8220]
+Name=Dulci
+Sayhello1=Don't lie to me. There were no monsters when I was there.
+
+[Npc_8223]
+Name=Hennes
+Sayhello1=My uncle went to a cave where a monster lives and never came back.
+
+[Npc_8224]
+Name=Alwin
+Greeting1=My mom told me never to follow strangers.
+
+[Npc_8232]
+Name=Samud
+Greeting1=I've been hearing the bad rumors in town that a mysterious bunch of characters has appeared.
+Greeting2=Shh! Don't tell anyone you saw Blatuma and me!!
+
+[Npc_8215]
+Name=Blatuma
+Greeting1=We should lock the door when we're at home. I can't believe how much the world has changed...
+Greeting2=Ahem... I wish you wouldn't tell anyone that you saw Samud and me together.
+
+[Npc_8322]
+Name=Cromwell
+Greeting1=All I see around us are corpses. Ugh! What a scary world.
+Greeting2=This is the only place we can stay. The world has became a place where no one can live.
+
+[Npc_8317]
+Name=Ganok
+Greeting1=Are you a traveler, too? I'm also a traveler. It reeks of rotting corpses.
+
+[Npc_8321]
+Name=Savanna
+Greeting1=I'm staying here at the camp, hoping that I may find my lost family.
+
+[Npc_8326]
+Name=Kevis
+Greeting1=I'm an Arke Merchant visiting here to trade food. Well, if you have something good, don't hesitate to talk to me.
+Greeting2=The farms are in bad shape because of the Gnoll attacks.
+
+[Npc_8325]
+Name=Vetsy
+Greeting1=This used to be a peaceful temple.
+
+[Npc_8324]
+Name=Crowley
+Greeting1=But an insane priest caused the devastation of the temple.
+
+[Npc_8320]
+Name=Rosanne
+Greeting1=Have you heard the story of Priest Ignis? Those blinded by greed tried to manipulate them.
+
+[Npc_9232]
+Name=Tempano Peddler
+Greeting1=If you need something, just tell me. I'll make sure to have it in stock!
+
+[Npc_8301]
+Name=Guard
+Sayhello1=You shouldn't enter restricted areas.
+Greeting1=This area is currently off-limits.
+
+[Npc_8331]
+Name=Rebelling Karol Knight
+Sayhello1=Lenavis... Prepare to die!
+SayHello2=I shall... end this... tragedy!
+
+[Npc_8332]
+Name=Rebelling Karol Knight Commander
+Sayhello1=I can't... submit to the queen's... tyranny and... oppression!
+SayHello2=My fellow knights, open your eyes. And be free... from the nightmares... of Lenavis...
+
+[Npc_8355]
+Name=GM Character
+Sayhello1=Hello, I'm GM ☜S2ElfS2☞.
+SayHello2=Have a great day with MU2.
+Greeting1=Greetings, adventurer.
+Greeting2=Extensive gaming may be harmful for your health. Make sure you get plenty of rest.
+Greeting3=I can help you resolve anything.
+
+[Npc_9406]
+Name=Innkeeper
+Greeting1=Hehehe. At our inn, we try our best to provide the most comfortable accommodation for adventurers.
+Greeting2=I can personally vouch for the taste of our food!
+Greeting3=Welcome, ho ho. Let me know if you need anything.
+
+[Npc_9276]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9271]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9272]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9273]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9274]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9275]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9277]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9278]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9279]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9281]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9282]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9283]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9284]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9285]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_20800]
+Name=Potion Merchant
+Sayhello1=I have potions to heal your wounds.
+
+[Npc_9409]
+Name=Enchantment Merchant
+Sayhello1=Come to me whenever you want to enchant any items or wings.
+SayHello2=
+
+[Npc_9424]
+Name=Enchantment Merchant
+Sayhello1=Come to me whenever you want to enchant any items or wings.
+
+[Npc_9431]
+Name=Enchantment Merchant
+Sayhello1=Come to me whenever you want to enchant any items or wings.
+
+[Npc_20910]
+Name=Enchantment Merchant
+Sayhello1=Come to me whenever you want to enchant any items or wings.
+
+[Npc_9212]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+
+[Npc_9211]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+
+[Npc_9213]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+
+[Npc_9214]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+
+[Npc_9215]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+
+[Npc_9216]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+
+[Npc_9217]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+
+[Npc_9218]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+
+[Npc_9219]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+
+[Npc_9287]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+
+[Npc_9294]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+
+[Npc_20510]
+Name=Armor Merchant
+Sayhello1=I'll dismantle any junk items!
+SayHello2=
+
+[Npc_9202]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9201]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9203]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9204]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9205]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9206]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9207]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9208]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9209]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9210]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9286]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9293]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_20490]
+Name=Weapon Merchant
+Sayhello1=You can get materials for crafting by dismantling items!
+SayHello2=
+
+[Npc_9221]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9220]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9222]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9223]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9224]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9225]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9226]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9227]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9228]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9229]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9230]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9288]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_9295]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_20390]
+Name=Gemcutter
+Sayhello1=I can create Jewel slots in your equipment!
+
+[Npc_23]
+Name=Rift Fragment
+Sayhello1=Did you know you can get great equipment with Rift Fragments?
+
+[Npc_1021]
+Name=Rift Fragment
+Sayhello1=Did you know you can get great equipment with Rift Fragments?
+
+[Npc_2992]
+Name=Rift Fragment
+Sayhello1=Did you know you can get great equipment with Rift Fragments?
+
+[Npc_9304]
+Name=Magic Gem Merchant
+Sayhello1=I have lots of items you can buy with Magic Gems!
+
+[Npc_9305]
+Name=Mount Merchant
+Sayhello1=Try purchasing a mount with Magic Gems!
+
+[Npc_9306]
+Name=Costume Merchant
+Sayhello1=You can buy costumes with Magic Gems!
+
+[Npc_9419]
+Name=Storage Manager
+Sayhello1=Is your bag full? Let me help you unload it.
+
+[Npc_11]
+Name=Storage Manager
+Sayhello1=Is your bag full? Let me help you unload it.
+
+[Npc_71]
+Name=Storage Manager
+Sayhello1=Is your bag full? Let me help you unload it.
+
+[Npc_72]
+Name=Storage Manager
+Sayhello1=Is your bag full? Let me help you unload it.
+
+[Npc_73]
+Name=Storage Manager
+Sayhello1=Is your bag full? Let me help you unload it.
+
+[Npc_1017]
+Name=Storage Manager
+Sayhello1=Is your bag full? Let me help you unload it.
+
+[Npc_22200]
+Name=Storage Manager
+Sayhello1=Is your bag full? Let me help you unload it.
+
+[Npc_22190]
+Name=Storage Manager
+Sayhello1=Is your bag full? Let me help you unload it.
+
+[Npc_75]
+Name=Guild Registrar
+Sayhello1=Would you like to create a Guild?
+
+[Npc_76]
+Name=Guild Manager
+Sayhello1=Hey, don't you want to change your Guild's emblem?
+SayHello2=I'm evaluating the contribution of the knights. Just ask if you have any questions.
+
+[Npc_77]
+Name=Guild Storage
+Sayhello1=If you're in a Guild, I'll keep your items safe.
+
+[Npc_94]
+Name=Alchemist Merchant
+Sayhello1=If you have a grown Artifact, you can trade it here for rare items!
+
+[Npc_9418]
+Name=Appearance Merchant
+Sayhello1=Just come talk to me if you want to change the appearance of your equipment.
+
+[Npc_20640]
+Name=Appearance Merchant
+Sayhello1=Just come talk to me if you want to change the appearance of your equipment.
+
+[Npc_80]
+Name=Craftsman
+Sayhello1=Do you want to craft equipment that fits your level?
+
+[Npc_24]
+Name=Craftsman
+Sayhello1=Do you want to craft equipment that fits your level?
+
+[Npc_1022]
+Name=Craftsman
+Sayhello1=Do you want to craft equipment that fits your level?
+
+[Npc_2989]
+Name=Craftsman
+Sayhello1=Do you want to craft equipment that fits your level?
+
+[Npc_26]
+Name=Craftsman
+Sayhello1=Do you want to craft equipment that fits your level?
+
+[Npc_1024]
+Name=Craftsman
+Sayhello1=Do you want to craft equipment that fits your level?
+
+[Npc_2988]
+Name=Craftsman
+Sayhello1=Do you want to craft equipment that fits your level?
+
+[Npc_67]
+Name=Ohrdor City Guide
+Dialogue=Which place do you want to know about?
+Talk1=Hello! Are you new here?
+Greeting1=Hello! Welcome to the commercial city of Ohrdor!
+
+[Npc_1003]
+Name=Duelden Tempano City Guide
+Dialogue=Which place do you want to know about?
+Talk1=Hello! Are you new to Duelden?
+Greeting1=Hello! Welcome to Duelden!
+
+[Npc_9422]
+Name=Event Helper
+Dialogue=Brave warrior, will you tell me your story?
+Talk1=Exhausted? It's time for you to take a break.
+Greeting1=Have a good day, Adventurer.
+Greeting2=Hello, Adventurer.
+
+[Npc_1800]
+Sayhello1=This world is in chaos.
+SayHello2=I need your help.
+
+[Npc_1801]
+Sayhello1=Adventurers, I need your help.
+SayHello2=May Rugard bless you.
+
+[Npc_1802]
+Sayhello1=Aww, what do I do?
+SayHello2=Can anyone help me?
+
+[Npc_1803]
+Sayhello1=Hello, there. Could you help me?
+SayHello2=Hey, are you busy?
+
+[Npc_1804]
+Sayhello1=Would you be so kind as to help me?
+SayHello2=I'm worried.
+
+[Npc_1805]
+Sayhello1=This world is in chaos.
+SayHello2=I need your help.
+
+[Npc_1806]
+Sayhello1=Adventurers, I need your help.
+SayHello2=May Rugard bless you.
+
+[Npc_1807]
+Sayhello1=Aww, what do I do?
+SayHello2=Can anyone help me?
+
+[Npc_1808]
+Sayhello1=Hello, there. Could you help me?
+SayHello2=Hey, are you busy?
+
+[Npc_1809]
+Sayhello1=Would you be so kind as to help me?
+SayHello2=I'm worried.
+
+[Npc_1851]
+Sayhello1=I have a favor to ask.
+SayHello2=Would you help me?
+
+[Npc_1868]
+Sayhello1=.. I have something to ask of you.
+SayHello2=May you find peace in darkness.
+
+[Npc_1863]
+Sayhello1=Where's Lunedill?
+SayHello2=I have a favor to ask of you.
+
+[Npc_1861]
+Sayhello1=Long time, no see!
+SayHello2=I have something to tell you.
+
+[Npc_8302]
+Name=MU Imperial Force 1 Spear
+Sayhello1=Make way for the troops!
+SayHello2=Get in formation!
+SayHello3=The MU Empire shall not fall!
+
+[Npc_8303]
+Name=MU Imperial Soldier 2
+Sayhello1=Hail MU Empire!
+SayHello2=Devias Knight Commander, you are finally here!
+SayHello3=The MU Empire shall not fall!
+
+[Npc_8329]
+Name=Devias Knight Spear
+Sayhello1=Dear Rugard! Please grant me strength!
+SayHello2=May Rugard have mercy...
+SayHello3=Oh god... Please help us...
+
+[Npc_8305]
+Name=Black Knight (Zephiros)
+Sayhello1=
+
+[Npc_8306]
+Name=Black Mage (Axiol)
+Sayhello1=Now, you are our last hope...
+SayHello2=
+
+[Npc_1250]
+Name=Drude
+Sayhello1=Prepare for Gnoll attacks!!
+SayHello2=Hold your positions!
+SayHello3=They can attack at any time. Don't let your guard down, soldiers!
+
+[Npc_8287]
+Name=Mage
+Greeting1=The Shadow Phantom is like Lunedill's shadow.
+
+[Npc_8273]
+Name=Dracans Defender
+Greeting1=A reliable mercenary like me will certainly help a novice adventurer like you on their journey!
+Greeting2=Those soldiers at the castle are no good. Private mercenaries like us are the true warriors in battle.
+
+[Npc_8268]
+Name=Dark Elf Sword Dancer
+Greeting1=This request seems difficult.
+Greeting2=There are rumors of a new continent. Have you heard of it?
+
+[Npc_8267]
+Name=Dark Elf Sword Dancer
+Greeting1=What? You got something to say?
+
+[Npc_8258]
+Name=Arke Healer
+Greeting1=Please don't propose.
+
+[Npc_8259]
+Name=Arke Healer
+Greeting1=Having healers like us will ensure safer battles. Don't you think so?
+Greeting2=Hey, adventurer! You know, mercenaries tend to be more attracted to kind clients... That's the way it is.
+
+[Npc_103130501]
+Name=Tephakin Army Commander Solon
+Spawn1=All units, make way for the Hero of Enova!
+
+[Npc_102020019]
+Name=Pandemonium Army from Evil Energy
+Spawn1=Finally I'm on earth. Kyaang!
+
+[Npc_102020022]
+Name=Larva Commander
+Spawn1=How dare you destroy the Evil Energy Generator?
+
+[Npc_102020024]
+Name=Flashy Sapi Unus
+Spawn1=Don't you dare touch our nest!
+
+[Npc_102030043]
+Name=Goblin Guard
+Spawn1=Rosso's killer, time for payback!
+Spawn2=Our attempt on Duprian's life has failed!
+
+[Npc_102030044]
+Name=Goblin Scout
+Spawn1=The Grounders are stealing Unsealing Stones!
+
+[Npc_102030045]
+Name=Keru Scout
+Spawn1=The Grounders have invaded!
+
+[Npc_102030048]
+Name=Goblin Guard
+Spawn1=Protect the barracks, gobble!
+Spawn2=We're under attack, gobble!
+
+[Npc_102030049]
+Name=Bull Horn Warrior
+Spawn1=Follow Ferocious' command and punish the Grounders!
+Spawn2=Don't you dare try to stop the wagons!
+
+[Npc_103010041]
+Name=Gnoll Fire Starter
+Spawn1=How dare you mess with our beacon? You must have a death wish!
+
+[Npc_103020015]
+Name=Summoned Ancient Book Devil
+Sayhello1=Madri!
+
+[Npc_103020036]
+Name=Dark Mission
+Spawn1=He's not one of us! Hang him!
+Spawn2=Submit to the Dark Mission!
+
+[Npc_103020037]
+Name=Skeleton Knight
+Spawn1=His soul is ours!
+Spawn2=Give me your soul!
+
+[Npc_103020038]
+Name=Grave Zombie
+Spawn1=How dare you... intrude our territory... Die...!
+Spawn2=Don't touch... the graves...!
+
+[Npc_103030047]
+Name=Infected Budge Dragon
+Spawn1=RAWR! (Leave my egg alone!)
+
+[Npc_103030048]
+Name=Kobold Soldier
+Spawn1=How dare you try to steal the artifacts we stole?
+
+[Npc_103030049]
+Name=Vengeful Spirit
+Spawn1=You must have a death wish coming in here.
+
+[Npc_103030051]
+Name=Gnoll Scout
+Spawn1=Follow Orman's will!
+Spawn2=How dare you try to touch Orman's slabs?!
+Spawn3=Cooperate with Pandemonium!
+
+[Npc_103130012]
+Name=Garuda Security
+Spawn1=You thieves! Don't you dare try to steal the gold chest!
+
+[Npc_103130013]
+Name=Garuda Ambusher
+Spawn1=Stop interfering with our operation!
+
+[Npc_103130014]
+Name=Garuda Guard
+Spawn1=His Majesty has fallen!
+Spawn2=Don't let that stranger leave alive!
+
+[Npc_103170011]
+Name=Vengeful Spirit of Maid
+Spawn1=How dare you come into this tomb? You have a death wish!
+Spawn2=I'll devour your spirit!
+
+[Npc_105020024]
+Name=Chill Follower
+Spawn1=Stop interfering with our mission!
+Spawn2=We'll find Neria's Tears!
+
+[Npc_105020025]
+Name=Chakua Guard
+Spawn1=How dare you touch our supply storage?!
+Spawn2=Quartermasters, gather around!
+
+[Npc_105020026]
+Name=Chakua Swordsman
+Spawn1=The commander has fallen!
+Spawn2=You bugger! I'll avenge the commander!
+
+[Npc_105030033]
+Name=Mada Slaughterer
+Spawn1=How dare you interfere with our propaganda?
+Spawn2=Are you in league with the wicked Kanturians?
+
+[Npc_105030034]
+Name=Datans Melee Combatant
+Spawn1=How dare you attack the commander? I'll slaughter you!
+
+[Npc_105030035]
+Name=Ice Stone
+Spawn1=Leave the... eggs alone!
+
+[Npc_105040039]
+Name=Nobility Alliance Heavy Infantry
+Spawn1=Some spy is trying to steal our confidential documents!
+Spawn2=Protect our documents!
+
+[Npc_105040040]
+Name=Chill Elemental
+Spawn1=Get out of our territory!
+Spawn2=Stop destroying our land!
+
+[Npc_105050034]
+Name=Nobility Alliance Light Infantry
+Spawn1=Do you want to die a miserable death like the Tephakins?
+Spawn2=Get out of the supply storage!
+
+[Npc_105050035]
+Name=Nobility Alliance Heavy Knight
+Spawn1=I'll execute you!
+
+[Npc_105060032]
+Name=Nobility Alliance Heavy Armor Knight
+Spawn1=Such humble beings at a place like this?!
+
+[Npc_105060033]
+Name=Dracans Watcher
+Spawn1=No one insults Woongpam and gets away with it!
+Spawn2=How dare you try to steal our weapons?!
+
+[Npc_105210010]
+Name=Chill Zombie
+Spawn1=Touch the crystals... You'll be... experimented on... like us...
+Spawn2=Put me... out of my misery...
+
+[Npc_105210011]
+Name=Snowfield Bull Horn Warrior
+Spawn1=The pure crystals belong to Pandemonium!
+Spawn2=The Grounders are not welcomed in this cave!
+
+[Npc_105070033]
+Name=Chakua Centurion
+Spawn1=If you want to go through this mountain, you'll have to get past us!
+
+[Npc_105070036]
+Name=Pandemonium Temple Ambusher
+Spawn1=Did you butcher the Knights of Pandemonium?
+
+[Npc_105070038]
+Name=Nobility Alliance Heavy Knight
+Spawn1=We didn't invade Dracanem for this!
+Spawn2=Are you in league with the Dracanses?
+
+[Npc_105070039]
+Name=Pandemonium Chaser Warrior
+Spawn1=Are there any more living wardens?
+Spawn2=If you want to die like them, then bring it on!
+
+[Npc_105080031]
+Name=Black Wand Mage
+Spawn1=Defend the massive cannon!
+Spawn2=Annihilate the Union!
+
+[Npc_105080035]
+Name=Black Wand Shock Trooper
+Spawn1=I'll make you feel as miserable as those refugees!
+Spawn2=Leave no one alive!
+
+[Npc_105080033]
+Name=Gremlin Ambusher
+Spawn1=I've been waiting, Grounder!
+
+[Npc_102030304]
+Name=Garus
+Sayhello1=How ridiculous. How dare you challenge a Goblin hero!
+RateHP30=A hero never kneels!
+Death1=I'll let you off the hook this time.
+Death2=I'm not feeling well today. Goble.
+
+[Npc_102030303]
+Name=Horus
+Sayhello1=You don't seem to know who I am! How dare you challenge me!
+RateHP70=I am a Goblin Hero!
+Death1=I am not the only Goblin Hero...
+
+[Npc_102030305]
+Name=Morus
+Sayhello1=Come! Let the Goblin Hero Morus be your opponent!
+RateHP30=A hero never kneels!
+Death1=How can I be defeated...
+
+[Npc_102020101]
+Name=Insect Song
+Sayhello1=Sh....Sheeeek!
+
+[Npc_102020104]
+Name=Shama
+Sayhello1=Kulg... Kulg!
+Death1=Gglaawwa!
+
+[Npc_102020102]
+Name=Janneba
+Sayhello1=Janjaaaaaan! Chaaan!
+Death1=Zaayanngghhh...
+
+[Npc_102620101]
+Name=Larva Warrior
+Sayhello1=Kyan? Kinkinyan!
+Death1=Kiiiin...
+
+[Npc_102030104]
+Name=Yeni
+Sayhello1=Owwwwuuu
+Death1=Giin... Giin...
+
+[Npc_102030107]
+Name=Larva Guard
+Sayhello1=Ki-in? Kyan? Kinkyan!
+Death1=Kin... kyan... kuen....
+
+[Npc_102020105]
+Name=Queen Sapi
+Sayhello1=You are... my... fertilizer!
+RateHP30=It appears... I will... be... the fertilizer...
+Death1=My... corpse... will... give birth... to... a beautiful... flower...
+
+[Npc_102020301]
+Name=Queen Spider
+Sayhello1=Chhwwwiiik!
+Death1=Grrrr... eeek...
+
+[Npc_102020103]
+Name=Unicorn Boar
+Sayhello1=Hiiihin? Gwwwweeee!
+Death1=Gwe!
+
+[Npc_102130101]
+Name=Evil Boar Leader
+Sayhello1=Grrrrr....!
+Death1=Grrrk......
+
+[Npc_102130103]
+Name=Evil Larva Treasure Keeper
+Sayhello1=Kiiiin! Kiaan!
+Death1=Kyan!
+
+[//Npc_103200202]
+Name=Deslan
+Spawn1=Krrr...
+
+[//Npc_103200201]
+Name=Flicker
+Spawn1=Kyaaaaaa!
+
+[//Npc_103200203]
+Name=Targash
+Sayhello1=How did you find this place? Who are you!?
+SayHello2=A pitiful being.
+RateHP50=Are you not afraid of dying?!
+Death1=No... My heart, my soul...
+
+[//Npc_105310201]
+Name=Belgaterm
+Spawn1=Kill the intruder!
+RateHP50=You're not like the others...
+Death1=The power of darkness shall last forever...
+
+[Npc_102610301]
+Name=Larva Regiment Leader
+Sayhello1=Kangkyan-king!
+Death1=Keke... Kek...
+
+[Npc_103030301]
+Name=Garuda Gatekeeper
+Sayhello1=You! You can't go through this canyon.
+SayHello2=You must have a death wish, coming into this canyon.
+SayHello3=Do you think you're invincible?
+SayHello4=Where do you think you're going?
+SayHello5=If you want to go through this place, then you'd better get past me!
+SayHello6=Halt! You can't pass.
+SayHello7=Hah hah, let's see if you can get past me.
+Death1=Kugh...
+Death2=Kuargh...you...
+Death3=Ugh... I must... defend the canyon...
+
+[Npc_103030302]
+Name=Garuda Scout Captain
+Sayhello1=I knew you were coming.
+SayHello2=Enemies! Enemies are here!
+SayHello3=I can see your every move!
+SayHello4=I can see you from the sky??you can't hide from me!
+SayHello5=What do you think you can do by yourself?
+Death1=A formidable enemy... has shown up...
+Death2=I must... report...
+Death3=Argh...
+Death4=I didn't know there was someone so strong...
+
+[Npc_103620301]
+Name=Lich
+Sayhello1=How dare you taunt the dead?
+Death1=Aaarrrggghh! This is unfair!
+
+[Npc_105030304]
+Name=Keru Pack Leader
+Sayhello1=Now that the Dios have stopped, this is our chance!
+Death1=You're... stronger than the Dios...
+
+[Npc_105060302]
+Name=White Boar Pack Leader
+Sayhello1=Grr... Grrrrrr... kugh...
+Death1=*Squeal*
+
+[Npc_105060304]
+Name=Nobility Alliance Officer Haman
+Spawn1=Kill them! For the pureblood!
+Death1=Kugh... I can't believe I lost to a bunch of mutts...
+
+[Npc_105080305]
+Name=Pandemonium Special Forces Captain
+Spawn1=The Grounders have come to welcome me in person. Bwa hah hah hah!
+Death1=Err? Kugh...
+
+[Npc_102130102]
+Name=Evil Larva Guardian
+Sayhello1=Kikikik... Kikike...
+RateHP50=Kekek!
+Death1=Kekweeck!
+
+[Npc_105020103]
+Name=Pack Leader Ice Boar
+Sayhello1=Eeeekkkk!
+RateHP50=*Squeal*
+Death1=Kweeeekkk!
+
+[Npc_105020104]
+Name=Vitasaurus
+Sayhello1=Gwuuuaa!
+RateHP50=Gwooooh!
+Death1=Grrrrr...
+
+[Npc_105040108]
+Name=Nobility Alliance Squad Leader
+Sayhello1=Who are you? Identify yourself!
+RateHP50=An intruder! You're the one who ruined our artillery base!
+Death1=Kugh... I must protect the soldiers of the Alliance...
+
+[Npc_105040109]
+Name=Thorned Brown Bear Pack Leader
+Sayhello1=Koun! Koun!
+RateHP50=Kuang! Kuang!
+Death1=Kuuuaang!
+
+[Npc_105050102]
+Name=Iron Fist Golem
+Sayhello1=No one can control me!
+RateHP50=I can't leave my friends behind...
+Death1=No... Stop...
+
+[Npc_105050103]
+Name=Lich Archmage
+Spawn1=Mwa hah hah! I came back to life!
+Sayhello1=Who dares stop me?
+RateHP70=Why...? Why can't I remember any magic?
+Death1=I'll come back...
+
+[Npc_105070101]
+Name=Greedy Hammer Thrasher
+Sayhello1=Hah hah! Try to stop my hammer!
+RateHP50=Try to stop it with your shield, and I'll break your shield. Try to stop it with your armor, I'll slam through it!
+Death1=Kugh... I'm destroyed first...
+
+[Npc_105070102]
+Name=Chakua High-rank Knight
+Sayhello1=Spears are powerful and easy to handle!
+RateHP50=My spear cannot be broken!
+Death1=The loser doesn't get to talk...
+
+[Npc_105070103]
+Name=Chill Pandemonium Temple Crusader
+Sayhello1=Die, you dull-witted bastard!
+RateHP50=Worship the Demon God!
+Death1=To the embrace of the Demon God!
+
+[Npc_105070104]
+Name=Mad Lich
+Sayhello1=Kill! Kill the enemies!
+RateHP50=Help your allies by killing your enemies!
+Death1=I may be dying, but I stalled the formidable enemy!
+
+[Npc_105120104]
+Name=Wrath Hammer Thrasher
+Sayhello1=Heh heh, I can destroy anything!
+RateHP50=I'll destroy you! Be destroyed!
+Death1=Destroyed... I'm... destroyed...
+
+[Npc_105070105]
+Name=Pandemonium Special Forces Commander
+Sayhello1=Praise the champion of the Slaughterer Contest! That's me!
+RateHP50=I'll show you the power of the champion!
+Death1=I acknowledge you, Grounder...
+
+[Npc_105181008]
+Name=Douglas
+Sayhello1=Stay right there, mutt!
+RateHP50=How dare you scratch me?!
+Death1=Aaarrrggghh! I can't believe I lost to a mutt!
+
+[Npc_105181009]
+Name=Andrew
+Sayhello1=Mutt, lower your eyes.
+RateHP40=I can be magnanimous. I forgive you. Now stop.
+Death1=Urgh... I don't want to die! I'm too noble to die! Please don't kill me!
+
+[Npc_105181010]
+Name=Sidney
+Sayhello1=I'm Sidney, the Marquis' sword. I'll take care of you.
+RateHP50=McHan is no match for me!
+Death1=I wanted to distinguish myself so badly...
+
+[Npc_105181011]
+Name=McHan
+Sayhello1=I'm McHan, the Marquis' sword. I'll take care of you.
+RateHP50=I'm different from Sidney! I'm not him!
+Death1=I was greedy for fame...
+
+[Npc_105240101]
+Name=Prisoner No. 2581
+Sayhello1=Kikiki, I'm back! First, I want to take a bath in blood.
+RateHP50=Oh, no. Just send me back to the prison. Stop!
+Death1=I don't want to die!
+
+[//Npc_105310202]
+Name=Zurataken
+Spawn1=How dare you defile Wallkreiger's Sanctum?!
+RateHP50=You will not get out of here alive!
+Death1=Argh... I lost so soundly...
+
+[//Npc_105310203]
+Name=Salkless
+Spawn1=Intruder, how dare you challenge me?
+RateHP50=I will destroy your soul!
+Death1=Ah... I was to be immortal...
+
+[//Npc_105310204]
+Name=Kaizel
+Spawn1=I could hear the echo of your powerful soul!
+RateHP50=Do you admit your limits?
+Death1=Ugh, you're strong... But you haven't seen the true power of us ancient dragons yet...
+
+[Npc_104610014]
+Name=Starving Necross
+Spawn1=Grrr... I see another group of preys has come.
+
+[Npc_104610020]
+Name=Sand Devil Knight Commander
+Spawn1=Gahahaha, you will only leave here through your demise!
+
+[//Npc_104610024]
+Name=Jagant
+Sayhello1=I break... I destroy...
+Death1=Urghhhh!
+
+[Npc_104610036]
+Name=Cursed Imperial Heavy Armor Knight
+Spawn1=Who... is... my enemy...
+
+[Npc_104610040]
+Name=Cursed Rugard Priest
+Spawn1=Your soul... to darkness... Arrghhh!!!
+
+[Npc_104610046]
+Name=Cursed Imperial Heavy Armor Knight
+Spawn1=Destroy... all... leave nothing...
+
+[//Npc_104610045]
+Name=Fallen Archpriest Batistan
+Sayhello1=This is as far as you can go!
+RateHP50=My power is Rugard's power!
+Death1=Ugh... Rugard, please forgive me...
+
+[Npc_104950101]
+Name=Sky Skirmisher Alpha Crust
+Spawn1=Are you ready to perish by my sword, earthly knight?
+Spawn2=I'll swear on the honor of the Heavens that I'll defeat you!
+Sayhello1=Otherworldly intruders are to be punished severely!
+SayHello2=You're not strong enough to set foot in the Heavens!
+
+[Npc_104950102]
+Name=Sky Knight Heavens Knight
+Sayhello1=Any invaders will be sacrificed to Light!
+
+[Npc_104950103]
+Name=Sky Fire Bird Dark Phoenix
+Sayhello1=Kyaaaaooohhh!
+
+[Npc_104950104]
+Name=Storm Goddess Gaileah
+Spawn1=I'll throw you into the storm!
+
+[Npc_104950105]
+Name=Thunder God Raijanka
+Spawn1=Grounder, you're impressive. Think you can handle my thunder?
+
+[Npc_104950106]
+Name=Titan Megaron
+Spawn1=Intruder, how dare you disrupt the border of the realms?!
+
+[Npc_102030106]
+Name=Zuldol
+Sayhello1=Bwaaaaagh...
+Death1=Kek... kek...
+
+[Npc_102030102]
+Name=Rye
+Sayhello1=Food... It's food! Get'em!
+RateHP70=Food! Gimme some rye bread and I'll let you live?
+Death1=To be honest... I... hate rye bread...
+
+[Npc_102030301]
+Name=Ferocious
+Sayhello1=Troublesome... race...! Do not... disturb me!
+Death1=How could I... get... caught...
+
+[Npc_102030302]
+Name=Rosso
+Sayhello1=What a fool. Walking in here on his own free will... Bwahahah! Huh? Who are you?!
+RateHP30=Agh! You're strong!
+Death1=Guh... You're different from the others...
+
+[Npc_102030101]
+Name=Manson
+Sayhello1=Do you know why I'm angry?! I don't know! Hwahaha!
+RateHP50=Laugh when you're angry! Kya kya kya!
+Death1=You... laugh... right until your last moment... hahaha... hehehe...
+
+[Npc_102030105]
+Name=Borg
+Sayhello1=Be impaled by my beautiful horn!
+Death1=My... my horn... broke...
+
+[Npc_102030103]
+Name=Crayon
+Sayhello1=Bwaaaa!
+Death1=Kekek... keng...
+
+[Npc_102110101]
+Name=Clibeat
+Sayhello1=Grounders! The Grounders have invaded! Stop'em!
+RateHP70=Ugh... Call reinforcements while I try to stop them.
+Death1=Was it... too much...
+
+[Npc_102110102]
+Name=Seimor
+Sayhello1=Kwaaaaah! I won't let you pass!
+RateHP30=Over my dead body!
+Death1=You will not reach Glasha...
+
+[Npc_102110301]
+Name=Urgan
+Sayhello1=Foolish one, do not get in the way of our long-awaited wish!
+Death1=Do not... stop us...
+
+[Npc_102110302]
+Name=Urgon
+Sayhello1=There is no mercy for those who interfere!
+Death1=Glasha...
+
+[Npc_103010102]
+Name=Kobold Soldier
+Sayhello1=A toy! Kihehehe!
+Death1=This toy is too strong...
+
+[Npc_103010101]
+Name=Gnoll Scout
+Sayhello1=I shall slice off your flesh!
+Death1=I should run...
+
+[Npc_103150102]
+Name=Gnoll Destroyer
+Sayhello1=Allow me to crush your skull!
+Death1=Ugh... skull...
+
+[Npc_103150101]
+Name=Gnoll Plunderer
+Sayhello1=I'll take your heart out!
+RateHP50=Kekekeke! I've collected 99 hearts and yours shall be the last!
+Death1=100th... is my heart...?
+
+[Npc_103150103]
+Name=Gnoll Scout
+Sayhello1=Silently attack!
+Death1=How can you be so... fast...
+
+[Npc_1107391]
+Name=Larva Regiment Leader
+Sayhello1=Aaarrrrrgggh! (I'll punish you!!)
+Death1=Eeeeek... (Don't kill me...)
+
+[Npc_103110201]
+Name=Evil Garon
+Sayhello1=I don't... remember... a thing...
+SayHello2=Do you... know me?
+Death1=Memories of the beginning and the end... there's only darkness...
+
+[Npc_103110205]
+Name=Pimble
+Sayhello1=Kinkinkyankyan... Kinkyankyan... Kinkin!
+Death1=Kiieeeen!
+
+[Npc_103110206]
+Name=Old Ancient Book Devil
+Sayhello1='Knowledge is Power.'
+RateHP90='Words reflect Action.'
+RateHP50='I still have the secret weapon in my hands. It's called hope.'
+Death1='To be, or not to be. That is the question.'
+
+[Npc_103110202]
+Name=Yorn
+Sayhello1=Kin? Kinkyakyang!
+Death1=Kinyanaan...
+
+[Npc_103110203]
+Name=Vern
+Sayhello1=Eeeeeekkkkkkk!
+Death1=Urgghhhh!!! (Brother! Run!)
+
+[Npc_103110204]
+Name=Jorn
+Sayhello1=Aaarrrghhhh (I shall take revenge for my brothers!)
+Death1=Urghh... (My revenge...)
+
+[Npc_103110207]
+Name=Dark Follower
+Sayhello1=On no, I'm caught!!
+Death1=I should've hidden... deeper...
+
+[Npc_103020101]
+Name=Grave Zombie
+Sayhello1=Please... leave... me...
+Death1=Finally, I can take a break...
+
+[Npc_103020301]
+Name=Karol Knight Commander Manstein
+Sayhello1=Hail... Karol... Sandria...!
+Death1=Karol Knights... never back down!
+
+[Npc_103020102]
+Name=Skeleton Archer
+Sayhello1=Penetrate... the living's... heart!
+Death1=Was it... not enough...?
+
+[Npc_1137003]
+Name=Lich
+Sayhello1=Are you Rugard's dog!? I shall curse you for all eternity!!
+
+[Npc_103170102]
+Name=Aalis
+Sayhello1=No mercy for traitors!
+Death1=Ugh... I will not... forgive...
+
+[Npc_103170106]
+Name=Johannudis
+Sayhello1=I'm alive...! I'm ALIVE! My servant, Enoc. Where are you!
+RateHP60=I do not see my servant. Then I should do it myself!
+Death1=The floor is... dirty... It... should be... cleaned...
+
+[Npc_103170101]
+Name=Dark Dullahan Mage
+Sayhello1=For... the... queen...!
+Death1=Your majesty... please forgive...
+
+[Npc_103170107]
+Name=Gilotte
+Sayhello1=If you wish to be in the queen's presence, leave your heads here!
+RateHP60=Give me your head!
+Death1=Arrrrgh... How dare you!
+
+[Npc_103170105]
+Name=Adonia
+Sayhello1=I'm alive... I guess if you stay dead long enough it pays off.
+RateHP70=Do you want to try dying?
+RateHP40=Who knows? You may live again, too!
+Death1=Will there... be another chance?
+
+[Npc_103170108]
+Name=Monolla
+Sayhello1=I see a petty little bug has scurried in!
+RateHP70=You little maggot! How persistent!
+Death1=How can I lose to this maggot... Aaaaack!
+
+[Npc_103170104]
+Name=Black Skeleton Warrior
+Sayhello1=Who dares assassinate the queen...?!
+Death1=My queen... crackle... crackle...
+
+[Npc_103170103]
+Name=Fallen Templar
+Sayhello1=How could the likes of you attempt to kill the queen?!
+Death1=My queen... I guess this is where I bow out...
+
+[Npc_103030101]
+Name=Menacing Vengeful Spirit
+Sayhello1=Let my resentment freeze the living...!
+Death1=Was my resentment really so weak...?
+
+[Npc_103030102]
+Name=Garuda Protector
+Sayhello1=No one shall defeat me!
+RateHP60=I shall never fall!
+Death1=I cannot... fall...
+
+[Npc_103130102]
+Name=Cerdic
+Sayhello1=You... cannot... pass... me...
+Death1=Orman...
+
+[Npc_103130103]
+Name=Gerdic
+Sayhello1=You cannot pass me...
+Death1=Orman... I failed...
+
+[Npc_103130101]
+Name=Tiberious
+Sayhello1=Did you really think you could pass through here?!
+Death1=My fellow men will stop you!
+
+[Npc_103130104]
+Name=Kalligulla
+Sayhello1=Halt! You cannot go further!
+Death1=Why would someone strong as you...
+
+[Npc_103130301]
+Name=Pedro
+Sayhello1=How rude! How dare you attempt to disturb my plans?!
+RateHP30=I had reached the very verge of completion...
+Death1=Aaaagh! How regretful!
+
+[Npc_104050006]
+Name=Garuda Assault Unit
+Sayhello1=Are you in league with the Tephakin Army?
+SayHello2=The Tephakin Army is the enemy of us Garudas!
+
+[Npc_104050011]
+Name=Garuda Assault Unit
+Sayhello1=Intruders! Put down your supplies!
+
+[Npc_104050017]
+Name=Arke Pirates Assassin
+Sayhello1=Get off our airship, now!
+SayHello2=You must have a death wish, messing with the pirates!
+
+[Npc_104050302]
+Name=Garuda Assault Captain
+Sayhello1=It's time we avenge on the Tephakin Army!
+SayHello2=Stop interfering with our plan!
+
+[Npc_104050306]
+Name=Garuda Assault Leader
+Sayhello1=Kill anyone who helps the Tephakinese!
+
+[Npc_104050301]
+Name=Arke Pirate Captain
+Sayhello1=I won't let you tarnish our name!
+SayHello2=This is what we Arke Pirates live for!
+
+[Npc_104050303]
+Name=Arke Pirate Staff Captain
+Sayhello1=You're a nasty bounty hunter!
+
+[Npc_105020101]
+Name=Ice Swing Dragon
+Sayhello1=Kuuuuuu!!
+Death1=Urghhhhh......
+
+[Npc_105026102]
+Name=Dallo
+Sayhello1=You will never pass through here!
+RateHP50=Give up! You can't get past us!
+Death1=This is a... contradiction...
+
+[Npc_105020102]
+Name=Chill Pilgrim
+Sayhello1=My path shall be consumed by darkness soon!
+Death1=Ugh... Pandemonium will return...
+
+[Npc_105026101]
+Name=Runegos
+Sayhello1=The darkness of the beginning times will envelop the world once again!
+RateHP30=You puny little... Ugh...
+Death1=I see the darkness of the beginning...
+
+[Npc_105120102]
+Name=Despair Female Follower
+Sayhello1=Be consumed by darkness!
+Death1=U-ugh...! How disappointing...
+
+[Npc_105120103]
+Name=Despair Zealot
+Sayhello1=The world shall be filled with despair!
+Death1=Ugh...! You won't be able to escape from death...
+
+[Npc_105120101]
+Name=Despair Follower
+Sayhello1=Dear god of darkness! Grant fear to the infidels!
+Death1=Ugh... Dear god... please guide me...
+
+[Npc_105030306]
+Name=Mada Instigator
+Sayhello1=Kanturu will pay for its crimes!
+Death1=Ack... My revenge... has failed...
+
+[Npc_105060101]
+Name=Wild Yak Leader
+Sayhello1=Moo!
+Death1=Meh...
+
+[Npc_105030102]
+Name=Wild Wolf Pack Leader
+Sayhello1=Woof! Woof! Krrr...!
+Death1=Owwwwww!!
+
+[Npc_105030103]
+Name=Vicious Combat Beast
+Sayhello1=Krrr...!
+Death1=Wooo...
+
+[Npc_105030301]
+Name=Three-headed Dog Leader Gott
+Sayhello1=Krrr...!
+Death1=Urghhhhh......
+
+[Npc_105030303]
+Name=Three-headed Dog Leader Heron
+Sayhello1=Grrrrr....!
+Death1=Kun... kun......
+
+[Npc_105030302]
+Name=Three-headed Dog Leader Kabal
+Sayhello1=Grr... Grrrrrr...!
+Death1=Urghhhhh......
+
+[Npc_105030305]
+Name=Datans Company Commander
+Sayhello1=Slaughter everything here!
+Death1=Ugh...! Get rid of the rest...
+
+[Npc_105030101]
+Name=Cold Stone Warrior
+Sayhello1=Freeze... and become my power...
+Death1=The cold wasn't enough...
+
+[Npc_105140102]
+Name=Dio Captain
+Sayhello1=Ziiiing...
+SayHello2=System Operational. Initiation Complete.
+RateHP50=Error. Error.
+Death1=System Stop.
+
+[Npc_105140103]
+Name=Cold Stone Adult
+Sayhello1=Fre...eze... all......
+Death1=Ugh... uck...
+
+[Npc_105140101]
+Name=Giant Cold Stone
+Sayhello1=I shall freeze... this continent...
+Death1=I cannot... die yet...
+
+[Npc_105040303]
+Name=Commander Gutheline
+Sayhello1=Slaughter the invaders until none remain!
+Death1=Ugh... Retreat...!
+
+[Npc_105040304]
+Name=Yeti Pack Leader Gambu
+Sayhello1=Should I freeze you too?!
+Death1=Guh...! How dare you...
+
+[Npc_105040305]
+Name=Yeti Pack Leader Doam
+Sayhello1=Die you warm things!
+Death1=How disappointing... So disappointing...! Ugh...
+
+[Npc_105040306]
+Name=Yeti Pack Leader Radon
+Sayhello1=Come at me if you wish to die!
+Death1=How could I lose to that......
+
+[Npc_105040302]
+Name=Chill Elemental Chief
+Sayhello1=Do you not fear this land?!
+Death1=Curse you... Argh...
+
+[Npc_105160100]
+Name=Infected Lorencia Royal Army Commander
+Sayhello1=Help me...! I want to be human again!
+RateHP50=Save me...! I don't want to die!
+Death1=Guh... I have to... return... home...
+
+[Npc_105160101]
+Name=Infected Devias Senior Knight
+Sayhello1=I can't control my body...! Get away from me!
+Death1=Ugh...! Thank you for... killing me...
+
+[Npc_105160102]
+Name=Revenant of Wallkreiger Knights
+Sayhello1=I shall offer you to the emperor as a gift!
+Death1=Ugh... You will not leave here alive...
+
+[Npc_105160103]
+Name=Regenerated Wallkreiger Spirit
+Sayhello1=Let our grudge consume the world!
+Death1=Ugh...! Don't think that you've won...!
+
+[Npc_105050306]
+Name=Frozen Thorned Brown Bear Pack Leader
+Sayhello1=Grrr...!
+Death1=Grrrrr......
+
+[Npc_105040301]
+Name=Specter of Wallkreiger Sorcerer
+Sayhello1=Your Majesty, your time has come.
+Death1=The Emperor shall return!
+
+[Npc_105050101]
+Name=Frozen Leader Thorned Brown Bear
+Sayhello1=Krr... Krrr!
+Death1=Grrrrr...!
+
+[Npc_105050303]
+Name=Ice Fist Golem
+Sayhello1=Let me give you a taste of the chill.
+Death1=Guh... I shall become one with this land...
+
+[Npc_105050104]
+Name=Yeti Conqueror
+Sayhello1=I shall conquer this place!
+Death1=I guess... It's not yet time...
+
+[Npc_105050304]
+Name=Yeti Ruler
+Sayhello1=Kill everything!
+Death1=Ugh... I should've burned you along with this place...
+
+[Npc_105050105]
+Name=Mutated Yeti Conqueror
+Sayhello1=I shall stomp you down!
+Death1=Argh... I will not change alone...!
+
+[Npc_105050305]
+Name=Gem Elemental of Blood Rush
+Sayhello1=You're the reason behind my anger?!
+Death1=I will not stand still and allow myself to be beaten...! Ugh...
+
+[Npc_105050106]
+Name=Blood Rupture Gem Elemental
+Sayhello1=I shall destroy everything!
+Death1=Wait for me... I'll destroy you too... Ugh...
+
+[Npc_105050107]
+Name=Frozen Massive Skeleton Warrior
+Sayhello1=This is not a place for you!
+Death1=Ugh... How can I be defeated...
+
+[Npc_105181006]
+Name=Pandemonium Summoner
+Sayhello1=I'll get rid of you with this power of Pandemonium!
+Death1=Argh... My power is not finished...!
+
+[Npc_105050301]
+Name=Nobility Alliance Heavy Knight
+Sayhello1=The Nobility Alliance has this place surrounded!
+Death1=Ugh... All shall perish...
+
+[Npc_105050302]
+Name=Nobility Alliance Executioner
+Sayhello1=I see you want to be hanged!
+Death1=Aagh...! Today is your lucky day!
+
+[Npc_105181004]
+Name=Nobility Alliance Duke McCain
+Sayhello1=Who sent you here?!
+RateHP50=If you have nothing to hide, tell me who sent you!
+Death1=Guh... You cheater...!
+
+[Npc_105181005]
+Name=Nobility Alliance Scout
+Sayhello1=Enemy intrusion!
+SayHello2=Enemy attack! Ready your defenses!
+SayHello3=Alert! Alert! The enemy has invaded!
+SayHello4=Enemy sighted! Returning to base!
+SayHello5=Report! Enemy attack! Setup defenses!
+Death1=Ugh... He's dangerous...! Take caution!
+Death2=How strong... it's an emergency... kugh....
+Death3=Aagh
+
+[Npc_105060106]
+Name=Combat Wolf Leader
+Sayhello1=Krrrrr!
+Death1=Owwwwww......
+
+[Npc_105060103]
+Name=Gray Thorned Bear Leader
+Sayhello1=Grrr... Garrrrh!
+Death1=Prrr...
+
+[Npc_105060303]
+Name=Nobility Alliance Intelligence Officer
+Sayhello1=Anyone here! Protect me!
+RateHP60=Die instead of me!
+Death1=Kugh... how useless...
+
+[Npc_105060102]
+Name=Silver Boar Pack Leader
+Sayhello1=Krrrruugh!!
+Death1=Grr... Grrrrrr.....
+
+[Npc_105060104]
+Name=Bull Horn Warrior Light Armor Captain
+Sayhello1=Grounders... Kill!
+Death1=Ugh... No forgive!
+
+[Npc_105210101]
+Name=Ice Storm Golem
+Sayhello1=Hand over your life if you want to pass through here...!
+Death1=Ugh...! I shall see you to the very end...
+
+[Npc_105210003]
+Name=Succubus
+Sayhello1=Oh! Grounders! That's why you smelled so tasty.
+Death1=Ugh... You killed me... I'll make you regret it...
+
+[Npc_105210102]
+Name=Crystal Succubus
+Sayhello1=You woke me up with your sweet pheromones... I applaud your bravery.
+Death1=Ugh... I shall eat you next time...!
+
+[Npc_105070306]
+Name=Keru Troika Commander Manchi
+Sayhello1=Yikes, how dangerous! Kill!
+Death1=Aaagh! Too strong...!
+
+[Npc_105070307]
+Name=Keru Troika Commander Gunta
+Sayhello1=You won't be able to pass through here!
+Death1=That was a strong one... Ugh...
+
+[Npc_105070308]
+Name=Keru Troika Commander Shiru
+Sayhello1=You're trying to reach Dracanem? Hmph, no way!
+Death1=Aaaack... What a coward...!
+
+[Npc_105070301]
+Name=Nobility Alliance Commander
+Sayhello1=How dare a peasant like you try and stop our plans!
+Death1=Ack, ugh... how could such a low life mutt...
+
+[Npc_105230105]
+Name=Prisoner No. 2007
+Sayhello1=No one can stop me now!
+Death1=Arghh... It's Impossible...!
+
+[Npc_105230106]
+Name=Prisoner No. 2015
+Sayhello1=I paid off my sin!
+Death1=Ugh... Have I still not been cleansed of my sins?
+
+[Npc_105230101]
+Name=Prisoner No. 1264
+Sayhello1=I am free!
+RateHP50=No...! I am finally free!
+Death1=I had just had my first taste of freedom... ugh...
+
+[Npc_105230103]
+Name=Mada Commander
+Sayhello1=My fellow people! Let loose and go wild!
+Death1=Ugh...! Kill... him...
+
+[Npc_105230102]
+Name=Gremlin Giant Chief
+Sayhello1=Meat... Walking... Want it!
+Death1=I'm... hungry...
+
+[Npc_105230104]
+Name=Skeleton Warrior Commander Prisoner
+Sayhello1=How dare you bind me here... I will never forgive you!
+Death1=Aaaack... How unfair...!
+
+[Npc_105080301]
+Name=Massive Ice Shama
+Sayhello1=Kulg... Kulg...!
+Death1=Grrrrr....
+ChantStart=5
+ChantEnd=7
+
+[Npc_105080102]
+Name=Giant Vitarus
+Sayhello1=Grrr...!!
+Death1=Krrrrr......
+
+[Npc_105080312]
+Name=King Vitarus
+Sayhello1=Grr... Grrrrrr!!
+Death1=Grrrrr...Grr......
+
+[Npc_105080103]
+Name=Fin Dragon Knight
+Sayhello1=Gwaaaaah...!
+Death1=Urghhhhh......
+
+[Npc_105080104]
+Name=King Ghost Dragon
+Sayhello1=Kukukukuku!!!!
+Death1=Kyaa... Grrrrr......
+
+[Npc_105080313]
+Name=Snak Dragon Queen
+Sayhello1=Kwaaaaah!! (How dare you touch my eggs!!)
+Death1=Urghhhhh......
+
+[Npc_105080311]
+Name=Ice Gremlin Commander Hero
+Sayhello1=What is it now? Kill him too! Kihehehe!
+Death1=Ugh...! How can I lose!!
+
+[Npc_105260103]
+Name=Hell Stalk Queen
+Sayhello1=Those who resent me will face only death.
+Death1=Ugh... How dare you resist me...
+
+[Npc_105260102]
+Name=Nightmare Giant Gremlin
+Sayhello1=Kuuooooo! Death to those who oppose Pandemonium!
+Death1=You shall taste death as I did...! Ugh...
+
+[Npc_105260101]
+Name=Blood Rupture Succubus
+Sayhello1=Come, source of my life!
+Death1=Argh... I will seek you again...
+
+[Npc_105280101]
+Name=Blood Rupture Succubus
+Sayhello1=My prey came here all on its own!
+Death1=Aagh...! You will regret this...
+
+[Npc_105280104]
+Name=Queen Cannibal Flying Bug
+Sayhello1=Kyaaaa! You look delicious!
+Death1=Aaaack... Too bad I didn't get to taste you...
+
+[Npc_105280103]
+Name=Devil Wizard Master
+Sayhello1=Nightmares, torture their mind!
+Death1=You will not be able to act as you please... Ugh...
+
+[Npc_105280102]
+Name=Pandemonium Special Forces Knight Commander
+Sayhello1=Darkness shall be my power!
+Death1=Ugh... How could I lose to such low lives...
+
+[Npc_421]
+Name=Muren (Devias Headquarters)
+Greeting1=At Devias, we appoint talent regardless of status.
+Greeting2=Devias Knights are the strongest on the continent.
+Greeting3=Yes, did you call me?
+
+[Npc_453]
+Name=Muren (Mining Gorge)
+Greeting1=At Devias, we appoint talent regardless of status.
+Greeting2=Devias Knights are the strongest on the continent.
+Greeting3=Yes, did you call me?
+
+[Npc_489]
+Name=Muren (Sanctum of the Elders)
+Greeting1=At Devias, we appoint talent regardless of status.
+Greeting2=Devias Knights are the strongest on the continent.
+Greeting3=Yes, did you call me?
+
+[Npc_501]
+Name=Muren (Battlefield 1)
+Greeting1=Yes, did you call me?
+
+[Npc_502]
+Name=Muren (Battlefield 2)
+Greeting1=Yes, did you call me?
+
+[Npc_503]
+Name=Muren (Battlefield 3)
+Greeting1=Yes, did you call me?
+
+[Npc_528]
+Name=Muren (Wallkreiger Royal Tomb)
+Greeting1=Yes, did you call me?
+
+[Npc_105250202]
+Name=Muren (Prison Camp)
+
+[Npc_105250210]
+Greeting1=Yes, did you call me?
+
+[Npc_105340501]
+Name=Muren (Pit of Nightmare North)
+Greeting1=Yes, did you call me?
+
+[Npc_338]
+Name=Chaisong (Chaisong Abode)
+Greeting1=I am Chaisong, Captain of the Dracans Knights. Also known as Iron Arm Chaisong.
+Greeting2=Wait... if that's ale you've got, would you mind sharing it?
+Greeting3=What is it?
+
+[Npc_488]
+Name=Chaisong (Sanctum of the Elders)
+Greeting1=I am Chaisong, Captain of the Dracans Knights. Also known as Iron Arm Chaisong.
+Greeting2=Wait... if that's ale you've got, would you mind sharing it?
+Greeting3=What is it?
+
+[Npc_507]
+Name=Chaisong (Battlefield 1)
+Greeting1=I am Chaisong, Captain of the Dracans Knights. Also known as Iron Arm Chaisong.
+Greeting2=Wait... if that's ale you've got, would you mind sharing it?
+Greeting3=What is it?
+
+[Npc_508]
+Name=Chaisong (Battlefield 2)
+Greeting1=I am Chaisong, Captain of the Dracans Knights. Also known as Iron Arm Chaisong.
+Greeting2=Wait... if that's ale you've got, would you mind sharing it?
+Greeting3=What is it?
+
+[Npc_509]
+Name=Chaisong (Battlefield 3)
+Greeting1=I am Chaisong, Captain of the Dracans Knights. Also known as Iron Arm Chaisong.
+Greeting2=Wait... if that's ale you've got, would you mind sharing it?
+Greeting3=What is it?
+
+[Npc_578]
+Name=Chaisong (Dracanem)
+Greeting1=What is it?
+
+[Npc_105250211]
+Name=Chaisong (Prison Camp)
+Greeting1=What is it?
+
+[Npc_105340502]
+Name=Chaisong (Prison Camp)
+Greeting1=What is it?
+
+[Npc_438]
+Name=Kali (Sanguine Highlands)
+Greeting1=I am ready to even sell my soul to the devil for Tephakin.
+Greeting2=My wish is to be free from Lorencia occupation.
+Greeting3=Do you have anything else?
+
+[Npc_504]
+Name=Kali (Battlefield 1)
+Greeting1=I am ready to even sell my soul to the devil for Tephakin.
+Greeting2=My wish is to be free from Lorencia occupation.
+Greeting3=Do you have anything else?
+
+[Npc_505]
+Name=Kali (Battlefield 2)
+Greeting1=I am ready to even sell my soul to the devil for Tephakin.
+Greeting2=My wish is to be free from Lorencia occupation.
+Greeting3=Do you have anything else?
+
+[Npc_105280503]
+Name=Kali (Pit of Nightmare)
+Greeting1=Do you have anything else?
+
+[Npc_105340503]
+Name=Kali (Pit of Nightmare Event)
+Greeting1=Do you have anything else?
+
+[Npc_352]
+Name=Estesia (Wilderness)
+Greeting1=We Kanturians must establish friendship with other races.
+Greeting2=What is it?
+
+[Npc_358]
+Name=Estesia (First)
+Greeting1=We Kanturians must establish friendship with other races.
+Greeting2=What is it?
+
+[Npc_368]
+Name=Estesia (Western)
+Greeting1=We Kanturians must establish friendship with other races.
+Greeting2=What is it?
+
+[Npc_602]
+Name=Kelbra (Abode)
+Greeting1=My stepfather saved me from the verge of death. I am still grateful for it.
+Greeting2=Oh, what's the matter?
+Greeting3=Disgusting reptiles...!
+
+[Npc_512]
+Name=Kelbra (Abode)
+Greeting1=My stepfather saved me from the verge of death. I am still grateful for it.
+Greeting2=Oh, what's the matter?
+Greeting3=Disgusting reptiles...!
+
+[Npc_1219]
+Name=Zakarian (Bredrice Plains)
+Greeting1=A strong chaos resides within your body.
+Greeting2=I think that true purification can be achieved through darkness.
+Greeting3=Death can lead to eternal life.
+
+[Npc_1227]
+Name=Icarus (Bredrice Plains)
+Greeting1=Life means nothing without the pursuit of truth, doesn't it?
+Greeting2=Huh? Are you looking for me?
+
+[Npc_101]
+Name=Kundun (Ohrdor)
+Greeting1=Just because the threads are untangled, doesn't mean destiny has changed.
+Greeting2=How much influence do you think you have on the world?
+Greeting3=What is your business with me?
+
+[Npc_436]
+Name=Kyle (Sanguine Highlands)
+Greeting1=How boring. I really want to do something...
+
+[Npc_487]
+Name=Kyle (Sanctum of the Elders)
+Greeting1=How boring. I really want to do something...
+
+[Npc_516]
+Name=Kyle (War Shelter)
+Greeting1=We simply follow orders of Sir Kundun.
+
+[Npc_426]
+Name=Harry (Wallkreiger Ruins)
+Greeting1=Don't think of me as some kind of geek. I may look this way, but I'm a full-time employee of Devias.
+Greeting2=Do you require my knowledge of history?
+
+[Npc_460]
+Name=Harry (Wallkreiger Ruins)
+Greeting1=Don't think of me as some kind of geek. I may look this way, but I'm a full-time employee of Devias.
+Greeting2=Do you require my knowledge of history?
+
+[Npc_574]
+Name=Chairman Quadro (Sanctum of the Elders)
+Greeting1=This is a holy place, outsider. Do not cause trouble.
+Greeting2=Drapia shall be decided by the will of the elders...
+
+[Npc_357]
+Name=Kalak (First)
+Greeting1=One day, Kalak will regain its former glory...
+Greeting2=You outsiders will never set foot on this land.
+
+[Npc_367]
+Name=Kalak (Western)
+Greeting1=One day, Kalak will regain its former glory...
+Greeting2=You outsiders will never set foot on this land.
+
+[Npc_208]
+Name=Leo (Amberial Forest)
+Greeting1=I shall not forgive those who disgrace Lorencia.
+Greeting2=Lorencia will provide unwavering support for the troubled Dudrin.
+
+[Npc_264]
+Name=Leo (Dudrin City)
+Greeting1=I shall not forgive those who disgrace Lorencia.
+Greeting2=Lorencia will provide unwavering support for the troubled Dudrin.
+
+[Npc_102110002]
+Name=Leo (Titan Excavation Site)
+Greeting1=I shall not forgive those who disgrace Lorencia.
+
+[Npc_1260]
+Name=Leo (Titan Excavation Site)
+Greeting1=I shall not forgive those who disgrace Lorencia.
+
+[Npc_116]
+Name=Ramotu (Ohrdor)
+Greeting1=What, you want to hear some of my tales of glory?
+Greeting2=I feel restless. Perhaps I should beat on an anvil a little.
+
+[Npc_802]
+Name=Ramotu (Enova)
+Greeting1=What, you want to hear some of my tales of glory?
+Greeting2=I feel restless. Perhaps I should beat on an anvil a little.
+
+[Npc_1231]
+Name=Lunedill (Karolsandria)
+Greeting1=My arrow shall pierce through your soul...
+Greeting2=As the Princess, I promise that Noria will help you.
+Greeting3=What is it?
+
+[Npc_1240]
+Name=Lunedill (Salormis)
+Greeting1=My arrow shall pierce through your soul...
+Greeting2=As the Princess, I promise that Noria will help you.
+Greeting3=What is it?
+
+[Npc_801]
+Name=Iris (Amberial Forest 1)
+Greeting1=I look young? Do you even know how old I am?
+Greeting2=Hiding in the shadow and moving like a ghost, that is Shadow Phantom.
+Greeting3=What is it?
+
+[Npc_805]
+Name=Iris (Amberial Forest 2)
+Greeting1=I look young? Do you even know how old I am?
+Greeting2=Hiding in the shadow and moving like a ghost, that is Shadow Phantom.
+Greeting3=What is it?
+
+[Npc_102110003]
+Name=Iris (Heath Mine)
+Greeting1=What is it?
+
+[Npc_201]
+Name=Human Mayor (Dudrin City)
+Greeting1=There is an old legend about the Heath Mine... It's a story about a stone statue with a monster form.
+
+[Npc_205]
+Name=Ilina (Dudrin City)
+Greeting1=Are you here for the contract knight position?
+
+[Npc_103014001]
+Name=Country Rat
+Sayhello1=Squeak... Squeak... (The countryside is the best!)
+SayHello2=Squeak... Squeak... (There's no place like home.)
+Greeting1=Squeak!!! (It's not safe here, either.)
+Greeting2=Squeak!!! (Did ya miss me?!)
+
+[Npc_199014001]
+Name=Guard Captain
+Sayhello1=All Guilds are able to build an Airship.
+SayHello2=The Guild level is too low to build an Airship.
+Greeting1=You just have to level up the Airship level quickly.
+
+[Npc_199014006]
+Name=Airship Captain
+Sayhello1=Welcome to the airship.
+Greeting1=I am the captain of this airship. I take full responsibility for her operations.
+
+[Npc_199014007]
+Name=Engine Room Manager
+Sayhello1=The engine room is off limits.
+Greeting1=Why do you want to enter the engine room?
+
+[Npc_199014008]
+Name=Command Center Manager
+Sayhello1=This area is restricted.
+Greeting1=Do you have an appointment with the captain?
+Greeting2=Only high-rank officers are allowed to enter.
+
+[Npc_199018101]
+Name=Airship Guide
+Sayhello1=Please use the Portal Stone on the side to head to Ohrdor.
+Greeting1=We'll take you safely to your destination.
+
+[Npc_199014009]
+Name=Country Rat
+Sayhello1=Squeak... (This ship has a lot of food!)
+Greeting1=Squeak!!! (I should've returned to the countryside...)
+
+[Npc_199014010]
+Name=City Rat
+Sayhello1=Squeak... Squeak... (Help yourself! This is what I call paradise!)
+Greeting1=Squeak!!! (I was prepared to be caught.)
+
+[Npc_199014011]
+Name=Manager
+Sayhello1=Oh, Mice really give me a headache.
+SayHello2=I'll be happy if you catch them for me.
+Greeting1=Mouse... Mouse... Mouse... Mouse... Baby Baby Mouse...
+Greeting2=Managing a ship is tough
+
+[Npc_104030001]
+Name=Suspicious Dark Follower
+Sayhello1=Shhh, be quiet. No one can know who we are.
+
+[Npc_104030002]
+Name=Suspicious Dark Follower
+Greeting1=Soon darkness will befall this world.
+
+[Npc_104030003]
+Name=Groom
+Sayhello1=I guess it's time for us to turn back...
+Greeting1=Now, this is where the hardship begins...
+
+[Npc_104030004]
+Name=Bride
+Sayhello1=I can't believe our honeymoon is already over.
+Greeting1=Ohrdor was amazing! I want to come back sometime.
+
+[Npc_108]
+Name=Port Manager
+Sayhello1=Welcome to Ohrdor.
+Greeting1=Please let me know if there's anything I can do to make your visit more comfortable.
+
+[Npc_104038102]
+Name=Airship Guide
+Sayhello1=If you want to get on the airship, please use the Portal Stone next to me.
+Greeting1=We'll take you safely to your destination.
+Greeting2=Your chance of landing on a wrong destination is less than 1%, so don't worry.
+
+[Npc_104030006]
+Name=Cuisine Researcher
+Sayhello1=I have to succeed in Ohrdor...
+Greeting1=I just started my business. I'm nervous to see if it'll go well.
+
+[Npc_104030007]
+Name=Boy
+Sayhello1=I'm going to become the captain of that ship!
+
+[Npc_104030009]
+Name=Tutu
+Sayhello1=I am not going to move until you listen to me.
+Greeting1=Why is he always against everything I do?
+
+[Npc_104030010]
+Name=Toto
+Sayhello1=I won't move until we go to the airship first.
+Greeting1=I mean, isn't it obvious that we go to the airship first?
+
+[Npc_104030011]
+Name=Outline
+Sayhello1=Who will I pass on the title of Best Gladiator to?
+Greeting1=Want to be listed up here? Then come first in any category.
+
+[Npc_104030012]
+Name=Waving Boy
+Sayhello1=Me! Me! I want it!
+
+[Npc_104030013]
+Name=Waving Boy
+Sayhello1=I want to go up there too!
+
+[Npc_8153]
+Name=Estrada
+Sayhello1=That ranker is so cool.
+Greeting1=Is there any way to get in touch with him?
+
+[Npc_104030014]
+Name=Bruper
+Sayhello1=This is the private property of Dumpain.
+Greeting1=Please stay quiet.
+Greeting2=Please do not disturb Dumpain.
+
+[Npc_104030015]
+Name=Loudo
+Sayhello1=This is the bridge that grants wishes, right?
+Greeting1=Did you come here to make a wish too?
+Greeting2=Please let us be in love forever.
+
+[Npc_104030016]
+Name=Oseliu
+Sayhello1=What're you going to wish for?
+Greeting1=Do you even believe in the Bridge of Wishes?
+Greeting2=I wish this stupid bridge would disappear.
+
+[Npc_104030017]
+Name=Mouse
+Sayhello1=Squeak Squeak
+Greeting1=Squeak!!!
+
+[Npc_104030018]
+Name=Mouse Catcher Boy
+Sayhello1=Oh, how frustrating! Someone catch that blasted mouse!
+Greeting1=Did you get it? Did you get it!!??
+Greeting2=You idiot! If you can't even catch a mouse, just go run off to the rye field!
+
+[Npc_104030019]
+Name=Briston
+Sayhello1=I know the names of two bridges!
+Greeting1=The bridge on the right side is called the Bridge of Wishes.
+Greeting2=The one on the left side, the Bridge of Luck.
+
+[Npc_104030020]
+Name=Chatu
+Sayhello1=How rich is Mayor Dumpain?
+
+[Npc_104030021]
+Name=Liuleu
+Sayhello1=The people who work there probably make a lot money, right?
+
+[Npc_104030022]
+Name=Rugard Priest
+Sayhello1=Rugard is always with us.
+
+[Npc_104030024]
+Name=Bulcan Priest
+Sayhello1=Worship Bulcan! For fighting spirit and pride!
+
+[Npc_104030029]
+Name=Center Manager
+Sayhello1=Welcome to the central area.
+Greeting1=Please let me know if there's anything I can do to make your visit more comfortable.
+
+[Npc_104030030]
+Name=Commercial Manager
+Sayhello1=Welcome to the commercial area.
+Greeting1=Please let me know if there's anything I can do to make your visit more comfortable.
+
+[Npc_104030031]
+Name=Prelcarter
+Sayhello1=Rift Research Society has occupied the streets again.
+Greeting1=Could you get them out of here?
+
+[Npc_104030032]
+Name=General Manager
+Sayhello1=We safeguard Ohrdor's security.
+SayHello2=Ohrdor is safe as long as we live.
+Greeting1=We always welcome new recruits.
+Greeting2=Have you ever thought about being a professional soldier?
+
+[Npc_104030033]
+Name=Gate Manager
+Sayhello1=This place is off limits.
+SayHello2=Some daredevils like to go where they shouldn't.
+Greeting1=You need a pass if you want to enter this area.
+Greeting2=Please stay away from this place. It's dangerous.
+
+[Npc_119]
+Name=Suspicious Garuda
+Sayhello1=Scram! Don't hang around here!
+Greeting1=This place always smells terrible.
+
+[Npc_120]
+Name=Suspicious Kobold
+Sayhello1=Hey, got some money?
+Greeting1=What are you? Do you want to get robbed clean, too?
+
+[Npc_121]
+Name=Ohrdor Guard Captain
+Sayhello1=Leave Ohrdor's security to us.
+SayHello2=Ohrdor is safe as long as we exist.
+Greeting1=Don't hesitate to let us know if you see suspicious people in the city.
+Greeting2=Why is there so much paperwork?
+
+[Npc_162]
+Name=Grande
+Sayhello1=The discovery of the Labyrinth introduced the presence of Artifacts on the Mu Continent.
+SayHello2=Look at this giant Rift Storm... This world is truly full of surprises.
+Greeting1=The Rift Research Society always put great emphasis on its coexistence with all adventurers.
+Greeting2=The Labyrinth is an uncharted territory that has not yet been researched.
+
+[Npc_8435]
+Name=Hyre
+Greeting1=Welcome to the Rift Research Society.
+Greeting2=It's hidden, and entry is by invite only.
+Greeting3=To my right is the reference room. Behind me is the lab.
+
+[Npc_8436]
+Name=Ross
+Greeting1=Hm... Please stop talking to me. I'm thinking.
+Greeting2=Argh, who left so many Magic Gems scattered around here?
+Greeting3=I'm just going to throw these Magic Gems away!
+
+[Npc_9102]
+Name=Mukler
+Greeting1=The Rift... A place full of endless possibilities...
+Greeting2=Is the Rift connected to the future or the past?
+Greeting3=The Rift... I'll conquer it one day...
+Greeting4=Sigh, Luery keeps trying to put me on different??supposedly more lucrative??research project.
+
+[Npc_9101]
+Name=Luery
+Greeting1=Hoho! Customer...? Where are you looking at?
+Greeting2=That Mukler. Maybe I should lock him up, so he can't go anywhere.
+
+[Npc_9117]
+Name=Schurak
+Greeting1=Heh heh, I'm just an errand runner, but I make a lot of money.
+Greeting2=Those fellows at the Rift Research Society pay me lots of money. They must have more money than they can spend in a lifetime.
+
+[Npc_174700000]
+Name=Lucky Magic Gems Goblin
+Sayhello1=I am! Very hard! bli!
+Death1=Green... Too... much... food... bli...
+
+[Npc_103010042]
+Name=Kobold Ambusher
+Spawn1=I got you, you fool! Attack!
+
+[Npc_105030037]
+Name=Glass Golem Captain
+Spawn1=Grr! What are you doing?
+
+[Npc_105070041]
+Name=Witch Spirit
+Spawn1=We can't be appeased so easily!
+
+[Npc_104080512]
+Name=Raina
+Greeting1=Process the power of Odyssey Crystals to endow your equipment with the power of Transcendence.
+
+[Npc_104080501]
+Name=Durov
+Sayhello1=This new airship I'm developing is the essence of science and magic of the MU Continent.
+Greeting1=Soon airships will dominate the sky, and traveling across dimensions will be no longer just a daydream!
+
+[Npc_104080502]
+Name=Duropan
+Sayhello1=The world's first airship was launched just a while ago, and we're already talking about traveling to another dimension on it.
+Greeting1=The Odyssey Gauntlet has such a strong recoil that it blew up hundreds of airships.
+
+[Npc_104080503]
+Name=Barbara
+Sayhello1=I'm working with the Rift Research Society to develop an interdimensional travel technology.
+Greeting1=I don't know why Durov thinks so highly of the Society's technology. Everything I've heard about it is exaggerated.
+
+[Npc_104080504]
+Name=Misteltein
+Sayhello1=This world is in peril. We can't wait any longer.
+Greeting1=We must make a move first.
+
+[Npc_104080505]
+Name=Durandir
+Sayhello1=The recent Lorencia Treaty has declared the Habang Continent free for all.
+Greeting1=To join the Faction War Tournament, you must create a raid team
+Greeting2=Join forces with your raid team members and become a glorious winner in the Faction War.
+
+[Npc_104080506]
+Name=Saber
+Sayhello1=Every race and state in the world has formed this expedition group to prepare against Pandemonium's assaults.
+Greeting1=It's time we invade Pandemonium.
+
+[Npc_104080507]
+Name=Gladius
+Sayhello1=Now that the Habang Continent is declared free for all, adventurers must be itching to get there before the others.
+Greeting1=Join forces with your comrades and rise to the great challenge that faces you. Good luck.
+
+[Npc_104080508]
+Name=Barisada
+Sayhello1=Skill is more important than bravery. Are you skilled enough?
+Greeting1=If you ask me, well...
+
+[Npc_104080509]
+Name=Claymore
+Sayhello1=The Pandemonium Expedition Group will start to recruit knights soon. You'd better get ready.
+Greeting1=Before you dream about conquering a new dimension, you should try to become the best in this world first.
+
+[Npc_104080510]
+Name=Grande
+Sayhello1=The Rift Research Society is providing the Expedition Group with its Odyssey Gauntlet technology for the peace of the MU Continent.
+Greeting1=Don't you know what the Odyssey Gauntlet is? It's the engine used in airships.
+
+[Npc_104080511]
+Name=Mukler
+Sayhello1=Why do they act as if they know everything? Can't they just do what they're told?
+Greeting1=The peace of the MU Continent? Peace, my butt. I hate liars!
+
+[Quest_5001]
+StartQuest1=The Demons have resurfaced for the first time in two hundred years...
+StartQuest2=Why?
+GreetingQuest1=I can't identify this energy...
+GreetingQuest2=I should report this to Leo.
+
+[Quest_5002]
+StartQuest1=Is she an elf?
+GreetingQuest1=I can't destroy it.
+GreetingQuest2=Maybe it can't be destroyed by physical force alone.
+
+[Quest_5003]
+StartQuest1=I didn't know the pathway that connects Pandemonium to this realm was so powerful.
+
+[Quest_5004]
+StartQuest1=Rarbas have entered the tunnel at last. This is my fault.
+StartQuest2=I didn't get rid of all the explosives in the Amberial Forest.
+CompleteQuest1=Duprian, he's a natural leader.
+
+[Quest_5005]
+StartQuest1=He was sealed away after the Three Year War. It's going to be a tough battle.
+Mission2_1=What's this? Did it belong to Glasha?
+
+[Quest_5007]
+StartQuest1=
+StartQuest2=
+
+[Quest_5008]
+StartQuest1=Through Evil Energy, like they did in Enova.
+StartQuest2=Bredrice Plains must be in shambles by now.
+
+[Quest_5009]
+StartQuest1=If this holy water purges the Dark Reaper, then it proves I'm no member of the Mission.
+StartQuest2=This'll be Zakarian's penultimate test. If I pass, I'll be able to remember everything!
+
+[Quest_5013]
+StartQuest1=Follow me, Tephakin warriors!
+
+[Quest_5014]
+StartQuest1=
+StartQuest2=
+Mission2_1=What is this crystal..? Does it belong to Orman...
+
+[Quest_1]
+StartQuest1=
+StartQuest2=
+
+[Quest_2]
+StartQuest1=
+
+[Quest_3]
+StartQuest1=
+StartQuest2=
+Mission1_1=Now I'm a knight for hire in who-knows-where.
+Mission1_2=Why are the animals mutating?
+Mission2_2=
+Mission3_1=
+Mission3_2=
+GreetingQuest1=
+GreetingQuest2=
+GreetingQuest3=
+CompleteQuest1=
+
+[Quest_11]
+StartQuest1=So this place, Dudrin, is a dominion of the Lorencia Kingdom.
+StartQuest2=What does the Lorencia Royal Army do?
+Mission1_1=These spiders are also mutating rapidly.
+Mission1_2=
+Mission2_1=Now that I've destroyed their eggs, at least their number shouldn't increase for a while.
+Mission2_2=
+Mission3_1=
+Mission3_2=
+GreetingQuest1=
+GreetingQuest2=
+GreetingQuest3=
+CompleteQuest1=
+
+[Quest_12]
+Mission1_1=The mutant spiders are no longer a threat to Dudrin.
+Mission1_2=I wonder if Scout Royce is all right.
+Mission2_1=
+Mission2_2=
+Mission3_1=
+Mission3_2=
+GreetingQuest1=
+GreetingQuest2=
+GreetingQuest3=
+CompleteQuest1=
+
+[//Quest_13]
+StartQuest1=Please be careful, Royce.
+StartQuest2=As I thought, Dudrin is a dominion of the Lorencia Kingdom.
+
+[Quest_13]
+Mission1_1=Mutants threaten the peace of Dudrin, and yet the Lorencia Kingdom Army wants spider legs.
+Mission1_2=The Lorencia Kingdom Army... Are they out of their minds?
+
+[//Quest_14]
+Mission1_1=Get yourself together and return to Lorencia...!
+
+[Quest_15]
+Mission1_1=Shama's intestines... Can they really be used as medicine?
+
+[Quest_24]
+StartQuest1=They've set up explosives above the tunnel connected to Dudrin.
+StartQuest2=They're planning to invade Dudrin through the tunnel.
+
+[Quest_33]
+StartQuest1=I've gotten myself into a war that has nothing to do with me.
+
+[Quest_16]
+StartQuest1=So these people believe in a god named Rugard...
+StartQuest2=Why isn't Rugard intervening in this situation already?
+
+[Quest_18]
+StartQuest1=The Humans, Dwarves, and Elves comprise the Heraus Coalition.
+StartQuest2=I wonder what races are in the opposing Line Alliance.
+
+[Quest_19]
+Mission1_1=Evil Energy even affects plants.
+
+[Quest_21]
+StartQuest1=Royce... Where the hell is it?
+
+[Quest_23]
+StartQuest1=Rarbas... What are they up to?
+Mission1_1=What's this? It looks like a component of something.
+
+[Quest_28]
+StartQuest1=There are detonators. I can stop the explosion if I hurry.
+Mission1_1=Phew, I think I've disarmed them all.
+
+[Quest_32]
+StartQuest1=On, no! It's not Dudrin they're after!
+Mission1_1=No time to lose – got to alert the Weiss Basin that their mine's in danger.
+
+[Quest_29]
+StartQuest1=The mine is Dudrin's main source of income. Without it, the city won't survive.
+StartQuest2=Those Pandemonium lowlifes are stronger than I thought.
+
+[Quest_30]
+StartQuest1=I can't believe the Dwarves have a degenerate like that as their leader.
+
+[Quest_35]
+StartQuest1=He's going to run. I've misjudged him.
+
+[Quest_102]
+StartQuest1=Time's short, but I'd better rescue the miners here first.
+Mission1_1=They can't hurt the miners anymore.
+
+[Quest_103]
+Mission2_1=This should be enough to put out the fire.
+
+[Quest_104]
+Mission1_1=Phew, it's finally been put out.
+
+[Quest_105]
+StartQuest1=In the meantime, I'll scatter the Keru Legion before it gets close to the center of the basin.
+StartQuest2=The enemy has enough soldiers to isolate the Weiss Basin.
+
+[Quest_108]
+StartQuest1=Linda... I can't stop worrying about her.
+Mission1_1=There's no trace of Linda anywhere.
+
+[Quest_135]
+StartQuest1=It's too late. Now we'll just have to ambush them.
+Mission1_1=It's too late. They've already finished building their base.
+Mission1_2=I'll have to go to the Karmatan Mine and join Duprian.
+
+[Quest_136]
+StartQuest1=I can't believe she risked her life to come and see me.
+
+[Quest_137]
+StartQuest1=I don't know if I can live up to their expectations...
+
+[Quest_111]
+StartQuest1=They've reunited with the Pandemonium Army. Are they planning to hit the Karmatan Mine?
+Mission1_1=These severed heads will prove that the Goblins participated in the war.
+
+[Quest_112]
+StartQuest1=I'll show you what hell looks like, filthy goblins!
+Mission1_1=You're homeless now.
+Mission2_1=This is the price you pay for siding with Pandemonium again.
+Mission3_1=There are too few soldiers. Something seems off.
+
+[Quest_113]
+StartQuest1=If I can find their battle plan, I'll know what they're up to.
+
+[//Quest_113]
+Mission1_1=They've split it into three pieces.
+
+[Quest_115]
+StartQuest1=This is ridiculous…
+
+[Quest_116]
+StartQuest1=On, no! If Duprian falls, Dudrin will follow!
+Mission1_1=This is for trying to kill Duprian.
+Mission1_2=I'm going to the Karmatan Mine. I have to meet Duprian.
+
+[Quest_118]
+StartQuest1=They're surrounding the mine—why haven't they attacked yet?
+Mission1_1=There's nothing here, except those strange-looking statues.
+
+[Quest_120]
+StartQuest1=Royce might know why they want to isolate Karmatan.
+Mission1_1=This should have bought Duprian enough time to escape.
+
+[Quest_121]
+StartQuest1=Karmatan wasn't their target. Duprian was.
+Mission1_1=Civilians...! Those brutes killed any who resisted.
+Mission2_1=Bah, I can't find any clues.
+
+[Quest_131]
+StartQuest1=Were they sealed in with their master?
+Mission1_1=Whoah! Glasha's lieutenants were just as tough as their master.
+
+[Quest_138]
+StartQuest1=They're a major player in Dudrin. They should know about the wagons.
+
+[Quest_124]
+StartQuest1=This has something to do with the wagons that took those civilians.
+StartQuest2=Why did they steal the mine blueprint?
+Mission1_1=This must be the blueprint.
+
+[Quest_126]
+StartQuest1=Their ultimate target was the Heath Mine! But why?!
+Mission1_1=The Mining Association President and I are now even.
+Mission1_2=The Eastern Post oversees the Heath Mine.
+
+[Quest_128]
+StartQuest1=Why did they drag the miners to the death pit? Better search for some clues.
+Mission1_1=What's this? Looks important.
+
+[Quest_201]
+StartQuest1=Is this the place? Can regain my memory here?
+
+[Quest_202]
+StartQuest1=Duprian... I miss that name.
+
+[Quest_207]
+StartQuest1=Those Pandemonium scoundrels haven't given up on invading this realm yet.
+StartQuest2=A journey to another continent.
+
+[Quest_203]
+StartQuest1=Kundun Mephis, the ruler of the Media Kingdom and one of the great sages...
+StartQuest2=Can he help me regain my memory? I hope so...
+
+[Quest_301]
+StartQuest1=So they're not just ordinary farmhouses...
+StartQuest2=Anyway, I'd better help the workers evacuate.
+
+[Quest_311]
+StartQuest1=A large-scale invasion. This is war.
+StartQuest2=I need to buy time to let the farm workers evacuate.
+Mission1_1=Why're they using stone throwers to attack the plains?
+
+[Quest_312]
+StartQuest1=Maybe I should ask someone in the army for help with the evacuation.
+Mission1_1=The Evil Energy is mutating the creatures around here.
+
+[Quest_314]
+StartQuest1=So, this is Zakarian's first test to help me regain my memory...
+StartQuest2=I need to find Pandemonium Army Commander Sezak.
+Mission1_1=I've found Sezak's orders.
+
+[Quest_315]
+StartQuest1=Dumpain... Mayor of Ohrdor...
+StartQuest2=Why did he send the army to the Black Farm?
+
+[Quest_332]
+StartQuest1=Sezak is in the vestibule. Vestibule...
+StartQuest2=Time to stop this legion of Gnolls that have descended upon the Central Base.
+
+[Quest_318]
+StartQuest1=Those damned Kobolds poisoned the grain!
+StartQuest2=Got to find the abandoned poison extractors.
+Mission1_1=Is this a deadly poison extractor?
+
+[Quest_320]
+StartQuest1=Use an extractor to get some of the poison,
+StartQuest2=and the Ohrdor Lab can formulate an antidote with it.
+Mission1_1=What's this mark for?!
+
+[Quest_333]
+CompleteQuest1=Fool me again, and you won't live to see another day.
+
+[Quest_322]
+StartQuest1=She doesn't know where the vestibule is.
+StartQuest2=I'd better stop the smoke signal first.
+Mission1_1=Phew, I stopped the smoke signal before the Kobold Legion could see it.
+
+[Quest_324]
+StartQuest1=Like the cursed rat that he is, he's hiding in his lackey's hangout.
+StartQuest2=Zakarian's second test is to get rid of him.Wait for me, Sezak.
+Mission1_1=Bah, Sezak isn't here anymore.
+
+[Quest_329]
+CompleteQuest1=I finished off the queen. They won't be attacking the farms anytime soon.
+
+[Quest_330]
+StartQuest1=If Sezak recognizes me, then I'm a puppet of Pandemonium.
+StartQuest2=I won't know until I meet him.
+Mission1_1=Losing the leaders of the Gnoll Legion will cripple Sezak.
+
+[Quest_331]
+StartQuest1=The vestibule—it's the cave that generates the Evil Energy!
+StartQuest2=Wait for me, Sezak. Please gods, don't let him recognize me...
+
+[Quest_403]
+Mission1_1=The corpses have been branded with strange marks.
+
+[Quest_406]
+Mission1_1=Is that a civilian campsite?
+
+[Quest_412]
+Mission1_1=May this holy water grant you peace...
+
+[Quest_416]
+StartQuest1=Lenavis, the last queen of Karol, who was slain unjustly...
+StartQuest2=I must stop her resurrection ritual!
+Mission1_1=Phew, I stopped the ritual just in time.
+Mission1_2=Lunedill will be happy to see me back, for the first time in forever!
+
+[Quest_425]
+StartQuest1=Have I awakened the ghosts of the Karol Knights?
+StartQuest2=Zakarian played me! Why?!
+
+[Quest_409]
+StartQuest1=They're just roaming around. I don't get it—what business could those angry ghosts have there?
+StartQuest2=There has to be some reason.
+Mission1_1=The ghosts are screaming Madri.
+Mission1_2=What does that mean?
+
+[Quest_413]
+StartQuest1=The mother of the dead Karol Knights...
+StartQuest2=Who the hell is she?
+
+[Quest_420]
+Mission1_1=They killed Samuel's sister as well as female followers.
+Mission1_2=Rest in peace...
+
+[Quest_422]
+StartQuest1=I pray the people of Karol and their queen will rest peacefully.
+
+[Quest_426]
+StartQuest1=Have I resurrected her?
+StartQuest2=I'll send her back from whence she came.
+
+[Quest_427]
+StartQuest1=Salormis, the cradle of the Tephakin Principality.
+StartQuest2=This'll be the final battle, and by the gods, it will be bloody!
+
+[Quest_502]
+StartQuest1=To stop the Tephakin Principality Army from losing...
+StartQuest2=I'll light the streetlamps and show the world that Kernel City still stands.
+Mission1_1=I pray that all Tephakinese see these lights, even from afar.
+
+[Quest_509]
+StartQuest1=Oh no! That titan could crush the entire Duelden Continent!
+StartQuest2=I must cut off its black mana supply.
+Mission1_1=It was absorbing black mana at a remarkable speed.
+Mission1_2=Now I've stopped the titan's resurrection.
+
+[Quest_511]
+StartQuest1=Orman, wait for me!
+StartQuest2=Maybe Flying Bugs will lead me to the campsite.
+Mission1_1=That must be the place. There are shattered pieces of wings from a fallen titan.
+
+[Quest_512]
+Mission1_1=Bah, Orman isn't here anymore.
+Mission1_2=What the... is that the entrance? That must be the excavation site.
+
+[Quest_513]
+StartQuest1=The Garudas have joined the Pandemonium Army.
+StartQuest2=If the entire Alliance has joined the enemy, then we're doomed.
+StartQuest3=I'd better check the Garuda messengers.
+Mission1_1=I knew I'd find some important documents.
+Mission1_2=I'll ask Icarus about them, he should be able to tell me what they're about.
+
+[Quest_518]
+StartQuest1=Right now, the Tephakin Principality Army must be fighting the main Garuda forces.
+StartQuest2=Better take care of the Gnoll Legion at the rear.
+Mission1_1=Now the Garudas have no one to back them up.
+Mission1_2=Hm? Who's that?
+
+[Quest_520]
+StartQuest1=Orman must be in the Sky Temple, too.
+StartQuest2=I must cut a path through the Garuda stragglers and join the Principality Army.
+Mission1_1=This is what happens when you get in my way.
+
+[Quest_526]
+StartQuest1=Bull! Winning a war isn't worth losing thousands of lives!
+
+[Quest_802]
+StartQuest1=The Dios stop, and suddenly everyone turns against you.
+
+[Quest_806]
+StartQuest1=If all Kanturians were as peaceful as Estesia,
+StartQuest2=they wouldn't have been attacked so viciously, with or without the Dios.
+Mission1_1=The place is becoming as warm as Estesia's heart.
+
+[Quest_808]
+Mission1_1=This should be enough food.
+
+[Quest_809]
+StartQuest1=I'll give you a slow and painful death.
+Mission1_1=You monsters! You killed innocent civilians!
+
+[Quest_810]
+StartQuest1=Doctor Marongo has a warm heart.
+Mission1_1=It's subtle, but I can tell the temperature is rising.
+
+[Quest_811]
+StartQuest1=Cold Stones, shaped to perfection.
+
+[Quest_901]
+StartQuest1=Well, knights need to eat too.
+Mission1_1=So their hounds have gone feral.
+
+[Quest_903]
+StartQuest1=A branch of the Lorencia army has set up shop in the Drapian territory.
+StartQuest2=No wonder why the Coalition and the Alliance don't get along.
+
+[Quest_905]
+StartQuest1=I'll deal with the heavily armored soldiers first.
+
+[Quest_908]
+StartQuest1=They've also been killed by the revenants. Better let Hopkins know.
+
+[Quest_909]
+StartQuest1=He's so immature, I feel sorry for those poor Devias Guards who have to put up with him.
+
+[Quest_911]
+Mission1_1=Even the repeaters are affected by the revenants.
+
+[Quest_913]
+CompleteQuest1=I heard that there's a path to the Sanguine Highlands nearby...
+
+[Quest_917]
+StartQuest1=Phew, the Nobility Alliance sure is a tough nut to crack.
+StartQuest2=Their commander is first on my kill list.
+Mission1_1=They won't dare mess with Devias for a while.
+
+[Quest_915]
+StartQuest1=I don't know if they deserted their barracks to run for their lives, or to their deaths.
+
+[Quest_1003]
+StartQuest1=Chaisong would be happy if he knew I helped the Drapians.
+
+[Quest_1006]
+StartQuest1=I'd better repair the fences and cull these mutants.
+
+[Quest_1008]
+Mission1_1=I'm late... they were all executed.
+
+[Quest_1009]
+CompleteQuest1=This must be Blood Ice Peak, the land of death.
+
+[Quest_1010]
+StartQuest1=Darn, a scout! I'll get in trouble if I lose them.
+StartQuest2=I better kill them before things spiral out of control!
+
+[Quest_1012]
+StartQuest1=What the... Oh no! They're absorbing blood from the ground to mutate themselves!
+
+[Quest_1102]
+StartQuest1=Those brutes even use animals to help fight their battles!
+Mission1_1=They won't threaten the outpost anymore.
+
+[Quest_1103]
+StartQuest1=Ah, I forgot to ask their shoe sizes.
+Mission1_1=I've got enough boots now.
+Mission2_1=This should be enough to feed the army at least once.
+
+[Quest_1107]
+StartQuest1=His wife'll be devastated. I can't tell her... no way!
+
+[Quest_1108]
+StartQuest1=Mandrake roots. I'm an herbalist now.
+
+[Quest_1109]
+StartQuest1=These must be failed test subjects.
+StartQuest2=They experimented even on people.
+
+[Quest_1112]
+StartQuest1=I hear something over there. Someone's crying.
+
+[Quest_1113]
+StartQuest1=Eagles are hard to catch...
+
+[Quest_1104]
+StartQuest1=These mutant spiders are worse than those I've seen in Enova.
+
+[Quest_1110]
+StartQuest1=Aha, finally we meet. Let's get this over with.
+
+[Quest_1205]
+StartQuest1=Where the hell did these ghosts come from? Do they have something to do with that pile of stones?
+StartQuest2=My gut tells me I should slay them and destroy that pile.
+MissionDeco2_1_1=I can't tear it down. It's not an ordinary pile of stones.
+
+[Quest_1208]
+StartQuest1=Are these the knights of Pandemonium? They're determined to isolate Dracanem.
+
+[Quest_1211]
+StartQuest1=Hmm, what can I find in this frozen land that's edible?
+
+[Quest_1212]
+StartQuest1=Frog Beasts... used to eat them a lot when I was in Enova.
+
+[Quest_1303]
+StartQuest1=Wow... Even flowers have been mutated.
+
+[Quest_1304]
+StartQuest1=What are these beasts? Gremlins' pets? They need to be put down.
+
+[Quest_1308]
+StartQuest1=Is he their leader? I'll deal with him before he hurts anyone else.
+
+[Quest_1314]
+CompleteQuest1=This should be enough to slow the proliferation.
+
+[Quest_5101]
+StartQuest1=So this crystal from Ormanhas created dragons...
+StartQuest2=I should go to Kundun and get to the bottom of this.
+
+[Quest_5103]
+StartQuest1=I'm about to set foot in Line Alliance territory.
+StartQuest2=Why are Heraus and Line so angry at each other?
+
+[Quest_5104]
+StartQuest1=Dragons have appeared...
+StartQuest2=Neria's Tears also exist here.
+
+[Quest_5105]
+StartQuest1=They're closing in on Qwyinan.
+Mission1_1=This should do.
+
+[Quest_5106]
+StartQuest1=They tried to build a defensive line across the plain.
+StartQuest2=The dragons have come this far, which means...
+StartQuest3=Their defense line has been penetrated. This doesn't bode well.
+
+[Quest_5107]
+StartQuest1=The Line Alliance worships Bulcan, the god of war.
+StartQuest2=Could these flags blessed by Bulcan really increase the air temperature?
+Mission1_1=The temperature's rising.
+Mission1_2=Bulcan's blessing…
+Mission1_3=I guess it works just like Rugard's holy water.
+
+[Quest_5108]
+StartQuest1=Kundun was right. the Mission has invaded Drapia.
+StartQuest2=But what does the Mission intend to do with a frozen land such as this one?
+
+[Quest_5109]
+StartQuest1=What's the Dark Mission up to this time?
+Mission1_1=I couldn't uncover their true purpose, no matter how much I looked.
+Mission2_1=They're too weak. And there are more researchers than soldiers here.
+
+[Quest_5110]
+StartQuest1=Now I know what the Mission is up to.
+StartQuest2=The Mission is collecting Tears to rain devastation upon all the states of the kingdom!
+StartQuest3=And Dracans Knight Master Chaisong was in on this.
+
+[Quest_5111]
+StartQuest1=Chaisong must have bribed Chakua.
+StartQuest2=He's trying to keep the Dracans Knights tied up here.
+Mission1_1=This gold coin is from Drapia, just as I expected.
+
+[Quest_5112]
+StartQuest1=Chaisong ran off to the deployment camp. I'd better catch up with him.
+StartQuest2=I'll just have to go through the Chakua encampment.
+Mission1_1=Their security is tighter than I thought.
+Mission2_1=So he was the commander.
+
+[Quest_5113]
+StartQuest1=Neria's Tears are in the Closed Waterway.
+StartQuest2=Better hurry if I want to catch up with him.
+
+[Quest_5114]
+StartQuest1=I'm on his trail now. I must stop him before he gets to Neria's Tears.
+
+[Quest_5117]
+StartQuest1=I don't think they're trying to reanimate the dead like they were last time.
+
+[Quest_5118]
+StartQuest1=He's risked treason charges to lure the ringleader of the Mission here.
+StartQuest2=Chaisong, he's no ordinary man.
+StartQuest3=Phew, I pray the ringleader of the Mission took the bait.
+Mission1_1=Where could Neria's Tears possibly be?
+
+[Quest_5131]
+StartQuest1=They're a highly advanced civilization, like Chaisong said.
+StartQuest2=Why did the battle machines stop?
+Mission1_1=Without their battle machines, they can't even keep wild animals at bay.
+
+[Quest_5132]
+StartQuest1=This isn't good. They rely on Dios for everything.
+
+[Quest_5133]
+StartQuest1=These repeaters supply Pectra to the entirety of Musai.
+Mission1_1=Bah, the Dios aren't working.
+
+[Quest_5134]
+StartQuest1=They've been attacking from all sides since the Dios stopped.
+StartQuest2=Maybe the chief can tell me more about their situation.
+Mission1_1=This should be enough to keep a path open.
+
+[Quest_5135]
+StartQuest1=They've oppressed neighboring races with their superior strength.
+StartQuest2=Is helping them really the right thing to do?
+Mission1_1=They wouldn't dare attack First Town again.
+
+[Quest_5136]
+StartQuest1=The Drapia Kingdom wants Kanturu?
+StartQuest2=I can't believe Chaisong would do such a thing, but I won't know the truth until I investigate it myself.
+
+[Quest_5137]
+StartQuest1=I knew it wasn't Drapia that invaded Kanturu.
+StartQuest2=Is Datans trying to steal Pectra while the Dios are out of order?
+Mission1_1=This is what you get for setting fire to Southern Town!
+Mission2_1=Why did they abduct the Kanturian scientist?
+
+[Quest_5138]
+StartQuest1=Oh, I really hope the Dios turn back on this time.
+Mission1_1=Bah, the Dios still aren't moving.
+
+[Quest_5139]
+StartQuest1=Things just keep getting worse and worse.
+StartQuest2=I still haven't found Marongo, the abducted scientist...
+
+[Quest_5140]
+StartQuest1=The Kanturians stole this land from the Golems.
+StartQuest2=Maybe this is karma.
+Mission4_1=These are magnetic bombs, and there are enough here to do away with an entire state.
+Mission4_2=They're not trying to stop Dio—they're trying to destroy Western Town!
+MissionDeco4_1_1=I must have touched something I shouldn't.
+
+[Quest_5141]
+StartQuest1=Marongo—he stopped the Dios!
+
+[Quest_5142]
+StartQuest1=I'll just have to reset the reactor.
+StartQuest2=The Dios must be activated, or else Musai will fall!
+Mission1_1=An autonomous Dio is protecting the fusion reactor... This won't be easy...
+
+[Quest_5146]
+StartQuest1=What on earth happened while I was gone?
+
+[Quest_5147]
+StartQuest1=Datans, I'll never forgive you!
+
+[Quest_5151]
+StartQuest1=Does this mean the Lorencia Kingdom's own Devias Knights hired Woongpam?
+StartQuest2=I've got only five days to stop Drapia from collapsing.
+
+[Quest_5152]
+StartQuest1=A Coalition army, in Line Alliance territory...
+StartQuest2=It's amazing a war hasn't broken out yet.
+Mission1_1=Is Devias really in league with Woongpam?
+
+[Quest_5153]
+StartQuest1=I don't think Devias Knight Master Muren is lying to me.
+Mission1_1=Bah, these officers don't know anything useful.
+Mission2_1=All this information is useless. Maybe the Nobility Alliance has nothing to do with it.
+
+[Quest_5154]
+StartQuest1=Who could possibly wipe out Devias scouts? Well, better go find out.
+Mission1_1=They've even mobilized cannons. They're determined to keep the Devias members here.
+
+[Quest_5156]
+StartQuest1=The revenants killed everyone!
+StartQuest2=I've got to stop them before they begin appearing everywhere.
+StartQuest3=The Mission's doing just what they did in Karolsandria!
+
+[Quest_5157]
+StartQuest1=I must stop the revenants' ritual!
+Mission1_1=The ritual's almost over.
+Mission1_2=I don't know if I stopped their resurrection or not.
+
+[Quest_5158]
+StartQuest1=I'd better go back and tell Muren about the revenants
+StartQuest2=and that their emperor might be among them.
+Mission1_1=The Nobility Alliance has mobilized trebuchets, too. They're determined to keep the Deviases busy.
+
+[Quest_5159]
+StartQuest1=When the revenants come out of the royal tomb, it'll be only a matter of time before the entire continent is overrun with them.
+
+[Quest_5160]
+StartQuest1=That was reckless. No one could've survived that.
+StartQuest2=That goddamned Mission!
+Mission1_1=I think I've got enough drinking water now.
+
+[Quest_5161]
+StartQuest1=Phew, First it was Queen Lenavis, and now it's Emperor Zelos.
+StartQuest2=I must appease the revenants before they come out of the tomb.
+Mission1_1=Phew, he was tougher than Queen Lenavis.
+
+[Quest_5162]
+Mission1_1=It was a diversion, to protect whatever they're scheming at in Sanguine Highlands.
+
+[//Quest_5162]
+Mission1_2=What are they up to?
+
+[Quest_5163]
+StartQuest1=What if the Dark Mission has reached this far? Oh, no...
+Mission1_1=They've been resurrected by black magic.
+Mission1_2=I knew the Mission was behind this!
+Mission3_1=Where the hell are the scouts?
+Mission3_2=Should I check there?
+
+[Quest_5171]
+StartQuest1=These bears seem to be frozen, yet they still move.
+
+[Quest_5172]
+StartQuest1=This is their leader? Time to die!
+Mission1_1=Those people... They look familiar.
+
+[Quest_5173]
+StartQuest1=Two hundred years ago, a bloody war was fought between Pandemonium and this realm,
+StartQuest2=and the battlefield is still soaked in blood.
+Mission1_1=Bah, the pentacle is restored, but it's not yet strong enough to absorb the blood.
+
+[Quest_5174]
+StartQuest1=It wasn't the Mission, but the Tephakin Army? But why?
+
+[Quest_5175]
+StartQuest1=The private army of Khali, heir of the Principality...
+StartQuest2=What on earth are they planning here?
+Mission1_1=The Dark Mission! Why are they here, at this Tephakin Army encampment?
+
+[Quest_5177]
+StartQuest1=What a fool! He was so focused on revenge, he couldn't see that the Nobility Alliance was using him!
+StartQuest2=It was the Nobility Alliance who hired Woongpam to steal Pectra!
+StartQuest3=Phew, better hurry. The Blood Mutants are attacking.
+Mission1_1=Damn it, they were killed by those Blood Mutants.
+Mission2_1=They killed an entire unit of scouts.
+
+[Quest_5178]
+StartQuest1=They're in denial. The remaining two places can't be safe either.
+Mission1_1=Damn! They also got the observer unit. Is he the only survivor?
+
+[Quest_5179]
+StartQuest1=I'd better send carrier pigeons to the Tephakin Principality for help.
+StartQuest2=I pray the signal corps is safe...
+Mission1_1=Damn it, even the signal corps was wiped out. Cursed Nobility Alliance!
+Mission3_1=They even killed the carrier pigeons... Now the Tephakin Principality is completely cut off from the rest of the world.
+
+[Quest_5180]
+StartQuest1=I didn't see this coming. Great, now I've wasted precious time running around Wallkreiger.
+StartQuest2=They must be busy playing with Pectra by now.
+Mission1_1=A path is secured. Better get to the supply camp as soon as possible.
+
+[Quest_5181]
+StartQuest1=It was the army of Marquis Heston, of the Nobility Alliance.
+StartQuest2=He has the Pectra wand.
+Mission1_1=He doesn't have the Pectra wand!
+Mission1_2=Wh-what is this place?
+
+[Quest_5182]
+Mission1_1=The Nobility Alliance has handed the Crystal Cave over to Pandemonium. Why?
+Mission1_2=Better ask Chaisong.
+
+[Quest_5191]
+StartQuest1=I'll have to go to the Mining Gorge where the Crystal Cave is.
+StartQuest2=I only have three days left until the deadline the Kanturians gave me.
+Mission1_1=I'd better hurry. I've got only three days left until the deadline Kanturians gave me.
+Mission2_1=No time to waste, I have to get to the Devias encampment.
+Mission2_2=Muren might know why the Nobility Alliance handed the Crystal Cave over to Pandemonium.
+
+[Quest_5192]
+StartQuest1=The Nobility Alliance is just assisting the Pandemonium Army.
+
+[Quest_5193]
+StartQuest1=I couldn't find any clues. It's time to talk to their intelligence officers.
+Mission1_1=I've found something! It's a letter.
+
+[Quest_5194]
+StartQuest1=What're they trying to do with these captured test subjects?
+Mission1_1=Are these abominations test subjects?
+Mission2_1=The test subjects are being transported somewhere. Not if I can help it!
+
+[Quest_5195]
+Mission1_1=They were heading northeast, to the Mining Association I guess.
+
+[Quest_5196]
+StartQuest1=I need to stop them. I know, I'll get rid of their horses and carriages.
+Mission2_1=Killing innocent horses... What have I done?
+
+[Quest_5197]
+StartQuest1=They've sent a request to the Nobility Alliance for backup.
+CompleteQuest1=Now, what should I do with you?
+
+[Quest_5198]
+StartQuest1=Woongpam, the leader of the Datanses, has come to the Crystal Cave.
+
+[Quest_5199]
+StartQuest1=I'll know if I investigate their weapons.
+Mission1_1=All these weapons were made in Pandemonium. They're in league with each other.
+
+[Quest_5200]
+StartQuest1=Well, good for you and whatever crazy schemes you've got going on.
+StartQuest2=OK, I need to get more information from the undercover Dracans Knight at Datans camp.
+Mission1_1=Where the hell is the undercover Dracans Knight?
+
+[Quest_5201]
+StartQuest1=Pandemonium's brigade commander is guarding the place himself.
+StartQuest2=They're using the test subjects for something terrible.
+Mission1_1=I took care of him. Now, where's the lab?
+
+[Quest_5207]
+Mission1_1=Woongpam... He injected Pectra into the Tarsk and mutated it!
+
+[Quest_5210]
+StartQuest1=I know—I'll use the Inter-Area Portal Stone, that'll get me to the Devias outpost in the Mining Gorge.
+StartQuest2=The Sanctum of the Elders isn't far from there.
+
+[Quest_5211]
+StartQuest1=Thrashers! Better get rid of them before they become a nuisance.
+Mission1_1=Better hurry. I've got only two days until the deadline the Kanturians gave me.
+
+[Quest_5212]
+StartQuest1=He wants to warn the Elders of the Pandemonium Army's scheme to inject its soldiers with Pectra.
+StartQuest2=I must fight my way through the Chakuas and meet Chaisong.
+Mission1_1=Cowards! How dare you hurt innocent civilians!
+
+[Quest_5213]
+StartQuest1=I'd better find the nomads before they get hurt.
+
+[Quest_5214]
+StartQuest1=The nomads aren't here.
+StartQuest2=No, I can't allow the Chakuas' stronghold to stay standing.
+Mission1_1=The nomads, where are they?
+
+[Quest_5215]
+StartQuest1=They've bribed the Chakuas, just to mess with Chaisong.
+StartQuest2=Better rescue the abducted nomads first.
+
+[Quest_5216]
+StartQuest1=That damned Chakua tricked me! He lured me into a camp full of his own kind!
+StartQuest2=Hahaha, you fools. I could slay you all without breaking a sweat.
+
+[Quest_5217]
+StartQuest1=Hm? Is that a lodge up on that hill?
+
+[Quest_5218]
+StartQuest1=They've been kept here. I'm glad they're all alive.
+Mission1_1=Oh, their bodies must be numb after being tied up for so long.
+
+[Quest_5219]
+StartQuest1=Where the Silver Sparrowhawk Camp is? OK, let's go save them!
+
+[Quest_5220]
+StartQuest1=The Keru Legion emerged from the Evil Energy... I wasn't expecting that! Its members are more skilled than I thought.
+StartQuest2=But who? ...The Silver Sparrowhawks! I can't believe they fooled me!
+
+[Quest_5221]
+StartQuest1=I've wasted too much time already. Time to get moving to Dracanem.
+StartQuest2=I must get to Chaisong before the Pandemonium Army gets its Pectra boost.
+Mission1_1=Good, I've neutralized the Kerus' defense line. Soon Dracanem will be in sight.
+Mission1_2=They must be their commanders.
+
+[Quest_5222]
+StartQuest1=Hmm, I don't know if I can persuade the Elders...
+
+[Quest_5231]
+Mission1_1=Ugh, remains of Dracanses everywhere!
+
+[Quest_5223]
+StartQuest1=Those scoundrels, they've invaded Dracanem to stop the Coalition and the Alliance from working together.
+Mission3_1=This should be enough to convince the Elders.
+
+[Quest_5224]
+StartQuest1=Finally the Coalition and the Alliance can work together.
+StartQuest2=Better let Muren know.
+Mission1_1=Is that the Devias encampment?
+Mission1_2=Muren will jump for joy when he finds out the joint operation has been approved.
+
+[Quest_5225]
+StartQuest1=It'll take too long for the two armies to join each other.
+StartQuest2=I've got to infiltrate the prison camp before the amplifier is completed.
+
+[Quest_5226]
+StartQuest1=More wardens have escaped.
+Mission2_1=No... they're all dead. The enemy's 17th Special Forces Group did this!
+
+[Quest_5227]
+StartQuest1=Bah, I've wasted too much time already.
+StartQuest2=If the prisoners are injected with Pectra, it'll be the end of Drapia.
+StartQuest3=I must destroy the amplifier before that happens.
+
+[Quest_5228]
+StartQuest1=Damn! The leader of the prisoners is blocking the way to the amplifier.
+
+[Quest_5233]
+Mission1_1=That's what happens to those who covet Pectra.
+Mission1_2=Finally I've got the Pectra wand back!
+
+[Quest_5235]
+StartQuest1=Are those Dracans Warriors?
+
+[Quest_5236]
+StartQuest1=I have to find a Pectra amplifier to mutate prisoners.
+
+[Quest_5240]
+StartQuest1=Damn it, they didn't steal just one wand—they stole two!
+StartQuest2=The Prison Camp was just a decoy!
+Mission1_1=Ah, this must be the War Shelter.
+
+[Quest_5241]
+StartQuest1=First, I need to assess the severity of the Pandemonic changes in this area.
+Mission1_1=Oh no! The plants... everything on the land is changing rapidly.
+Mission2_1=This is not good, things are changing too quickly. Just a matter of time before this spreads across the entire continent.
+Mission3_1=Those thugs, what are they trying to do with the other wand?
+
+[Quest_5242]
+StartQuest1=Whoa, what's that giant monster? Even creatures are going through Pandemonic changes!
+Mission1_1=Better go to the Union Headquarters.
+Mission1_2=Both Chaisong and Muren should be there.
+
+[Quest_5243]
+StartQuest1=They've grown so big, they look like they're going to explode soon!
+
+[Quest_5244]
+StartQuest1=They're using the other wand to build Evil Energy tunnels.
+
+[Quest_5245]
+StartQuest1=If I follow the Pandemonic energy, it'll lead me to Evil Energy tunnels.
+StartQuest2=Where can I find scorpion oil?
+Mission1_1=This should be enough.
+
+[Quest_5246]
+StartQuest1=I'm machine illiterate...
+Mission1_1=Yes! It's working!
+
+[Quest_5247]
+StartQuest1=An Evil Energy tunnel is being built in one of the two places.
+StartQuest2=I'll rescue the Kanturian's daughter first.
+Mission1_1=Bah, those goddamn Gremlins!
+
+[Quest_5248]
+StartQuest1=My condolences, Kanturian hermit. I'll avenge her death.
+
+[Quest_5249]
+StartQuest1=I got fooled again. I'll have to find their commander on my own.
+Mission1_1=The woman you killed was the daughter of Wake, a Kanturian.
+Mission1_2=Time to go. Muren and Chaisong must be waiting impatiently...
+
+[Quest_5250]
+StartQuest1=I've no choice. I can't let the Tears fall into the hands of those Pandemonium scoundrels.
+
+[Quest_5251]
+StartQuest1=An adopted Human daughter... This will require some... adjustment.
+Mission1_1=Damn it! They beat me to it.
+
+[Quest_5252]
+Mission1_1=Be careful... Oh, that's a good boy!
+Mission2_1=I avenged his mother's death, but the rage still lingers on.
+Mission2_2=I grow tired of this war.
+
+[Quest_5253]
+StartQuest1=Soon the ward of Neria's Tears will perish.
+StartQuest2=I have to get Neria's Tears before the Pandemonium Army.
+
+[Quest_5255]
+Mission1_1=What... The wounded...
+
+[Quest_5256]
+StartQuest1=I really need to meet up with the Union,
+StartQuest2=but I just can't ignore these people.
+
+[Quest_5257]
+StartQuest1=OK, better hurry and catch up with the Union.
+StartQuest2=The Evil Energy tunnel will be completed soon.
+
+[Quest_5258]
+StartQuest1=Oh, what's that gigantic thing?
+
+[Quest_5259]
+StartQuest1=It's a massive cannon, and it's aimed north, at the Union.
+Mission1_1=I hope I destroyed that massive cannon in time, before it damaged the Union.
+
+[Quest_5260]
+Mission1_1=Those men over there. Are they the Dracans Knights?
+
+[Quest_5261]
+StartQuest1=So this is what Kelbra wanted Neria's Tears for, right from the beginning.
+StartQuest2=I have to stop the Ice Dragon's resurrection, or it'll be the end of the Union.
+Mission1_1=Wow, I've never seen so many dragons in one place. The power of Neria's Tears is unfathomable.
+MissionDeco2_1_1=I stopped the Ice Dragon from resurrecting, but its spirit got through! It flew to the southwest.
+MissionDeco2_1_2=Looks like I've got some loose ends to tie up.
+
+[Quest_5270]
+StartQuest1=If the Silverfel Knights join us, there's still hope!
+
+[Quest_5262]
+StartQuest1=Kundun... Have I misjudged him?
+Mission1_1=I don't get it, why would Kundun want these skulls?
+
+[Quest_5271]
+StartQuest1=Bah, the Silverfel Knights aren't coming. I'll have to meet up with the Union by myself.
+StartQuest2=I hope the damage isn't too severe...
+
+[Quest_5263]
+StartQuest1=We don't have enough soldiers left. We've lost so many...
+
+[//Quest_5264]
+Mission1_1=What's that? Strange Slaughterer? Seriously?
+
+[Quest_5264]
+Mission1_1=Let's get going. Four of us should be enough.
+
+[Quest_5266]
+StartQuest1=He's the commander of the Pandemonium Army in Litenberg.
+StartQuest2=He must be guarding the Evil Energy tunnel.
+CompleteQuest1=Now, all that's left is to destroy the Evil Energy tunnel.
+
+[Quest_601]
+StartQuest1=Even the members of city garrisons are being drafted.
+StartQuest2=The situation must be critical.
+
+[Quest_602]
+StartQuest1=The Warriors must be the name of its regular army.
+Mission1_1=They wouldn't dare attack Qwyinan again, at least for a while.
+
+[Quest_603]
+StartQuest1=The Medians...
+
+[Quest_604]
+StartQuest1=They're rather bold.
+
+[Quest_605]
+StartQuest1=Two opposing states on one continent...
+StartQuest2=I'm amazed both still stand.
+
+[Quest_606]
+StartQuest1=This base won't last long.
+Mission1_1=There are so many, I've lost count.
+Mission2_1=The Mission has occupied the north.
+
+[Quest_607]
+StartQuest1=Dragons showed up when the fire in the brazier was extinguished...
+StartQuest2=This doesn't add up. I thought dragons were conceived from Neria's Tears.
+
+[Quest_608]
+StartQuest1=Everywhere I go, there are people brainwashed by the Mission.
+Mission1_1=They left nothing but their scales behind.
+Mission1_2=They were fools, yes, but I do pity them.
+
+[Quest_609]
+StartQuest1=Why haven't they left yet?
+Mission1_1=I didn't properly secure my retreat route, and that's on me.
+
+[Quest_610]
+StartQuest1=A Lorencian shepherd in Drapia…
+StartQuest2=Sheesh! The stars must have been misaligned on the day he was born!
+
+[Quest_611]
+StartQuest1=Priest Mannu is a good man.
+Mission1_1=They won't dare show up near the breeding camp again.
+
+[Quest_612]
+StartQuest1=Please don't die...
+
+[Quest_613]
+StartQuest1=It seems they only respond to force.
+Mission1_1=Eliminated an advance party of Chakuas.
+Mission2_1=Eliminated the second advance party of Chakuas.
+
+[Quest_614]
+StartQuest1=They're attacking from both the north and the south.
+Mission1_1=These are pretty heavy.
+
+[Quest_615]
+StartQuest1=It's time to burn things down.
+Mission1_1=The Chakuas will have to starve from now on.
+
+[Quest_616]
+StartQuest1=I feel like I've been set up.
+Mission1_1=This doesn't look tempting.
+Mission2_1=I've got enough meat from the small ones.
+
+[Quest_617]
+StartQuest1=I can't believe we've crossed paths again.
+
+[Quest_618]
+StartQuest1=I've got to stop them before more Evil Energy tunnels open.
+Mission1_1=They're weak, for mutants.
+
+[Quest_619]
+StartQuest1=The Mission must be behind this.
+Mission1_1=I knew the Mission was behind this, but why?
+
+[Quest_620]
+StartQuest1=I have to do this, for my loved ones.
+Mission1_1=Does this strange substance really have medicinal benefits?
+
+[Quest_621]
+StartQuest1=They can smell money from miles away.
+Mission1_1=What good does revenge do now?
+Mission1_2=
+Mission2_1=
+Mission3_1=
+Mission4_1=Rest in peace, child.
+Mission4_2=
+
+[Quest_8102]
+Mission1_1=He's not here, either. Mukler, you'd better wish I can't find you.
+
+[Quest_208]
+MissionDeco1_1_1=Dumpain Kerka is the law and the truth.
+MissionDeco2_1_1=Those who plot against Ohrdor will be exiled.
+
+[Quest_209]
+MissionDeco1_1_1=This is heavy. How important can it be?
+
+[Quest_210]
+MissionDeco1_1_1=My storage service is so popular, everyone on the continent wants it!
+MissionDeco2_1_1=You came at the right time. I've got some potions I need to deliver to the Enova Continent.
+MissionDeco3_1_1=It's time my great armor sees the world.
+
+[Quest_211]
+MissionDeco1_1_1=Where on earth is Kundun?
+MissionDeco2_1_1=Is there any lucrative job I can take on?
+MissionDeco3_1_1=Soon Ohrdor will be covered in darkness.
+
+[Quest_222]
+MissionDeco1_1_1=Hey, you didn't open this fruit box, did you?
+MissionDeco1_2_1=What's in that box? It looks suspicious.
+
+[Quest_325]
+MissionDeco1_2_1=We must get rid of the Gnolls!
+MissionDeco1_3_1=We're here, and it's all thanks to you, Knight!
+
+[//Quest_424]
+MissionDeco1_1_1=I really want to find the treasure.
+MissionDeco1_2_1=Thank you for bringing me here safely.
+MissionDeco2_1_1=Please cover me while I look for the treasure!
+MissionDeco2_1_2=Please protect me from the monsters!
+
+[Quest_528]
+MissionDeco1_1_1=Knight, let's go!
+MissionDeco1_2_1=I'm here, and it's all thanks to you, Knight!
+MissionDeco1_2_2=Thank you! You deserve to be called Tephakin's Light.
+
+[Quest_918]
+MissionDeco2_1_1=Knight... Please... take me... ugh... to my... unit...
+MissionDeco2_1_2=The Devias Knights should be... able to get them... out of... here... safe... Ugh...
+MissionDeco2_2_1=Th-thank you... But I don't think... I... *Cough*
+MissionDeco2_3_1=Darn it! I'm late. I'd better tell my brother.
+
+[Quest_1213]
+MissionDeco1_1_1=Watch for the freed captives!
+MissionDeco1_2_1=Let's keep going!
+MissionDeco2_1_1=I'm glad I have such a strong knight like you with me.
+MissionDeco2_2_1=Thank you. My late comrades will also thank you from Heaven.
+
+[Quest_1316]
+MissionDeco1_1_1=Off we go to collect the Pandemonic Energy!
+MissionDeco1_2_1=Thank you for keeping me safe. How'd you like to become my assistant?
+
+[Quest_10724]
+StartQuest1=They severed the routes in preparation for the Pandemonium invasion...
+StartQuest2=I must reconnect the routes using Rugard Holy Stone.
+
+[Quest_10735]
+GreetingQuest1=(This energy is powerful, but I can't have it.)
+GreetingQuest2=(Is it impossible to get the power I need to fight the Demon God?)
+
+[Quest_1406]
+Mission2_1=Is he already infected? I'm sorry, Jansen...
+Mission2_2=Hm, what are those structures? They look suspicious.
+
+[Quest_1000001]
+MissionDeco1_2_1=They're coming!!
+MissionDeco1_3_1=There's more. Another wave incoming!!
+MissionDeco1_4_1=Phew, what a relief. All thanks to you.
+
+[Quest_1000002]
+MissionDeco1_2_1=The monsters are here!
+MissionDeco1_2_2=We have to be careful of them when moving!
+MissionDeco1_3_1=Phew, we arrived safely. We are saved!
+
+[Quest_1000003]
+MissionDeco1_2_1=The monsters are here!
+MissionDeco1_2_2=We have to be careful of them when moving!
+MissionDeco1_3_1=Phew, we arrived safely. All thanks to you.
+
+[Quest_1000004]
+MissionDeco1_1_1=There's no use hiding. Show yourself!!
+MissionDeco1_3_1=Is there more?!
+Mission1_1=We barely defeated them.
+
+[Quest_1000005]
+MissionDeco1_1_1=We just need to disarm the bomb, over there!
+MissionDeco1_2_1=I failed...
+MissionDeco1_3_1=It's disarmed...
+MissionDeco1_4_1=What the...!!
+Mission1_1=This should be enough.
+
+[Quest_1000011]
+StartQuest1=So this place, Dudrin, is a dominion of the Lorencia Kingdom.
+Mission1_1=What the hell does the Lorencia Kingdom Army actually do?
+
+[Quest_1000012]
+StartQuest1=So this place, Dudrin, is a dominion of the Lorencia Kingdom.
+Mission1_1=What the hell does the Lorencia Kingdom Army actually do?
+
+[Quest_9599]
+StartQuest1=Wait, is that... a Rift? Who the hell created it?
+StartQuest2=Ah! I'm sure the Rift Research Society will know something about this.
+
+[Quest_127]
+MissionDeco1_1_1=There's nothing but impure iron here. I want newk.
+
+[Quest_313]
+MissionDeco2_1_1=There's nothing but dirt and sand here.
+
+[Quest_5431]
+StartQuest1=These stowaways probably won't talk unless they get a good beating.
+Mission1_1=That should draw their attention. Even the chief won't be able to ignore that.
+
+[Quest_5433]
+Mission1_1=That smuggler really is wrecked.
+Mission1_2=Maybe I can weave these plant stalks into something and fix it with it.
+Mission3_1=Darn it. I can't. They aren't enough to repair the damage.
+Mission3_2=Hm? Is that... an elf?
+
+[Quest_5434]
+StartQuest1=I'd better rescue the farmers first.
+Mission2_1=...Are they all dead?
+Mission2_2=Frog Beasts did this. Goblins must have let them loose.
+Mission3_1=I hope the farm is safe. I'd better hurry.
+
+[Quest_5435]
+StartQuest1=Pillaging in the ravages of war? You bastards!
+Mission2_1=Now that their commander is dead, the rest will scatter naturally.
+Mission3_1=You shouldn't covet what others possess.
+
+[Quest_5436]
+StartQuest1=I must repair the stone launcher, and get to the national border.
+Mission1_1=I'd better head out to the national border post now. I've been here too long.
+
+[Quest_5437]
+Mission2_1=Oh, no! How can the queen's guards butcher civilians?
+Mission3_1=We're running out of time. I'm sorry, I can only give you a ride in this way.
+Mission4_1=Even the Ashas Army failed. Those corpses, if left unburied, spread diseases.
+Mission5_1=Those Dark Shadows... They can't be left alone.
+
+[Quest_5438]
+Mission2_1=This is for hurting the civilians.
+Mission3_1=Is this the fortress of the Ashases?
+
+[Quest_5439]
+StartQuest1=Was the interruption during the Ashas Priests' telepathic communications the cause of the butchery?
+StartQuest2=I'd better get to the Communion Shrine.
+
+[Quest_5440]
+StartQuest1=The Ashas archpriest is meeting with the elven knight commander. I hope there will be good news.
+StartQuest2=Sigh, by the way, I still haven't found out where that girl is.
+
+[Quest_5442]
+StartQuest1=Slave merchants. The Dark Shadows are a despicable lot.
+Mission1_1=Dantarexes? I'd better take care of these first.
+Mission2_1=Where are the abducted villagers?
+
+[Quest_5443]
+StartQuest1=I'll see you can never trade people again.
+Mission1_1=I think I've got enough fire arrows. Now, where's the ship?
+Mission2_1=It's burning well. Alright, I'd better return to the Holy Bunker now.
+Mission2_2=I wonder if those two have found that blue-skinned girl.
+
+[Quest_5444]
+StartQuest1=She waged war just to steal that blue gemstone. You mean, that little girl did?
+StartQuest2=What is that gemstone, and who's this girl?
+StartQuest3=I'd better go to the Ancient Castle of the Pioneers. I'll know everything if I catch that girl.
+
+[Quest_5447]
+Mission2_1=The Dark Shadows are making them pay for destroying their Sapientia Temple.
+
+[Quest_5449]
+Mission2_1=This is the Dark Mission's black magic. But... how?
+
