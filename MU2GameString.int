@@ -1836,7 +1836,7 @@ TournamentTooltip_12=<font size='17' color='#FDC243'>4th Preliminary Dispatch Pe
 TournamentTooltip_13=<font size='17' color='#FDC243'>4th Preliminaries in Progress</font><br><font size='14'>The 4th preliminary matches are in progress. These matches last for up to 10 minutes.</font>
 TournamentTooltip_14=<font size='17' color='#FDC243'>Final Dispatch Period</font><br><font size='14'>Those who are in the final round can now be dispatched for their matches. Dispatch the team before your match begins!</font>
 TournamentTooltip_15=<font size='17' color='#FDC243'>Finals in Progress</font><br><font size='14'>The final matches are in progress. These matches last for up to 20 minutes.</font>
-TournamentTooltip_16=<font size='17' color='#FDC243'>The Tournament is in progress.16</font><br><font size='14'>The Tournament is in progress.</font>
+TournamentTooltip_16=<font size='17' color='#FDC243'>The Tournament is in progress.</font><br><font size='14'>The Tournament is in progress.</font>
 TournamentTooltipControl=: Open Tournament Help
 
 [MissionMap]

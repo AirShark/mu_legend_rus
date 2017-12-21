@@ -213,8 +213,8 @@ LS_AncientAmpStone=Древний Intensification Stone
 LS_HeroAmpStoneTooltip=Героические Intensification Stones могут быть intensifying Тип 1 Transcendent Stones.
 LS_LegendAmpStoneTooltip=Легендарные Intensification Stones могут быть intensifying Тип 2 Transcendent Stones.
 LS_AncientAmpStoneTooltip=Древние Intensification Stones могут быть intensifying Тип 3 Transcendent Stones.
-LS_Hour=Час
-LS_Minute=Мин
+LS_Hour=h
+LS_Minute=m
 LS_ProductButtonLabel=Создать
 LS_CancleButtonLabel=Отменить
 
